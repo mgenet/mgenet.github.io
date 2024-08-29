@@ -1,0 +1,13 @@
+---
+title: "News"
+title-block-banner: true
+page-layout: full
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: true
+---

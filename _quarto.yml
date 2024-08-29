@@ -1,0 +1,37 @@
+project:
+  type: website
+  preview:
+    port: 4444
+
+website:
+  title: "Martin Genet, Professor @ École Polytechnique"
+  description: "Martin Genet, Professor @ École Polytechnique"
+  site-url: https://mgenet.github.io
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - news.qmd
+      - text: "{{< iconify academicons:hal width=17 title=HAL >}}"
+        href: https://cv.hal.science/martin-genet
+      - text: "{{< iconify academicons:orcid width=17 title=ORCID >}}"
+        href: https://orcid.org/0000-0003-2204-201X
+      - text: "{{< iconify academicons:google-scholar width=17 title='Google Scholar' >}}"
+        href: https://scholar.google.com/citations?user=xOouJREAAAAJ
+      - text: "{{< iconify academicons:clarivate width=17 title='Web of Science' >}}"
+        href: https://www.webofscience.com/wos/author/record/H-4247-2015
+      - text: "{{< iconify academicons:scopus width=17 title='Scopus' >}}"
+        href: https://www.scopus.com/authid/detail.uri?authorId=24604950600
+      - text: "{{< iconify simple-icons:linkedin width=17 title=LinkedIn >}}"
+        href: https://www.linkedin.com/in/martin-genet/
+      - text: "{{< iconify simple-icons:gitlab width=17 title=GitHub >}}"
+        href: https://gitlab.inria.fr/mgenet
+      - text: "{{< iconify simple-icons:github width=17 title=GitHub >}}"
+        href: https://github.com/mgenet
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
