@@ -9,7 +9,487 @@
 <link>https://mgenet.github.io/news.html</link>
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
-<generator>quarto-1.5.56</generator>
-<lastBuildDate>Thu, 29 Aug 2024 12:07:08 GMT</lastBuildDate>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Fri, 26 Jul 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Nouvel article sur les jumeaux numériques dans Les Échos</title>
+  <link>https://mgenet.github.io/posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Je viens de publier un article sur les jumeaux numériques en santé dans Les Échos: <a href="https://www.lesechos.fr/idees-debats/editos-analyses/jumeaux-numeriques-la-modelisation-dorganes-espoir-de-la-medecine-2110146">https://www.lesechos.fr/idees-debats/editos-analyses/jumeaux-numeriques-la-modelisation-dorganes-espoir-de-la-medecine-2110146</a> (le texte complet est disponible ici: <a href="https://sdrive.cnrs.fr/s/H8aaHJoQgjiee6H">https://sdrive.cnrs.fr/s/H8aaHJoQgjiee6H</a>).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/images/01102768814123-web-tete.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/</guid>
+  <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/images/01102768814123-web-tete.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
+<item>
+  <title>Keynote speaker @ RT Math-Bio-Santé</title>
+  <link>https://mgenet.github.io/posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today I, as an envoy from the GdR Méca-Bio-Santé (<a href="https://gdr-mecabio-sante.cnrs.fr">https://gdr-mecabio-sante.cnrs.fr</a>), gave a keynote lecture on the team’s efforts on “multiscale modeling and estimation of lung poromechanics” during the RT Math-Bio-Santé (<a href="https://math-bio-sante.math.cnrs.fr">https://math-bio-sante.math.cnrs.fr</a>) 2024 workshop organized at the Henri Lebesgue Center for Mathematics in Nantes (<a href="https://www.lebesgue.fr/fr/JMBS24">https://www.lebesgue.fr/fr/JMBS24</a>)…super nice to see so much interest at the interface —the interphase!— between both communities! And it was an occasion to meet with <a href="https://annabellecollin.perso.math.cnrs.fr">Annabelle Collin</a>, former PhD student in MΞDISIM, who co-organized the meeting and is soon moving to Nantes University as a Professor of Mathematics.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/images/20240627_085159-768x1024.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/</guid>
+  <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/images/20240627_085159-768x1024.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>CSMA2024</title>
+  <link>https://mgenet.github.io/posts/2024/2024-05-17 - m3disim-csma2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This week we are attending the 16th national workshop on computational mechanics (<a href="https://csma2024.sciencesconf.org">https://csma2024.sciencesconf.org</a>) in Giens (one of the most beautiful places in France!):</p>
+<ul>
+<li><p><a href="https://m3disim.saclay.inria.fr/people/alice-peyraut">Alice Peyraut</a> presented her PhD work (<a href="https://csma2024.sciencesconf.org/499171">Quantification d’incertitudes pour la modélisation pulmonaire personnalisée</a>)</p></li>
+<li><p><a href="https://m3disim.saclay.inria.fr/alexandre-daby-seesaram">Alexandre Daby-Seesaram</a> presented his PhD work (<a href="https://csma2024.sciencesconf.org/531175">Réduction de modèles en dynamique non-linéaire pour la simulation de structures soumises à une famille de chargements</a>)</p></li>
+<li><p>I presented <a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a>’s PhD work (<a href="https://csma2024.sciencesconf.org/507979">Un modèle micro-poro-mécanique du parenchyme pulmonaire</a>) and chaired a session (Biomécanique et ingénierie du vivant)</p></li>
+</ul>
+<p>Also, I was elected a board member of the <a href="https://csma.asso.univ-lorraine.fr">French Computational Mechanics Association</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2024/2024-05-17 - m3disim-csma2024/images/WhatsApp-Image-2024-05-17-at-11.09.54.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-05-17 - m3disim-csma2024/</guid>
+  <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-05-17 - m3disim-csma2024/images/WhatsApp-Image-2024-05-17-at-11.09.54.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Mahdi Manoochehrtayebi defends his PhD thesis</title>
+  <link>https://mgenet.github.io/posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today <a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a> defended his PhD thesis! Jury was composed of:</p>
+<ul>
+<li><a href="https://team.inria.fr/commedia/grandmont">Céline Grandmont</a>, INRIA (présidente)</li>
+<li><a href="https://lem3.univ-lorraine.fr/fiche-membre/baldit-adrien/">Adrien Baldit</a>, Université de Lorraine (rapporteur)</li>
+<li><a href="https://lmps.ens-paris-saclay.fr/fr/annuaire-des-personnes/emmanuel-baranger-0">Emmanuel Baranger</a>, ENS Paris-Saclay (rapporteur)</li>
+<li><a href="https://www.imft.fr/annuaire/assemat-pauline">Pauline Assemat</a>, Institut de Mécanique des Fluides de Toulouse (examinatrice)</li>
+<li><a href="https://www.kostasdanas.com">Kostantinos Danas</a>, CNRS (examinateur)</li>
+<li><a href="https://lamcos.insa-lyon.fr/fiche_personnelle.php?p=33&amp;Numpers=616&amp;L=1">Aline Bel-Brunon</a>, INSA-Lyon (directrice de thèse)</li>
+<li><a href="https://m3disim.saclay.inria.fr/people/dominique-chapelle">Dominique Chapelle</a>, INRIA&nbsp;(directeur de thèse)</li>
+<li><a href="https://m3disim.saclay.inria.fr/people/martin-genet">Martin Genet</a>, École Polytechnique (directeur de thèse)</li>
+</ul>
+<p>Congrats Mahdi and best wishes for the future!!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/images/IMG_3329-768x1024.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/</guid>
+  <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/images/IMG_3329-768x1024.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Four teaching positions are available in the Mechanics Department of École Polytechnique</title>
+  <link>https://mgenet.github.io/posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Four teaching positions are available in the Mechanics Department of École Polytechnique, including one full-time faculty position (Assistant Professor) in Bio-materials! See <a href="https://www.linkedin.com/posts/eric-charkaluk-99170965_postes-ouverts-au-d%C3%A9partement-de-m%C3%A9canique-activity-7160643818109734914-AdlQ">https://www.linkedin.com/posts/eric-charkaluk-99170965_postes-ouverts-au-d%C3%A9partement-de-m%C3%A9canique-activity-7160643818109734914-AdlQ</a> for more details.</p>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/</guid>
+  <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New paper on mechanical regularization for motion tracking</title>
+  <link>https://mgenet.github.io/posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I (with the help of <a href="http://pages.saclay.inria.fr/philippe.moireau">Philippe Moireau</a> and <a href="https://ppi-lms.polytechnique.fr/patrick.letallec">Patrick Le Tallec</a>) just introduced a new formulation of the equilibrium gap principle in the context of finite element motion tracking, cf.&nbsp;<a href="https://doi.org/10.5802/crmeca.228">https://doi.org/10.5802/crmeca.228</a>! The code is available online (<a href="https://gitlab.inria.fr/mgenet/dolfin_warp">https://gitlab.inria.fr/mgenet/dolfin_warp</a>), and there are even freely available Jupyter notebooks to reproduce the figures of the paper (<a href="https://mgenet.gitlabpages.inria.fr/N-DEG-paper-demos/index.html">https://mgenet.gitlabpages.inria.fr/N-DEG-paper-demos/index.html</a>), so do not hesitate to give it a try!!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/images/logo.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/</guid>
+  <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/images/logo.png" medium="image" type="image/png" height="145" width="144"/>
+</item>
+<item>
+  <title>Keynote speaker @ BIOREME Network Conference 2024</title>
+  <link>https://mgenet.github.io/posts/2023/2023-12-12 - martin-genet-bioreme-network-conference-2024/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I will be a keynote speaker at <a href="https://www.bioreme.net/events-all/anwc2024">the BIOREME (Biophysical Modelling in Respiratory Medicine) Network Conference 2024</a>, which will be held in Nottingham, UK, next January—it is still time to register so do not hesitate to do so if you are interested in pulmonary biomechanical modeling!</p>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2023/2023-12-12 - martin-genet-bioreme-network-conference-2024/</guid>
+  <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>GdR MécaBioSanté</title>
+  <link>https://mgenet.github.io/posts/2023/2023-12-01 - mΞdisim-gdr-mecabiosante/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This week we are taking part to the <a href="https://gdr-mecabio-sante.cnrs.fr">MécaBioSanté GdR</a> annual workshop, this year at INSA-Lyon:</p>
+<ul>
+<li><p><a href="https://m3disim.saclay.inria.fr/people/alice-peyraut">Alice Peyraut</a> presented her PhD work on uncertainty quantification in personalized pulmonary mechanics;</p></li>
+<li><p>I presented <a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a>’s PhD work on pulmonary micro-poro-mechanics.</p></li>
+</ul>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2023/2023-12-01 - mΞdisim-gdr-mecabiosante/</guid>
+  <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>MORTech 2023</title>
+  <link>https://mgenet.github.io/posts/2023/2023-11-24 - m3disim-mortech-2023/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://m3disim.saclay.inria.fr/people/katerina-skardova">Kateřina Škardová</a> and I are attending <a href="https://mortech2023.sciencesconf.org">MORTech 2023</a> (6th International Workshop on Model Reduction Techniques) at Laboratoire de Mécanique de Paris-Saclay (LMPS), École Normale Supérieur de Paris-Saclay (ENSPS), to learn about current trends in model reduction methods—we even met a future member of the team (more on that soon)!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2023/2023-11-24 - m3disim-mortech-2023/images/20231124_111135-1024x768.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2023/2023-11-24 - m3disim-mortech-2023/</guid>
+  <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2023/2023-11-24 - m3disim-mortech-2023/images/20231124_111135-scaled.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>SB2023</title>
+  <link>https://mgenet.github.io/posts/2023/2023-10-25 - m3disim-sb2023/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>We are present this week at the <a href="https://sb2023-grenoble.sciencesconf.org">48th Congress of the Francophone Society of Biomechanics</a>:</p>
+<ul>
+<li><p><a href="https://m3disim.saclay.inria.fr/people/alice-peyraut">Alice Peyraut</a> presents her PhD work on uncertainty quantification in personalized pulmonary mechanics</p></li>
+<li><p>I present <a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a>’s PhD work on micro-poro-mechanical modeling of the lung parenchyma</p></li>
+</ul>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2023/2023-10-25 - m3disim-sb2023/</guid>
+  <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>I was just promoted Professor at École Polytechnique!</title>
+  <link>https://mgenet.github.io/posts/2023/2023-08-31 - martin-genet-was-just-promoted-professor-at-ecole-polytechnique/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2023/2023-08-31 - martin-genet-was-just-promoted-professor-at-ecole-polytechnique/</guid>
+  <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>E4H Forum</title>
+  <link>https://mgenet.github.io/posts/2023/2023-07-05 - m3disim-e4h-2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today we were present at <a href="https://www.ip-paris.fr/en/news/engineering-health-annual-forum-2023">the second E4H forum</a>:</p>
+<ul>
+<li><p><a href="https://m3disim.saclay.inria.fr/people/alice-peyraut">Alice Peyraut</a> presented a posted on Uncertainty Quantification in Personalized Pulmonary Mechanics</p></li>
+<li><p><a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a> &amp; <a href="https://m3disim.saclay.inria.fr/people/alice-peyraut">Alice Peyraut</a> received a BME Conference Award</p></li>
+<li><p>Kateřina Solovská (Department of Mathematics, Czech Technical University, Prague) received a BME Postdoctral Fellowship—she will arrive in the team in August and work on Multiscale Modeling and Simulation of Remodeling in Pulmonary Fibrosis.</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2023/2023-07-05 - m3disim-e4h-2/images/20230705_170030-e1688639685260-1024x1024.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2023/2023-07-05 - m3disim-e4h-2/</guid>
+  <pubDate>Wed, 05 Jul 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2023/2023-07-05 - m3disim-e4h-2/images/20230705_170030-e1688639814476.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>New paper on reduced left ventricular dynamics modeling based on a cylindrical assumption</title>
+  <link>https://mgenet.github.io/posts/2023/2023-05-23 - new-paper-on-reduced-left-ventricular-dynamics-modeling-based-on-a-cylindrical-assumption/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Together with <a href="https://m3disim.saclay.inria.fr/people/jerome-diaz">Jérôme Diaz</a>, <a href="https://m3disim.saclay.inria.fr/people/dominique-chapelle">Dominique Chapelle</a> &amp; <a href="https://m3disim.saclay.inria.fr/people/philippe-moireau">Philippe Moireau</a>, we just introduced a new —intermediate— level in the <a href="https://m3disim.saclay.inria.fr">MΞDISIM team</a> team’s cardiac model hierarchy (3D &amp; reduced “spherical” model) with a reduced “cylindrical” model: <a href="https://dx.doi.org/10.1002/cnm.3711">https://dx.doi.org/10.1002/cnm.3711</a></p>
+<p>You can find our preprint on HAL: <a href="https://hal.science/hal-03832575">https://hal.science/hal-03832575</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2023/2023-05-23 - new-paper-on-reduced-left-ventricular-dynamics-modeling-based-on-a-cylindrical-assumption/images/GraphicalAbstract-1024x607.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2023/2023-05-23 - new-paper-on-reduced-left-ventricular-dynamics-modeling-based-on-a-cylindrical-assumption/</guid>
+  <pubDate>Tue, 23 May 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2023/2023-05-23 - new-paper-on-reduced-left-ventricular-dynamics-modeling-based-on-a-cylindrical-assumption/images/GraphicalAbstract.png" medium="image" type="image/png" height="85" width="144"/>
+</item>
+<item>
+  <title>CMBBE2023</title>
+  <link>https://mgenet.github.io/posts/2023/2023-05-03 - m3disim-cmbbe2023/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This week we are present at the <a href="https://www.cmbbe-symposium.com/2023">18th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering</a>:</p>
+<ul>
+<li><p><a href="https://m3disim.saclay.inria.fr/people/alice-peyraut">Alice Peyraut</a> is presenting her work on “Uncertainty quantification in personalized pulmonary mechanics”;</p></li>
+<li><p><a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a> is presenting his work on “Multi-Scale Modeling of the Lung Parenchyma”;</p></li>
+<li><p>I am chairing a session on “Computational pulmonology: recent advances and challenges”.</p></li>
+</ul>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2023/2023-05-03 - m3disim-cmbbe2023/</guid>
+  <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New paper on the structural origin of the anisotropy in the myocardium: Multiscale modeling and analysis</title>
+  <link>https://mgenet.github.io/posts/2022/2022-12-12 - new-paper-on-the-structural-origin-of-the-anisotropy-in-the-myocardium-multiscale-modeling-and-analysis/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://www.linkedin.com/in/nicole-tueni">Nicole Tueni</a>, <a href="https://m3disim.saclay.inria.fr/people/jean-marc-allain">Jean-Marc Allain</a> and I just published a paper in the <a href="https://www.sciencedirect.com/journal/journal-of-the-mechanical-behavior-of-biomedical-materials">Journal of the Mechanical Behavior of Biomedical Materials</a>.</p>
+<p>Click <a href="https://authors.elsevier.com/sd/article/S1751-6161(22)00505-7">here</a> to read the article!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2022/2022-12-12 - new-paper-on-the-structural-origin-of-the-anisotropy-in-the-myocardium-multiscale-modeling-and-analysis/images/1-s2.0-S1751616122005057-gr2_lrg-1024x573.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2022/2022-12-12 - new-paper-on-the-structural-origin-of-the-anisotropy-in-the-myocardium-multiscale-modeling-and-analysis/</guid>
+  <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2022/2022-12-12 - new-paper-on-the-structural-origin-of-the-anisotropy-in-the-myocardium-multiscale-modeling-and-analysis/images/1-s2.0-S1751616122005057-gr2_lrg-scaled.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>GdR MécaBioSanté</title>
+  <link>https://mgenet.github.io/posts/2022/2022-12-02 - m3disim-gdr-mecabiosante/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This week we are taking part to the <a href="https://gdr-mecabio-sante.cnrs.fr">MécaBioSanté GdR</a> annual workshop: <a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a> presented his PhD work on multiscale modeling of the lung parenchyma, and I chaired a session on biomechanics of soft tissues. Looking forward to next year’s meeting!</p>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2022/2022-12-02 - m3disim-gdr-mecabiosante/</guid>
+  <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>(Closed) PhD position on Modeling and Estimation of Pulmonary Dynamics</title>
+  <link>https://mgenet.github.io/posts/2022/2022-11-22 - phd-on-modeling-and-estimation-of-pulmonary-dynamics/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><strong>Context &amp; Objectives</strong> The lungs are the primary organs of the respiratory system in humans and many animals, responsible for molecular exchanges between external air and internal blood through mechanical ventilation. They have an extraordinary complex architecture, with the inherent fractal structure of the bronchial and blood vessel trees, as well as the hierarchical structure of the parenchyma. Lung biomechanics has been extensively studied by physiologists, experimentally as well as theoretically, from the air flow, blood flow and tissue stress points of view, laying the ground for our current fundamental understanding of the relationship between function and mechanical behavior. However, many questions remain, notably in the intricate coupling between the multiple constituents, between the many phenomena taking place at different spatial and temporal scales in health and disease, and these fundamental questions represent real clinical challenges, as pulmonary diseases are an important health burden.</p>
+<p>The MΞDISIM team, joint between the Solid Mechanics Laboratory of École Polytechnique and INRIA has recently developed a lung model [1] based on a general formulation of poromechanics [2]. The model can be personalized for a given patient by assimilating clinical data, with the aim of providing computational tools to clinicians for better diagnosing and in fine treating patients suffering from various pulmonary diseases [3]. This work has been funded notably by an ANR Young Investigator grant (PI:&nbsp;Martin Genet) and an ANR COVID grant (PI:&nbsp;Pierre-Yves Brillet, APHP &amp; Université Sorbonne Paris Nord/INSERM).</p>
+<p>The project associated with the present PhD offer, funded by a European Innovation Council Pathfinder Open grant (PI:&nbsp;Xavier Maître, Université Paris-Saclay/CNRS), aims at developing low-field 3D magnetic resonance spirometry for advanced regional exploration of respiratory diseases. This would allow more widespread, totally innocuous and fully dynamics lung in vivo imaging, compared to the current state of the art based on expensive, ionizing and mostly static computed tomography scanners. This will however represent significant change to our modeling approach (from quasi-static to dynamic) and associated data assimilation pipeline (from computed tomography to magnetic resonance images), which will be the main objective of this PhD.</p>
+<p><strong>Keywords</strong> Poromechanics; Pulmonary Biomechanics; Image-based Modeling; Finite Element Method; Data assimilation</p>
+<p><strong>Candidate profile</strong> The candidate will have to master continuum mechanics (with, if possible, knowledge of finite strains &amp; biomechanics) and numerical methods (notably the finite element method &amp; integration schemes). He/She will also have an interest in the application in pulmonology, especially for interacting with clinical collaborators.</p>
+<p><strong>Work environment</strong> The thesis will take place within the <a href="https://m3disim-lms.polytechnique.fr">MΞDISIM</a> team (joint between École Polytechnique &amp; INRIA and within the Solid Mechanics Laboratory), on the École Polytechnique campus. It will be in tight collaboration with other members of the EIC project, notably Télécom SudParis (Catalin Fetita) &amp; Paris-Saclay University (Xavier Maître). It will be directed by Martin Genet, in direct collaboration with Dominique Chapelle. It could start in 2023, and could be preceded by an M2 internship.</p>
+<p><strong>Bibliography</strong><br>
+[1]&nbsp; <a href="mailto:https://doi.org/10.1007/s10237-021-01547-0">C.&nbsp;Patte, M. Genet and D.&nbsp;Chapelle, “A quasi-static poromechanical model of the lungs”, Biomechanics and Modeling in Mechanobiology, 2022.</a><br>
+[2]&nbsp; <a href="https://doi.org/10.1016/j.euromechflu.2014.02.009">D.&nbsp;Chapelle and P.&nbsp;Moireau, “General coupling of porous flows and hyperelastic formulations—From thermodynamics principles to energy balance and compatible time schemes,” European Journal of Mechanics Part B/Fluids, 2014.</a><br>
+[3]&nbsp; <a href="mailto:https://doi.org/10.1115/1.4054106">C.&nbsp;Patte, P.-Y.&nbsp;Brillet, C.&nbsp;Fetita, T.&nbsp;Gille, J.-F.&nbsp;Bernaudin, H.&nbsp;Nunes, D.&nbsp;Chapelle and M.&nbsp;Genet, “Estimation of regional pulmonary compliance in idiopathic pulmonary fibrosis based on personalized lung poromechanical modeling”, Journal of Biomechanical Engineering, 2022.</a></p>
+<p><strong>Contacts</strong> <a href="mailto:martin.genet@polytechnique.edu">martin.genet@polytechnique.edu</a>, <a href="mailto:dominique.chapelle@inria.fr">dominique.chapelle@inria.fr</a></p>
+
+
+
+ ]]></description>
+  <category>Jobs</category>
+  <guid>https://mgenet.github.io/posts/2022/2022-11-22 - phd-on-modeling-and-estimation-of-pulmonary-dynamics/</guid>
+  <pubDate>Tue, 22 Nov 2022 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New paper on quantification of left ventricular strain and torsion by joint analysis of 3D tagging and cine MR images</title>
+  <link>https://mgenet.github.io/posts/2022/2022-08-30 - new-paper-on-quantification-of-left-ventricular-strain-and-torsion-by-joint-analysis-of-3d-tagging-and-cine-mr-images/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Together with <a href="https://m3disim.saclay.inria.fr/people/ezgi-berberoglu">Ezgi Berberoğlu</a> we just published a paper in <a href="https://www.sciencedirect.com/journal/medical-image-analysis">Medical Image Analysis</a>, in collaboration with <a href="https://biomed.ee.ethz.ch/institute/People/person-detail.html?persid=114629">Christian Stoeck</a> and <a href="https://biomed.ee.ethz.ch/institute/People/person-detail.html?persid=61641">Sebastian Kozerke</a> from the <a href="https://biomed.ee.ethz.ch">Institute for Biomedical Engineering of the ETH-Zurich</a>.</p>
+<p>Click <a href="https://authors.elsevier.com/a/1ffsq4rfPmACa7">here</a> to read the article!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2022/2022-08-30 - new-paper-on-quantification-of-left-ventricular-strain-and-torsion-by-joint-analysis-of-3d-tagging-and-cine-mr-images/images/1-s2.0-S1361841522002183-ga1_lrg-1024x385.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2022/2022-08-30 - new-paper-on-quantification-of-left-ventricular-strain-and-torsion-by-joint-analysis-of-3d-tagging-and-cine-mr-images/</guid>
+  <pubDate>Tue, 30 Aug 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2022/2022-08-30 - new-paper-on-quantification-of-left-ventricular-strain-and-torsion-by-joint-analysis-of-3d-tagging-and-cine-mr-images/images/1-s2.0-S1361841522002183-ga1_lrg.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Round table @ E4H Forum</title>
+  <link>https://mgenet.github.io/posts/2022/2022-07-06 - m3disim-e4h/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today I shared some views on the future of pulmonology during a round table with <a href="https://fr.linkedin.com/in/olaf-mercier-87389668">Olaf Mercier</a> (Hôpital Marie Lannelongue - Groupe Hospitalier Paris Saint Joseph), <a href="https://team.inria.fr/simbiotx/team-members/irene-vignon-clementel">Irène Vignon-Clémentel</a> (INRIA) &amp; <a href="https://fr.linkedin.com/in/caroline-caramella-88b9231a6">Caroline Caramella</a> (Hôpital Marie Lannelongue - Groupe Hospitalier Paris Saint Joseph) on “The lung - platform for integration and innovation” at the <a href="https://www.ip-paris.fr/e4h-1st-annuel-forum-programme">1st Annuel Forum of the E4H program at École Polytechnique</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2022/2022-07-06 - m3disim-e4h/images/Image.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2022/2022-07-06 - m3disim-e4h/</guid>
+  <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2022/2022-07-06 - m3disim-e4h/images/Image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>CMBE2022</title>
+  <link>https://mgenet.github.io/posts/2022/2022-06-29 - m3disim-cmbe2022/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This week <a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a> and I presented work on the lung at the 7th International Conference on Computational and Mathematical Biomedical Engineering (<a href="https://www.compbiomed.net/2021">CMBE22</a>) in Milano, Italy!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2022/2022-06-29 - m3disim-cmbe2022/images/20220628_194047-1024x768.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<!-- ![](images/IMG_1834-1024x768.jpg){width="50%" fig-align="center"} -->
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2022/2022-06-29 - m3disim-cmbe2022/</guid>
+  <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2022/2022-06-29 - m3disim-cmbe2022/images/20220628_194047-scaled.jpg" medium="image" type="image/jpeg"/>
+</item>
 </channel>
 </rss>
