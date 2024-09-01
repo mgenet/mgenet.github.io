@@ -10,7 +10,25 @@
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Fri, 26 Jul 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Sep 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>New website!</title>
+  <link>https://mgenet.github.io/posts/2024/09/01/new-website/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>New website! It is based on the awesome <a href="https://quarto.org">Quarto</a> framework. Do not hesitate to subscribe via <a href="https://mgenet.github.io">RSS</a> or on <a href="https://www.linkedin.com/in/martin-genet">LinkedIn</a> where I will be dispatching new posts.</p>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/09/01/new-website/</guid>
+  <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Nouvel article sur les jumeaux numériques dans Les Échos</title>
   <link>https://mgenet.github.io/posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/</link>
@@ -465,31 +483,6 @@
   <guid>https://mgenet.github.io/posts/2022/2022-07-06 - m3disim-e4h/</guid>
   <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2022/2022-07-06 - m3disim-e4h/images/Image.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>CMBE2022</title>
-  <link>https://mgenet.github.io/posts/2022/2022-06-29 - m3disim-cmbe2022/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This week <a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a> and I presented work on the lung at the 7th International Conference on Computational and Mathematical Biomedical Engineering (<a href="https://www.compbiomed.net/2021">CMBE22</a>) in Milano, Italy!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2022/2022-06-29 - m3disim-cmbe2022/images/20220628_194047-1024x768.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-<!-- ![](images/IMG_1834-1024x768.jpg){width="50%" fig-align="center"} -->
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2022/2022-06-29 - m3disim-cmbe2022/</guid>
-  <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2022/2022-06-29 - m3disim-cmbe2022/images/20220628_194047-scaled.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
