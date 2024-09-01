@@ -15,3 +15,5 @@ listing:
   filter-ui: false
   feed: true
 ---
+
+(Do not hesitate to subscribe via RSS or on LinkedIn.)

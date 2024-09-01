@@ -22,6 +22,8 @@ website:
         href: https://www.webofscience.com/wos/author/record/H-4247-2015
       - text: "{{< iconify academicons:scopus width=17 title='Scopus' >}}"
         href: https://www.scopus.com/authid/detail.uri?authorId=24604950600
+      - icon: rss
+        href: index.xml
       - text: "{{< iconify simple-icons:linkedin width=17 title=LinkedIn >}}"
         href: https://www.linkedin.com/in/martin-genet/
       - text: "{{< iconify simple-icons:gitlab width=17 title=GitHub >}}"
