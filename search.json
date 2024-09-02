@@ -42,18 +42,18 @@
     "text": "This week we are attending the 16th national workshop on computational mechanics (https://csma2024.sciencesconf.org) in Giens (one of the most beautiful places in France!):\n\nAlice Peyraut presented her PhD work (Quantification d’incertitudes pour la modélisation pulmonaire personnalisée)\nAlexandre Daby-Seesaram presented his PhD work (Réduction de modèles en dynamique non-linéaire pour la simulation de structures soumises à une famille de chargements)\nI presented Mahdi Manoochehrtayebi’s PhD work (Un modèle micro-poro-mécanique du parenchyme pulmonaire) and chaired a session (Biomécanique et ingénierie du vivant)\n\nAlso, I was elected a board member of the French Computational Mechanics Association."
   },
   {
-    "objectID": "posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/index.html",
-    "href": "posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/index.html",
-    "title": "New paper on mechanical regularization for motion tracking",
+    "objectID": "posts/2024/2024-09-01 - new-website/index.html",
+    "href": "posts/2024/2024-09-01 - new-website/index.html",
+    "title": "New website!",
     "section": "",
-    "text": "I (with the help of Philippe Moireau and Patrick Le Tallec) just introduced a new formulation of the equilibrium gap principle in the context of finite element motion tracking, cf. https://doi.org/10.5802/crmeca.228! The code is available online (https://gitlab.inria.fr/mgenet/dolfin_warp), and there are even freely available Jupyter notebooks to reproduce the figures of the paper (https://mgenet.gitlabpages.inria.fr/N-DEG-paper-demos/index.html), so do not hesitate to give it a try!!"
+    "text": "New website! It is based on the awesome Quarto framework. Do not hesitate to subscribe via RSS or on LinkedIn where I will be dispatching new posts."
   },
   {
-    "objectID": "posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/index.html",
-    "href": "posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/index.html",
-    "title": "Keynote speaker @ RT Math-Bio-Santé",
+    "objectID": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
+    "href": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
+    "title": "Four teaching positions are available in the Mechanics Department of École Polytechnique",
     "section": "",
-    "text": "Today I, as an envoy from the GdR Méca-Bio-Santé (https://gdr-mecabio-sante.cnrs.fr), gave a keynote lecture on the team’s efforts on “multiscale modeling and estimation of lung poromechanics” during the RT Math-Bio-Santé (https://math-bio-sante.math.cnrs.fr) 2024 workshop organized at the Henri Lebesgue Center for Mathematics in Nantes (https://www.lebesgue.fr/fr/JMBS24)…super nice to see so much interest at the interface —the interphase!— between both communities! And it was an occasion to meet with Annabelle Collin, former PhD student in MΞDISIM, who co-organized the meeting and is soon moving to Nantes University as a Professor of Mathematics."
+    "text": "Four teaching positions are available in the Mechanics Department of École Polytechnique, including one full-time faculty position (Assistant Professor) in Bio-materials! See https://www.linkedin.com/posts/eric-charkaluk-99170965_postes-ouverts-au-d%C3%A9partement-de-m%C3%A9canique-activity-7160643818109734914-AdlQ for more details."
   },
   {
     "objectID": "posts/2021/2021-09-01 - alice-peyraut-joins-the-team/index.html",
@@ -301,18 +301,18 @@
     "text": "This week I will be presenting some collaborative work with Cécile Patte and Dominique Chapelle on Personalized Pulmonary Mechanics at the 17th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering (CMBBE 2021)!"
   },
   {
-    "objectID": "posts/2024/09/01/new-website/index.html",
-    "href": "posts/2024/09/01/new-website/index.html",
-    "title": "New website!",
+    "objectID": "posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/index.html",
+    "href": "posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/index.html",
+    "title": "Keynote speaker @ RT Math-Bio-Santé",
     "section": "",
-    "text": "New website! It is based on the awesome Quarto framework. Do not hesitate to subscribe via RSS or on LinkedIn where I will be dispatching new posts."
+    "text": "Today I, as an envoy from the GdR Méca-Bio-Santé (https://gdr-mecabio-sante.cnrs.fr), gave a keynote lecture on the team’s efforts on “multiscale modeling and estimation of lung poromechanics” during the RT Math-Bio-Santé (https://math-bio-sante.math.cnrs.fr) 2024 workshop organized at the Henri Lebesgue Center for Mathematics in Nantes (https://www.lebesgue.fr/fr/JMBS24)…super nice to see so much interest at the interface —the interphase!— between both communities! And it was an occasion to meet with Annabelle Collin, former PhD student in MΞDISIM, who co-organized the meeting and is soon moving to Nantes University as a Professor of Mathematics."
   },
   {
-    "objectID": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
-    "href": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
-    "title": "Four teaching positions are available in the Mechanics Department of École Polytechnique",
+    "objectID": "posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/index.html",
+    "href": "posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/index.html",
+    "title": "New paper on mechanical regularization for motion tracking",
     "section": "",
-    "text": "Four teaching positions are available in the Mechanics Department of École Polytechnique, including one full-time faculty position (Assistant Professor) in Bio-materials! See https://www.linkedin.com/posts/eric-charkaluk-99170965_postes-ouverts-au-d%C3%A9partement-de-m%C3%A9canique-activity-7160643818109734914-AdlQ for more details."
+    "text": "I (with the help of Philippe Moireau and Patrick Le Tallec) just introduced a new formulation of the equilibrium gap principle in the context of finite element motion tracking, cf. https://doi.org/10.5802/crmeca.228! The code is available online (https://gitlab.inria.fr/mgenet/dolfin_warp), and there are even freely available Jupyter notebooks to reproduce the figures of the paper (https://mgenet.gitlabpages.inria.fr/N-DEG-paper-demos/index.html), so do not hesitate to give it a try!!"
   },
   {
     "objectID": "posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/index.html",
