@@ -77,32 +77,32 @@
     "text": "Alexandre Daby-Seesaram, who recently defended his PhD at the Paris-Saclay Mechanics Laboratory of École Normale Supérieure de Paris-Saclay, is starting as a postdoc in the team. He is funded by our recent ANR MLQ-CT project, and will work on model reduction and porting our digital twin pipeline to the clinical environment of our clinical colleagues. Welcome and good luck, Alexandre!"
   },
   {
-    "objectID": "posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/index.html",
-    "href": "posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/index.html",
-    "title": "Mahdi Manoochehrtayebi defends his PhD thesis",
+    "objectID": "posts/2024/2024-05-17 - m3disim-csma2024/index.html",
+    "href": "posts/2024/2024-05-17 - m3disim-csma2024/index.html",
+    "title": "CSMA2024",
     "section": "",
-    "text": "Today Mahdi Manoochehrtayebi defended his PhD thesis! Jury was composed of:\n\nCéline Grandmont, INRIA (présidente)\nAdrien Baldit, Université de Lorraine (rapporteur)\nEmmanuel Baranger, ENS Paris-Saclay (rapporteur)\nPauline Assemat, Institut de Mécanique des Fluides de Toulouse (examinatrice)\nKostantinos Danas, CNRS (examinateur)\nAline Bel-Brunon, INSA-Lyon (directrice de thèse)\nDominique Chapelle, INRIA (directeur de thèse)\nMartin Genet, École Polytechnique (directeur de thèse)\n\nCongrats Mahdi and best wishes for the future!!"
+    "text": "This week we are attending the 16th national workshop on computational mechanics (https://csma2024.sciencesconf.org) in Giens (one of the most beautiful places in France!):\n\nAlice Peyraut presented her PhD work (Quantification d’incertitudes pour la modélisation pulmonaire personnalisée)\nAlexandre Daby-Seesaram presented his PhD work (Réduction de modèles en dynamique non-linéaire pour la simulation de structures soumises à une famille de chargements)\nI presented Mahdi Manoochehrtayebi’s PhD work (Un modèle micro-poro-mécanique du parenchyme pulmonaire) and chaired a session (Biomécanique et ingénierie du vivant)\n\nAlso, I was elected a board member of the French Computational Mechanics Association."
   },
   {
-    "objectID": "posts/2024/2024-09-01 - new-website/index.html",
-    "href": "posts/2024/2024-09-01 - new-website/index.html",
-    "title": "New website!",
+    "objectID": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
+    "href": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
+    "title": "Four teaching positions are available in the Mechanics Department of École Polytechnique",
     "section": "",
-    "text": "New website! It is based on the awesome Quarto framework. Do not hesitate to subscribe via RSS or on LinkedIn where I will be dispatching new posts."
+    "text": "Four teaching positions are available in the Mechanics Department of École Polytechnique, including one full-time faculty position (Assistant Professor) in Bio-materials! See https://www.linkedin.com/posts/eric-charkaluk-99170965_postes-ouverts-au-d%C3%A9partement-de-m%C3%A9canique-activity-7160643818109734914-AdlQ for more details."
   },
   {
-    "objectID": "posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/index.html",
-    "href": "posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/index.html",
-    "title": "Keynote speaker @ RT Math-Bio-Santé",
+    "objectID": "posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/index.html",
+    "href": "posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/index.html",
+    "title": "Nouvel article sur les jumeaux numériques dans Les Échos",
     "section": "",
-    "text": "Today I, as an envoy from the GdR Méca-Bio-Santé (https://gdr-mecabio-sante.cnrs.fr), gave a keynote lecture on the team’s efforts on “multiscale modeling and estimation of lung poromechanics” during the RT Math-Bio-Santé (https://math-bio-sante.math.cnrs.fr) 2024 workshop organized at the Henri Lebesgue Center for Mathematics in Nantes (https://www.lebesgue.fr/fr/JMBS24)…super nice to see so much interest at the interface —the interphase!— between both communities! And it was an occasion to meet with Annabelle Collin, former PhD student in MΞDISIM, who co-organized the meeting and is soon moving to Nantes University as a Professor of Mathematics."
+    "text": "Je viens de publier un article sur les jumeaux numériques en santé dans Les Échos: https://www.lesechos.fr/idees-debats/editos-analyses/jumeaux-numeriques-la-modelisation-dorganes-espoir-de-la-medecine-2110146 (le texte complet est disponible ici: https://sdrive.cnrs.fr/s/H8aaHJoQgjiee6H)."
   },
   {
-    "objectID": "posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team copy/index.html",
-    "href": "posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team copy/index.html",
-    "title": "Felipe Álvarez-Barrientos joins the team",
+    "objectID": "posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/index.html",
+    "href": "posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/index.html",
+    "title": "New paper on mechanical regularization for motion tracking",
     "section": "",
-    "text": "Felipe Álvarez-Barrientos, who holds a Master of Science in Engineering from the Pontificia Universidad Católica de Chile in Santiago, just started his PhD in the team. He already visited MΞDISIM twice, for his Master thesis and Engineering internship, and together we published a paper on micro-poro-mechanics. His PhD is funded by the European Innovation Council PathFinder V|LF-Spiro3D grant, and will work on porting our lung personalized modeling/digital twin pipeline to (dynamic) lung magnetic resonance imaging. Welcome back and good luck, Felipe!"
+    "text": "I (with the help of Philippe Moireau and Patrick Le Tallec) just introduced a new formulation of the equilibrium gap principle in the context of finite element motion tracking, cf. https://doi.org/10.5802/crmeca.228! The code is available online (https://gitlab.inria.fr/mgenet/dolfin_warp), and there are even freely available Jupyter notebooks to reproduce the figures of the paper (https://mgenet.gitlabpages.inria.fr/N-DEG-paper-demos/index.html), so do not hesitate to give it a try!!"
   },
   {
     "objectID": "posts/2020/2020-11-30 - new-paper-on-cardiac-tissue-microstructural-deformation-during-traction-assay/index.html",
@@ -280,32 +280,32 @@
     "text": "Together with Dominique Chapelle we are part of a project (SILICOVILUNG) selected by ANR in the 4th wave of the COVID call, cf. https://anr.fr/fr/actualites-de-lanr/details/news/appel-anr-ra-covid-19-les-resultats-des-premieres-vagues-devaluation.\nThe project is managed by Pierre-Yves Brillet from Hypoxia & Lung Laboratory/Sorbonne-Paris-Nord University and Avicenne AP-HP Hospital. It aims at better understanding the regional physiological mechanisms in the evolution of Covid-19 pneumonia in their severe forms and to anticipate the development or not of sequelae, in particular fibrosis. It focuses on the processing of CT images of Covid-19 patients for an assessment of vascular remodeling and regional lung mechanics/compliance.\nWith this project we will hire one engineer or post-doc to extend Cécile Patte’s PhD work, and begin its translation to the clinic."
   },
   {
-    "objectID": "posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/index.html",
-    "href": "posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/index.html",
-    "title": "New paper on mechanical regularization for motion tracking",
+    "objectID": "posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/index.html",
+    "href": "posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/index.html",
+    "title": "Keynote speaker @ RT Math-Bio-Santé",
     "section": "",
-    "text": "I (with the help of Philippe Moireau and Patrick Le Tallec) just introduced a new formulation of the equilibrium gap principle in the context of finite element motion tracking, cf. https://doi.org/10.5802/crmeca.228! The code is available online (https://gitlab.inria.fr/mgenet/dolfin_warp), and there are even freely available Jupyter notebooks to reproduce the figures of the paper (https://mgenet.gitlabpages.inria.fr/N-DEG-paper-demos/index.html), so do not hesitate to give it a try!!"
+    "text": "Today I, as an envoy from the GdR Méca-Bio-Santé (https://gdr-mecabio-sante.cnrs.fr), gave a keynote lecture on the team’s efforts on “multiscale modeling and estimation of lung poromechanics” during the RT Math-Bio-Santé (https://math-bio-sante.math.cnrs.fr) 2024 workshop organized at the Henri Lebesgue Center for Mathematics in Nantes (https://www.lebesgue.fr/fr/JMBS24)…super nice to see so much interest at the interface —the interphase!— between both communities! And it was an occasion to meet with Annabelle Collin, former PhD student in MΞDISIM, who co-organized the meeting and is soon moving to Nantes University as a Professor of Mathematics."
   },
   {
-    "objectID": "posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/index.html",
-    "href": "posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/index.html",
-    "title": "Nouvel article sur les jumeaux numériques dans Les Échos",
+    "objectID": "posts/2024/2024-09-01 - new-website/index.html",
+    "href": "posts/2024/2024-09-01 - new-website/index.html",
+    "title": "New website!",
     "section": "",
-    "text": "Je viens de publier un article sur les jumeaux numériques en santé dans Les Échos: https://www.lesechos.fr/idees-debats/editos-analyses/jumeaux-numeriques-la-modelisation-dorganes-espoir-de-la-medecine-2110146 (le texte complet est disponible ici: https://sdrive.cnrs.fr/s/H8aaHJoQgjiee6H)."
+    "text": "New website! It is based on the awesome Quarto framework. Do not hesitate to subscribe via RSS or on LinkedIn where I will be dispatching new posts."
   },
   {
-    "objectID": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
-    "href": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
-    "title": "Four teaching positions are available in the Mechanics Department of École Polytechnique",
+    "objectID": "posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/index.html",
+    "href": "posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/index.html",
+    "title": "Mahdi Manoochehrtayebi defends his PhD thesis",
     "section": "",
-    "text": "Four teaching positions are available in the Mechanics Department of École Polytechnique, including one full-time faculty position (Assistant Professor) in Bio-materials! See https://www.linkedin.com/posts/eric-charkaluk-99170965_postes-ouverts-au-d%C3%A9partement-de-m%C3%A9canique-activity-7160643818109734914-AdlQ for more details."
+    "text": "Today Mahdi Manoochehrtayebi defended his PhD thesis! Jury was composed of:\n\nCéline Grandmont, INRIA (présidente)\nAdrien Baldit, Université de Lorraine (rapporteur)\nEmmanuel Baranger, ENS Paris-Saclay (rapporteur)\nPauline Assemat, Institut de Mécanique des Fluides de Toulouse (examinatrice)\nKostantinos Danas, CNRS (examinateur)\nAline Bel-Brunon, INSA-Lyon (directrice de thèse)\nDominique Chapelle, INRIA (directeur de thèse)\nMartin Genet, École Polytechnique (directeur de thèse)\n\nCongrats Mahdi and best wishes for the future!!"
   },
   {
-    "objectID": "posts/2024/2024-05-17 - m3disim-csma2024/index.html",
-    "href": "posts/2024/2024-05-17 - m3disim-csma2024/index.html",
-    "title": "CSMA2024",
+    "objectID": "posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team/index.html",
+    "href": "posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team/index.html",
+    "title": "Felipe Álvarez-Barrientos joins the team",
     "section": "",
-    "text": "This week we are attending the 16th national workshop on computational mechanics (https://csma2024.sciencesconf.org) in Giens (one of the most beautiful places in France!):\n\nAlice Peyraut presented her PhD work (Quantification d’incertitudes pour la modélisation pulmonaire personnalisée)\nAlexandre Daby-Seesaram presented his PhD work (Réduction de modèles en dynamique non-linéaire pour la simulation de structures soumises à une famille de chargements)\nI presented Mahdi Manoochehrtayebi’s PhD work (Un modèle micro-poro-mécanique du parenchyme pulmonaire) and chaired a session (Biomécanique et ingénierie du vivant)\n\nAlso, I was elected a board member of the French Computational Mechanics Association."
+    "text": "Felipe Álvarez-Barrientos, who holds a Master of Science in Engineering from the Pontificia Universidad Católica de Chile in Santiago, just started his PhD in the team. He already visited MΞDISIM twice, for his Master thesis and Engineering internship, and together we published a paper on micro-poro-mechanics. His PhD is funded by the European Innovation Council PathFinder V|LF-Spiro3D grant, and will work on porting our lung personalized modeling/digital twin pipeline to (dynamic) lung magnetic resonance imaging. Welcome back and good luck, Felipe!"
   },
   {
     "objectID": "posts/2015/2015-09-01 - m3disim-has-a-new-permanent-researcher-with-martin-genet/index.html",
