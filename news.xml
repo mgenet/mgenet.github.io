@@ -10,7 +10,31 @@
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Sun, 01 Sep 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Sep 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Felipe Álvarez-Barrientos joins the team</title>
+  <link>https://mgenet.github.io/posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team copy/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Felipe Álvarez-Barrientos, who holds a Master of Science in Engineering from the <em>Pontificia Universidad Católica de Chile</em> in Santiago, just started his PhD in the team. He already visited MΞDISIM twice, for his Master thesis and Engineering internship, and together we published <a href="https://doi.org/10.1016/j.ijengsci.2021.103586">a paper on micro-poro-mechanics</a>. His PhD is funded by the <a href="https://v-lf-spiro3d.eu">European Innovation Council PathFinder V|LF-Spiro3D grant</a>, and will work on porting our lung personalized modeling/digital twin pipeline to (dynamic) lung magnetic resonance imaging. Welcome back and good luck, Felipe!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team copy/felipe.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team copy/</guid>
+  <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team copy/felipe.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>New website!</title>
   <link>https://mgenet.github.io/posts/2024/2024-09-01 - new-website/</link>
@@ -28,30 +52,6 @@
   <category>News</category>
   <guid>https://mgenet.github.io/posts/2024/2024-09-01 - new-website/</guid>
   <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Felipe Álvarez-Barrientos joins the team</title>
-  <link>https://mgenet.github.io/posts/2024/2024-09-01 - felipe-alvarez-barrientos-joins-the-team copy/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Felipe Álvarez-Barrientos, who holds a Master of Science in Engineering from the <em>Pontificia Universidad Católica de Chile</em> in Santiago, just started his PhD in the team. He already visited MΞDISIM twice, for his Master thesis and Engineering internship, and together we published <a href="https://doi.org/10.1016/j.ijengsci.2021.103586">a paper on micro-poro-mechanics</a>. His PhD is funded by the <a href="https://v-lf-spiro3d.eu">European Innovation Council PathFinder V|LF-Spiro3D grant</a>, and will work on porting our lung personalized modeling/digital twin pipeline to (dynamic) lung magnetic resonance imaging. Welcome back and good luck, Felipe!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2024/2024-09-01 - felipe-alvarez-barrientos-joins-the-team copy/felipe.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/2024-09-01 - felipe-alvarez-barrientos-joins-the-team copy/</guid>
-  <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2024/2024-09-01 - felipe-alvarez-barrientos-joins-the-team copy/felipe.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Nouvel article sur les jumeaux numériques dans Les Échos</title>
