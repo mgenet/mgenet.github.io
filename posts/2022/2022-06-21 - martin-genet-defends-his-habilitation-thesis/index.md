@@ -17,4 +17,4 @@ Today I defended my habilitation thesis, entitled "Some contributions to cardiac
 
 You can find my habilitation manuscript on HAL: [https://hal.archives-ouvertes.fr/tel-03698102](https://hal.archives-ouvertes.fr/tel-03698102).
 
-![](images/2022-MGenet-1024x495.png){width="50%" fig-align="center"}
+![](images/2022-MGenet.png){width="50%" fig-align="center"}

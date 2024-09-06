@@ -10,4 +10,4 @@ Together with [Nicole Tueni](https://m3disim.saclay.inria.fr/people/nicole-tueni
   
 Click [here](https://www.nature.com/articles/s41598-020-76820-w#citeas) to read the article!
 
-![](images/setup_global_view-1024x506.png){width="50%" fig-align="center"}
+![](images/setup_global_view.png){width="50%" fig-align="center"}

@@ -10,4 +10,4 @@ Together with [Jérôme Diaz](https://m3disim.saclay.inria.fr/people/jerome-diaz
 
 You can find our preprint on HAL: [https://hal.science/hal-03832575](https://hal.science/hal-03832575)
 
-![](images/GraphicalAbstract-1024x607.png){width="50%" fig-align="center"}
+![](images/GraphicalAbstract.png){width="50%" fig-align="center"}

@@ -3,7 +3,7 @@ title: "Mahdi Manoochehrtayebi defends his PhD thesis"
 date: "2024-03-05"
 categories: 
   - "News"
-image: "images/IMG_3329-768x1024.jpg"
+image: "images/IMG_3329.jpg"
 ---
 
 Today [Mahdi Manoochehrtayebi](https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi) defended his PhD thesis!
@@ -20,4 +20,4 @@ Jury was composed of:
 
 Congrats Mahdi and best wishes for the future!!
 
-![](images/IMG_3329-768x1024.jpg){width="50%" fig-align="center"}
+![](images/IMG_3329.jpg){width="50%" fig-align="center"}

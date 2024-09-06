@@ -10,4 +10,4 @@ Together with [Ezgi Berberoğlu](https://m3disim.saclay.inria.fr/people/ezgi-ber
 
 Click [here](https://authors.elsevier.com/a/1ffsq4rfPmACa7) to read the article!
 
-![](images/1-s2.0-S1361841522002183-ga1_lrg-1024x385.jpg){width="50%" fig-align="center"}
+![](images/1-s2.0-S1361841522002183-ga1_lrg.jpg){width="50%" fig-align="center"}
