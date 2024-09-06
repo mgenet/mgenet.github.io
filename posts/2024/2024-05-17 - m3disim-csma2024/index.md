@@ -10,7 +10,7 @@ This week we are attending the 16th national workshop on computational mechanics
 
 - [Alice Peyraut](https://m3disim.saclay.inria.fr/people/alice-peyraut) presented her PhD work ([Quantification d'incertitudes pour la modélisation pulmonaire personnalisée](https://csma2024.sciencesconf.org/499171))
 
-- [Alexandre Daby-Seesaram](https://m3disim.saclay.inria.fr/alexandre-daby-seesaram) presented his PhD work ([Réduction de modèles en dynamique non-linéaire pour la simulation de structures soumises à une famille de chargements](https://csma2024.sciencesconf.org/531175))
+- [Alexandre Daby-Seesaram](https://alexandredabyseesaram.github.io) presented his PhD work ([Réduction de modèles en dynamique non-linéaire pour la simulation de structures soumises à une famille de chargements](https://csma2024.sciencesconf.org/531175))
 
 - I presented [Mahdi Manoochehrtayebi](https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi)'s PhD work ([Un modèle micro-poro-mécanique du parenchyme pulmonaire](https://csma2024.sciencesconf.org/507979)) and chaired a session (Biomécanique et ingénierie du vivant)
 
