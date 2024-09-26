@@ -3,7 +3,7 @@ title: "E4H Forum"
 date: "2023-07-05"
 categories: 
   - "News"
-image: "images/20230705_170030-e1688639814476.jpg"
+image: "images/20230705_170030-e1688639685260.jpg"
 ---
 
 Today we were present at [the second E4H forum](https://www.ip-paris.fr/en/news/engineering-health-annual-forum-2023):
