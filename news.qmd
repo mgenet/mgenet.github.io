@@ -16,4 +16,4 @@ listing:
   feed: true
 ---
 
-(Do not hesitate to subscribe via RSS or on LinkedIn.)
+(Do not hesitate to subscribe via [RSS](https://mgenet.github.io/news.xml) or [LinkedIn](https://www.linkedin.com/in/martin-genet).)
