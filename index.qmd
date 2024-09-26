@@ -26,7 +26,7 @@ Professor\
 
 My original background is in Computational Mechanics and Computational Materials Science.
 The ultimate aspiration of my current research is to use the fundamental laws of physics and the power of modern computing and imaging facilities to improve cardiology and pulmonology.
-My work belongs to the general field of biomedical engineering science, whose objectives are
+Generally speaking, My work belongs to the general field of biomedical engineering science, whose objectives are
 (i) to better understand the phenomenon of life in health and disease, and
 (ii) to develop and analyze novel concepts and methods for biomedical engineering, i.e., which will be the foundation of objective and quantitative tools for medicine, i.e., for the diagnosis and treatment of patients.
 More precisely, my research focuses on the development of
