@@ -154,11 +154,11 @@
     "text": "I (with the help of Philippe Moireau and Patrick Le Tallec) just introduced a new formulation of the equilibrium gap principle in the context of finite element motion tracking, cf. https://doi.org/10.5802/crmeca.228! The code is available online (https://gitlab.inria.fr/mgenet/dolfin_warp), and there are even freely available Jupyter notebooks to reproduce the figures of the paper (https://mgenet.gitlabpages.inria.fr/N-DEG-paper-demos/index.html), so do not hesitate to give it a try!!"
   },
   {
-    "objectID": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
-    "href": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
-    "title": "Four teaching positions are available in the Mechanics Department of École Polytechnique",
+    "objectID": "posts/2024/2024-05-17 - m3disim-csma2024/index.html",
+    "href": "posts/2024/2024-05-17 - m3disim-csma2024/index.html",
+    "title": "CSMA2024",
     "section": "",
-    "text": "Four teaching positions are available in the Mechanics Department of École Polytechnique, including one full-time faculty position (Assistant Professor) in Bio-materials! See https://www.linkedin.com/posts/eric-charkaluk-99170965_postes-ouverts-au-d%C3%A9partement-de-m%C3%A9canique-activity-7160643818109734914-AdlQ for more details."
+    "text": "This week we are attending the 16th national workshop on computational mechanics (https://csma2024.sciencesconf.org) in Giens (one of the most beautiful places in France!):\n\nAlice Peyraut presented her PhD work (Quantification d’incertitudes pour la modélisation pulmonaire personnalisée)\nAlexandre Daby-Seesaram presented his PhD work (Réduction de modèles en dynamique non-linéaire pour la simulation de structures soumises à une famille de chargements)\nI presented Mahdi Manoochehrtayebi’s PhD work (Un modèle micro-poro-mécanique du parenchyme pulmonaire) and chaired a session (Biomécanique et ingénierie du vivant)\n\nAlso, I was elected a board member of the French Computational Mechanics Association."
   },
   {
     "objectID": "posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/index.html",
@@ -245,18 +245,18 @@
     "text": "This week we are attending the 2024 Virtual Physiological Human Conference (VPH2024):\n\nKateřina Škardová presented her work on “Bridging micro to macro in pulmonary mechanics: Interpretable neural networks for surrogate modelling”;\n\n\n\n\n\n\n\nAlexandre Daby-Seesaram presented his work on “Hybridising standard reduced-order modelling methods with interpretable sparse neural networks for real-time patient specific lung simulations” (including Neural Network PGD);\n\n\n\n\n\n\n\nI had the chance to inaugurate the Lung Modeling I session with my talk on “Lung multiscale modeling and estimation”, and to chair the Lung Modeling II Session.\n\nWe also got the chance to meet with old MΞDISIM members:\n\nFederica Caforio, who is now a University Assistant at the Department of Mathematics and Scientific Computing of the University of Graz, Austria;\nMaria Gusseva, who is now a Postdoctoral Researcher at the UT Southwestern Medical Center in Dallas, USA;\nRadomir Chabiniok, who is now an Associate Professor the UT Southwestern Medical Center in Dallas, USA.\n\n\n\n\n\n\nLooking forward to VPH2026 in Milano!"
   },
   {
-    "objectID": "posts/2024/2024-05-17 - m3disim-csma2024/index.html",
-    "href": "posts/2024/2024-05-17 - m3disim-csma2024/index.html",
-    "title": "CSMA2024",
-    "section": "",
-    "text": "This week we are attending the 16th national workshop on computational mechanics (https://csma2024.sciencesconf.org) in Giens (one of the most beautiful places in France!):\n\nAlice Peyraut presented her PhD work (Quantification d’incertitudes pour la modélisation pulmonaire personnalisée)\nAlexandre Daby-Seesaram presented his PhD work (Réduction de modèles en dynamique non-linéaire pour la simulation de structures soumises à une famille de chargements)\nI presented Mahdi Manoochehrtayebi’s PhD work (Un modèle micro-poro-mécanique du parenchyme pulmonaire) and chaired a session (Biomécanique et ingénierie du vivant)\n\nAlso, I was elected a board member of the French Computational Mechanics Association."
-  },
-  {
-    "objectID": "posts/2024/2024-10-01 - haotian-xiao-barrientos-joins-the-team copy/index.html",
-    "href": "posts/2024/2024-10-01 - haotian-xiao-barrientos-joins-the-team copy/index.html",
+    "objectID": "posts/2024/2024-10-01 - haotian-xiao-joins-the-team/index.html",
+    "href": "posts/2024/2024-10-01 - haotian-xiao-joins-the-team/index.html",
     "title": "Haotian Xiao joins the team",
     "section": "",
     "text": "Haotian Xiao, who graduated from École Centrale de Pékin (China) and holds a Master from the École Nationale des Ponts et Chaussées (France), just started his PhD in the team. Funded by the IPP doctoral school, he will work on adding the pulmonary circulation to our lung model, in collaboration with Laurent Savale, David Montani & Marc Humbert from the Université Paris-Saclay/INSERM Hypertension Artérielle Pulmonaire: Physiopathologie et Innovation Thérapeutique team and APHP. Welcome and good luck, Haotian!"
+  },
+  {
+    "objectID": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
+    "href": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
+    "title": "Four teaching positions are available in the Mechanics Department of École Polytechnique",
+    "section": "",
+    "text": "Four teaching positions are available in the Mechanics Department of École Polytechnique, including one full-time faculty position (Assistant Professor) in Bio-materials! See https://www.linkedin.com/posts/eric-charkaluk-99170965_postes-ouverts-au-d%C3%A9partement-de-m%C3%A9canique-activity-7160643818109734914-AdlQ for more details."
   },
   {
     "objectID": "posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/index.html",
