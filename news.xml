@@ -10,7 +10,31 @@
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Fri, 06 Sep 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 01 Oct 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Haotian Xiao joins the team</title>
+  <link>https://mgenet.github.io/posts/2024/2024-10-01 - haotian-xiao-barrientos-joins-the-team copy/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Haotian Xiao, who graduated from <em>École Centrale de Pékin</em> (China) and holds a Master from the <em>École Nationale des Ponts et Chaussées</em> (France), just started his PhD in the team. Funded by the <a href="https://www.ip-paris.fr/en/education/phd-programs/ip-paris-doctoral-school">IPP doctoral school</a>, he will work on adding the pulmonary circulation to our lung model, in collaboration with Laurent Savale, David Montani &amp; Marc Humbert from <a href="http://www.u999.u-psud.fr">the <em>Université Paris-Saclay</em>/INSERM <em>Hypertension Artérielle Pulmonaire: Physiopathologie et Innovation Thérapeutique</em> team</a> and APHP. Welcome and good luck, Haotian!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2024/2024-10-01 - haotian-xiao-barrientos-joins-the-team copy/haotian.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-10-01 - haotian-xiao-barrientos-joins-the-team copy/</guid>
+  <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-10-01 - haotian-xiao-barrientos-joins-the-team copy/haotian.png" medium="image" type="image/png" height="194" width="144"/>
+</item>
 <item>
   <title>VPH2024</title>
   <link>https://mgenet.github.io/posts/2024/2024-09-06 - VPH2024/</link>
@@ -485,31 +509,6 @@
   <category>News</category>
   <guid>https://mgenet.github.io/posts/2023/2023-05-03 - m3disim-cmbbe2023/</guid>
   <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>New paper on the structural origin of the anisotropy in the myocardium: Multiscale modeling and analysis</title>
-  <link>https://mgenet.github.io/posts/2022/2022-12-12 - new-paper-on-the-structural-origin-of-the-anisotropy-in-the-myocardium-multiscale-modeling-and-analysis/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><a href="https://www.linkedin.com/in/nicole-tueni">Nicole Tueni</a>, <a href="https://m3disim.saclay.inria.fr/people/jean-marc-allain">Jean-Marc Allain</a> and I just published a paper in the <a href="https://www.sciencedirect.com/journal/journal-of-the-mechanical-behavior-of-biomedical-materials">Journal of the Mechanical Behavior of Biomedical Materials</a>.</p>
-<p>Click <a href="https://authors.elsevier.com/sd/article/S1751-6161(22)00505-7">here</a> to read the article!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2022/2022-12-12 - new-paper-on-the-structural-origin-of-the-anisotropy-in-the-myocardium-multiscale-modeling-and-analysis/images/1-s2.0-S1751616122005057-gr2_lrg.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2022/2022-12-12 - new-paper-on-the-structural-origin-of-the-anisotropy-in-the-myocardium-multiscale-modeling-and-analysis/</guid>
-  <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2022/2022-12-12 - new-paper-on-the-structural-origin-of-the-anisotropy-in-the-myocardium-multiscale-modeling-and-analysis/images/1-s2.0-S1751616122005057-gr2_lrg.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
