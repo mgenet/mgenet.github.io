@@ -260,6 +260,30 @@
 </item>
 <item>
   <title>New paper on mechanical regularization for motion tracking</title>
+  <link>https://mgenet.github.io/posts/2024/2024-10-07 - new-paper-on-lung-modeling/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Alice Peyraut and I just published a paper in Biomechanics and Modeling in Mecanobiology (BMMB), introducing new boundary conditions for our lung model, including gravity and more physiological pleural pressure distributions, cf.&nbsp;<a href="https://doi.org/10.1007/s10237-024-01876-w">https://doi.org/10.1007/s10237-024-01876-w</a> (<a href="https://link.springer.com/epdf/10.1007/s10237-024-01876-w?sharing_token=TuYvGkFwmuPZSLGXMtvdcve4RwlQNchNByi7wbcMAY7Mq3ZVL9usuZLCnim_ByvgmMGt1_bIzml7NUcIAu6T6_JRpn3k-PPYoDLxIoEvRfV4aAoQsV3Uw58Qotc3K6Zk4dEWZo4IYU34MX08NO0Aqh6XH_EMxkXX-07hBqNMKxM%3D">editor shared link</a>, <a href="https://hal.science/hal-04663299">HAL repository</a>). As usual now all computations from the paper (which are based on the <a href="https://github.com/mgenet/dolfin_mech">dolfin_mech</a> FEniCS library) are easily reproducible at <a href="https://apeyraut.gitlabpages.inria.fr/gravity-modeling-paper-demos">https://apeyraut.gitlabpages.inria.fr/gravity-modeling-paper-demos</a>, so do not hesitate to give it a try—let us know how it goes!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2024/2024-10-07 - new-paper-on-lung-modeling/images/logo.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-10-07 - new-paper-on-lung-modeling/</guid>
+  <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-10-07 - new-paper-on-lung-modeling/images/logo.png" medium="image" type="image/png" height="118" width="144"/>
+</item>
+<item>
+  <title>New paper on mechanical regularization for motion tracking</title>
   <link>https://mgenet.github.io/posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/</link>
   <description><![CDATA[ 
 
@@ -486,29 +510,6 @@
   <guid>https://mgenet.github.io/posts/2023/2023-05-23 - new-paper-on-reduced-left-ventricular-dynamics-modeling-based-on-a-cylindrical-assumption/</guid>
   <pubDate>Tue, 23 May 2023 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2023/2023-05-23 - new-paper-on-reduced-left-ventricular-dynamics-modeling-based-on-a-cylindrical-assumption/images/GraphicalAbstract.png" medium="image" type="image/png" height="85" width="144"/>
-</item>
-<item>
-  <title>CMBBE2023</title>
-  <link>https://mgenet.github.io/posts/2023/2023-05-03 - m3disim-cmbbe2023/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This week we are present at the <a href="https://www.cmbbe-symposium.com/2023">18th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering</a>:</p>
-<ul>
-<li><p><a href="https://m3disim.saclay.inria.fr/people/alice-peyraut">Alice Peyraut</a> is presenting her work on “Uncertainty quantification in personalized pulmonary mechanics”;</p></li>
-<li><p><a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a> is presenting his work on “Multi-Scale Modeling of the Lung Parenchyma”;</p></li>
-<li><p>I am chairing a session on “Computational pulmonology: recent advances and challenges”.</p></li>
-</ul>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2023/2023-05-03 - m3disim-cmbbe2023/</guid>
-  <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
