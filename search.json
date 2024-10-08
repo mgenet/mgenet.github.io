@@ -249,7 +249,7 @@
     "href": "posts/2024/2024-10-07 - new-paper-on-lung-modeling/index.html",
     "title": "New paper on mechanical regularization for motion tracking",
     "section": "",
-    "text": "Alice Peyraut and I just published a paper in Biomechanics and Modeling in Mecanobiology (BMMB), introducing new boundary conditions for our lung model, including gravity and more physiological pleural pressure distributions, cf. https://doi.org/10.1007/s10237-024-01876-w (editor shared link, HAL repository). As usual now all computations from the paper (which are based on the dolfin_mech FEniCS library) are easily reproducible at https://apeyraut.gitlabpages.inria.fr/gravity-modeling-paper-demos, so do not hesitate to give it a try—let us know how it goes!"
+    "text": "Alice Peyraut and I just published a paper in Biomechanics and Modeling in Mechanobiology (BMMB), introducing new boundary conditions for our lung model, including gravity and more physiological pleural pressure distributions, cf. https://doi.org/10.1007/s10237-024-01876-w (editor shared link, HAL repository). As usual now all computations from the paper (which are based on the dolfin_mech FEniCS library) are easily reproducible at https://apeyraut.gitlabpages.inria.fr/gravity-modeling-paper-demos, so do not hesitate to give it a try—let us know how it goes!"
   },
   {
     "objectID": "posts/2024/2024-10-01 - haotian-xiao-joins-the-team/index.html",
