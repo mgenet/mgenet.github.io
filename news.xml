@@ -10,7 +10,28 @@
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 07 Oct 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 01 Nov 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>PM-iDICs 2024</title>
+  <link>https://mgenet.github.io/posts/2024/2024-11-01 - pm-idics-conference/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This week I attended the <a href="https://pm-idics-2024.sciencesconf.org">2024 PM-iDICs conference</a>, and presented recent work on the use of the equilibrium gap principle for regularizing the motion tracking problem [<a href="https://doi.org/10.5802/crmeca.228">Genet, 2023, Comptes Rendus Mécanique</a>], and for the direct estimation of model parameters from full field measurement (joint work with Alice Peyraut, to appear), in the “Mathematics &amp; Algorithm” mini-symposium.</p>
+<p>The conference was jointly held by the <a href="https://photomeca.cnrs.fr">PhotoMechanics Association</a> and the <a href="https://www.idics.org">International Digital Image Correlation Society</a>, and perfectly hosted by the Université Clermont Auvergne.</p>
+<p>Looking forward to PM-iDICs 2026 at École Normale Supérieure de Paris-Saclay!</p>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-11-01 - pm-idics-conference/</guid>
+  <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-11-01 - pm-idics-conference/pm-idics.png" medium="image" type="image/png" height="41" width="144"/>
+</item>
 <item>
   <title>New paper on lung modeling</title>
   <link>https://mgenet.github.io/posts/2024/2024-10-07 - new-paper-on-lung-modeling/</link>
@@ -485,31 +506,6 @@
   <guid>https://mgenet.github.io/posts/2023/2023-07-05 - m3disim-e4h-2/</guid>
   <pubDate>Wed, 05 Jul 2023 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2023/2023-07-05 - m3disim-e4h-2/images/20230705_170030-e1688639685260.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>New paper on reduced left ventricular dynamics modeling based on a cylindrical assumption</title>
-  <link>https://mgenet.github.io/posts/2023/2023-05-23 - new-paper-on-reduced-left-ventricular-dynamics-modeling-based-on-a-cylindrical-assumption/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Together with <a href="https://m3disim.saclay.inria.fr/people/jerome-diaz">Jérôme Diaz</a>, <a href="https://m3disim.saclay.inria.fr/people/dominique-chapelle">Dominique Chapelle</a> &amp; <a href="https://m3disim.saclay.inria.fr/people/philippe-moireau">Philippe Moireau</a>, we just introduced a new —intermediate— level in the <a href="https://m3disim.saclay.inria.fr">MΞDISIM team</a> team’s cardiac model hierarchy (3D &amp; reduced “spherical” model) with a reduced “cylindrical” model: <a href="https://dx.doi.org/10.1002/cnm.3711">https://dx.doi.org/10.1002/cnm.3711</a></p>
-<p>You can find our preprint on HAL: <a href="https://hal.science/hal-03832575">https://hal.science/hal-03832575</a></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2023/2023-05-23 - new-paper-on-reduced-left-ventricular-dynamics-modeling-based-on-a-cylindrical-assumption/images/GraphicalAbstract.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2023/2023-05-23 - new-paper-on-reduced-left-ventricular-dynamics-modeling-based-on-a-cylindrical-assumption/</guid>
-  <pubDate>Tue, 23 May 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2023/2023-05-23 - new-paper-on-reduced-left-ventricular-dynamics-modeling-based-on-a-cylindrical-assumption/images/GraphicalAbstract.png" medium="image" type="image/png" height="85" width="144"/>
 </item>
 </channel>
 </rss>
