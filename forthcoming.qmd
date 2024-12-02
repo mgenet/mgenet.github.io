@@ -7,9 +7,9 @@ about:
   template: solana
 ---
 
-- 2024/11/07: Webinar on open and reproducible science for the [International Open Access Week at _Institut Polytechnique de Paris_ event](https://www.ip-paris.fr/en/news/open-access-week-ip-paris).
+<!-- - 2024/11/07: Webinar on open and reproducible science for the [International Open Access Week at _Institut Polytechnique de Paris_ event](https://www.ip-paris.fr/en/news/open-access-week-ip-paris). -->
 
-- 2024/12/02: Presentation on "Mechanics of soft and hard tissues" for the ["The Art of Healing, the Science of Understanding" medical biomechanics course](https://www.biomecardio.com/GDR_MBS/GDR_MBS_clinique_2024.html).
+<!-- - 2024/12/02: Presentation on "Mechanics of soft and hard tissues" for the ["The Art of Healing, the Science of Understanding" medical biomechanics course](https://www.biomecardio.com/GDR_MBS/GDR_MBS_clinique_2024.html). -->
 
 - 2024/12/04: Course on "Biomedical engineering based on mechanical simulation: application to pulmonary fibrosis" for the [Biology, Physiology and Pharmacology of Respiration and Sleep (B2PRS) Master](https://master-sante.sorbonne-universite.fr/mention-sante/mention-sante-m2/m2-biologie-physiologie-pharmacologie-de-la-respiration-et-du-sommeil-b2prs)
 
