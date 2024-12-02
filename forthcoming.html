@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,10 +34,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-659650fc26dc25888fc1474f317bb8ac.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -161,9 +161,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </header> 
       <div class="about-contents"><main class="content column-page" id="quarto-document-content">
+<!-- - 2024/11/07: Webinar on open and reproducible science for the [International Open Access Week at _Institut Polytechnique de Paris_ event](https://www.ip-paris.fr/en/news/open-access-week-ip-paris). -->
+<!-- - 2024/12/02: Presentation on "Mechanics of soft and hard tissues" for the ["The Art of Healing, the Science of Understanding" medical biomechanics course](https://www.biomecardio.com/GDR_MBS/GDR_MBS_clinique_2024.html). -->
 <ul>
-<li><p>2024/11/07: Webinar on open and reproducible science for the <a href="https://www.ip-paris.fr/en/news/open-access-week-ip-paris">International Open Access Week at <em>Institut Polytechnique de Paris</em> event</a>.</p></li>
-<li><p>2024/12/02: Presentation on “Mechanics of soft and hard tissues” for the <a href="https://www.biomecardio.com/GDR_MBS/GDR_MBS_clinique_2024.html">“The Art of Healing, the Science of Understanding” medical biomechanics course</a>.</p></li>
 <li><p>2024/12/04: Course on “Biomedical engineering based on mechanical simulation: application to pulmonary fibrosis” for the <a href="https://master-sante.sorbonne-universite.fr/mention-sante/mention-sante-m2/m2-biologie-physiologie-pharmacologie-de-la-respiration-et-du-sommeil-b2prs">Biology, Physiology and Pharmacology of Respiration and Sleep (B2PRS) Master</a></p></li>
 <li><p>2025/02/17-21: Mini-symposium (co-organized w/ <a href="http://www.cmap.polytechnique.fr/~philippe.moireau">Philippe Moireau</a>) on “Digital Twins of Living Systems: Theoretical, Implementation &amp; Application Challenges” at the <a href="https://dte_aicomas_2025.iacm.info">3rd IACM Digital Twins in Engineering Conference (DTE 2025) &amp; 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025) conference</a>.</p></li>
 <li><p>2025/03/27: Seminar at the <a href="https://www.gla.ac.uk/schools/mathematicsstatistics">School of Mathematics and Statistics of the University of Glasgow</a>, Scotland, U.K.</p></li>
@@ -251,8 +251,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -363,7 +361,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

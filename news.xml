@@ -9,8 +9,27 @@
 <link>https://mgenet.github.io/news.html</link>
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Fri, 01 Nov 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.39</generator>
+<lastBuildDate>Mon, 02 Dec 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>“Art of Healing, Science of Understanding” workshop</title>
+  <link>https://mgenet.github.io/posts/2024/2024-12-02 - l-art-de-soigner/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today I gave a short course on “Mechanics of hard and soft tissues” at INRIA Paris, for the <a href="https://www.biomecardio.com/GDR_MBS/GDR_MBS_clinique_2024.html">workshop “L’Art de Soigner, la Science de Comprendre”</a> of <a href="https://gdr-mecabio-sante.cnrs.fr">the GdR MécaBioSanté</a>. Every year, this workshop is held right before the GdR annual workshop (which this year will be held in Metz, starting tomorrow!), to offer some basic training in mechanics to medical doctors, and to discuss research at the interface between mechanics and clinics. It is organized by <a href="https://team.inria.fr/simbiotx/team-members/irene-vignon-clementel">Irène Vignon-Clémentel</a> and <a href="https://www.biomecardio.com">Damien Garcia</a>—many thanks to them for bringing together people from solid mechanics, fluid mechanics, imaging, machine learning, … and the clinics!</p>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-12-02 - l-art-de-soigner/</guid>
+  <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-12-02 - l-art-de-soigner/logoGDRday1.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>PM-iDICs 2024</title>
   <link>https://mgenet.github.io/posts/2024/2024-11-01 - pm-idics-conference/</link>
@@ -222,7 +241,7 @@
 </item>
 <item>
   <title>CSMA2024</title>
-  <link>https://mgenet.github.io/posts/2024/2024-05-17 - m3disim-csma2024/</link>
+  <link>https://mgenet.github.io/posts/2024/2024-05-17 - CSMA2024/</link>
   <description><![CDATA[ 
 
 
@@ -238,7 +257,7 @@
 <p>Also, I was elected a board member of the <a href="https://csma.asso.univ-lorraine.fr">French Computational Mechanics Association</a>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2024/2024-05-17 - m3disim-csma2024/images/WhatsApp-Image-2024-05-17-at-11.09.54.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://mgenet.github.io/posts/2024/2024-05-17 - CSMA2024/images/WhatsApp-Image-2024-05-17-at-11.09.54.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 
@@ -246,9 +265,9 @@
 
  ]]></description>
   <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/2024-05-17 - m3disim-csma2024/</guid>
+  <guid>https://mgenet.github.io/posts/2024/2024-05-17 - CSMA2024/</guid>
   <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2024/2024-05-17 - m3disim-csma2024/images/WhatsApp-Image-2024-05-17-at-11.09.54.jpeg" medium="image" type="image/jpeg"/>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-05-17 - CSMA2024/images/WhatsApp-Image-2024-05-17-at-11.09.54.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Mahdi Manoochehrtayebi defends his PhD thesis</title>
@@ -477,35 +496,6 @@
   <category>News</category>
   <guid>https://mgenet.github.io/posts/2023/2023-08-31 - martin-genet-was-just-promoted-professor-at-ecole-polytechnique/</guid>
   <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>E4H Forum</title>
-  <link>https://mgenet.github.io/posts/2023/2023-07-05 - m3disim-e4h-2/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Today we were present at <a href="https://www.ip-paris.fr/en/news/engineering-health-annual-forum-2023">the second E4H forum</a>:</p>
-<ul>
-<li><p><a href="https://m3disim.saclay.inria.fr/people/alice-peyraut">Alice Peyraut</a> presented a posted on Uncertainty Quantification in Personalized Pulmonary Mechanics</p></li>
-<li><p><a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a> &amp; <a href="https://m3disim.saclay.inria.fr/people/alice-peyraut">Alice Peyraut</a> received a BME Conference Award</p></li>
-<li><p>Kateřina Škardová (Department of Mathematics, Czech Technical University, Prague) received a <a href="https://www.ip-paris.fr/en/research/research-departments-laboratories-centers-and-projects/disciplinary-and-interdisciplinary-centers/e4h-interdisciplinary-center-engineering-health/postdoctoral-fellowship-program">E4H Postdoctoral Fellowship</a>—she will arrive in the team in August and work on Multiscale Modeling and Simulation of Remodeling in Pulmonary Fibrosis.</p></li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2023/2023-07-05 - m3disim-e4h-2/images/20230705_170030-e1688639685260.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2023/2023-07-05 - m3disim-e4h-2/</guid>
-  <pubDate>Wed, 05 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2023/2023-07-05 - m3disim-e4h-2/images/20230705_170030-e1688639685260.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
