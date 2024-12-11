@@ -8,7 +8,7 @@ image: "group1.jpg"
 
 This week we are attending the 2024 Virtual Physiological Human Conference ([VPH2024](https://vph-conference.org)):
 
-- [Kateřina Škardová](https://m3disim.saclay.inria.fr/people/katerina-skardova) presented her work on "Bridging micro to macro in pulmonary mechanics: Interpretable neural networks for surrogate modelling";
+- [Kateřina Škardová](https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142) presented her work on "Bridging micro to macro in pulmonary mechanics: Interpretable neural networks for surrogate modelling";
 
 ![](katka.jpg){width="50%" fig-align="center"}
 
