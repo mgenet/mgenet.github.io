@@ -31,6 +31,27 @@
   <media:content url="https://mgenet.github.io/posts/2024/2024-12-02 - l-art-de-soigner/logoGDRday1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>New preprints on Finite Element Neural Network!</title>
+  <link>https://mgenet.github.io/posts/2024/2024-12-11 - new-preprint-on-finite-element-neural-network/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Together with <a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a> and <a href="https://alexandredabyseesaram.github.io">Alexandre Daby-Seesaram</a> we just submitted for publication two papers on “Finite Element Neural Network Interpolation”: Part I is on “Interpretable and Adaptive Discretization for Solving PDEs” and Part II on “Hybridisation with the Proper Generalised Decomposition for non-linear surrogate modelling”. Both preprints are on ArXiv: <a href="https://doi.org/10.48550/arXiv.2412.05719">Part I</a> and <a href="https://doi.org/10.48550/arXiv.2412.05714">Part II</a>.</p>
+<p>We implemented our framework in a library called <a href="https://github.com/AlexandreDabySeesaram/NeuROM">NeuROM</a>, which is freely available, and as usual now we also publish jupyter notebooks to allow reproduction of the figures of the papers: <a href="https://alexandredabyseesaram.github.io/FENNI-I-paper-demo">Part I</a> and <a href="https://alexandredabyseesaram.github.io/FENNI-II-PGD-paper-demo">Part II</a>.</p>
+<p>Definitely let us know if you are interested and want to collaborate on these topics!</p>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-12-11 - new-preprint-on-finite-element-neural-network/</guid>
+  <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-12-11 - new-preprint-on-finite-element-neural-network/fenni.png" medium="image" type="image/png" height="233" width="144"/>
+</item>
+<item>
   <title>PM-iDICs 2024</title>
   <link>https://mgenet.github.io/posts/2024/2024-11-01 - pm-idics-conference/</link>
   <description><![CDATA[ 
@@ -110,7 +131,7 @@
 
 <p>This week we are attending the 2024 Virtual Physiological Human Conference (<a href="https://vph-conference.org">VPH2024</a>):</p>
 <ul>
-<li><a href="https://m3disim.saclay.inria.fr/people/katerina-skardova">Kateřina Škardová</a> presented her work on “Bridging micro to macro in pulmonary mechanics: Interpretable neural networks for surrogate modelling”;</li>
+<li><a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a> presented her work on “Bridging micro to macro in pulmonary mechanics: Interpretable neural networks for surrogate modelling”;</li>
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -419,7 +440,7 @@
 
 
 
-<p><a href="https://m3disim.saclay.inria.fr/people/katerina-skardova">Kateřina Škardová</a> and I are attending <a href="https://mortech2023.sciencesconf.org">MORTech 2023</a> (6th International Workshop on Model Reduction Techniques) at Laboratoire de Mécanique de Paris-Saclay (LMPS), École Normale Supérieur de Paris-Saclay (ENSPS), to learn about current trends in model reduction methods—we even met a future member of the team (more on that soon)!</p>
+<p><a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a> and I are attending <a href="https://mortech2023.sciencesconf.org">MORTech 2023</a> (6th International Workshop on Model Reduction Techniques) at Laboratoire de Mécanique de Paris-Saclay (LMPS), École Normale Supérieur de Paris-Saclay (ENSPS), to learn about current trends in model reduction methods—we even met a future member of the team (more on that soon)!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mgenet.github.io/posts/2023/2023-11-24 - m3disim-mortech-2023/images/20231124_111135.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
@@ -465,7 +486,7 @@
 
 
 
-<p><a href="https://m3disim.saclay.inria.fr/people/katerina-skardova">Kateřina Škardová</a>, who recently defended her PhD at the Department of Mathematics of Czech Technical University in Prague, is starting as a postdoc in the team. She already visited us during her PhD, notably to work on motion tracking and published <a href="https://doi.org/10.1007/978-3-030-32040-9_9">a conference paper</a> on the subject. Her postdoc is funded by a <a href="https://www.ip-paris.fr/en/research/research-departments-laboratories-centers-and-projects/disciplinary-and-interdisciplinary-centers/e4h-interdisciplinary-center-engineering-health/postdoctoral-fellowship-program">E4H Postdoctoral Fellowship</a>, which she obtained with her project on Multiscale Modeling and Simulation of Remodeling in Pulmonary Fibrosis. Welcome back and good luck, Katka!</p>
+<p><a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a>, who recently defended her PhD at the Department of Mathematics of Czech Technical University in Prague, is starting as a postdoc in the team. She already visited us during her PhD, notably to work on motion tracking and published <a href="https://doi.org/10.1007/978-3-030-32040-9_9">a conference paper</a> on the subject. Her postdoc is funded by a <a href="https://www.ip-paris.fr/en/research/research-departments-laboratories-centers-and-projects/disciplinary-and-interdisciplinary-centers/e4h-interdisciplinary-center-engineering-health/postdoctoral-fellowship-program">E4H Postdoctoral Fellowship</a>, which she obtained with her project on Multiscale Modeling and Simulation of Remodeling in Pulmonary Fibrosis. Welcome back and good luck, Katka!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mgenet.github.io/posts/2023/2023-10-01 - katka-skardova-joins-the-team/IMG_0554b-1.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
@@ -479,23 +500,6 @@
   <guid>https://mgenet.github.io/posts/2023/2023-10-01 - katka-skardova-joins-the-team/</guid>
   <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2023/2023-10-01 - katka-skardova-joins-the-team/IMG_0554b-1.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>I was just promoted Professor at École Polytechnique!</title>
-  <link>https://mgenet.github.io/posts/2023/2023-08-31 - martin-genet-was-just-promoted-professor-at-ecole-polytechnique/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2023/2023-08-31 - martin-genet-was-just-promoted-professor-at-ecole-polytechnique/</guid>
-  <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
