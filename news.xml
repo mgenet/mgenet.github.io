@@ -10,26 +10,7 @@
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Mon, 02 Dec 2024 00:00:00 GMT</lastBuildDate>
-<item>
-  <title>“Art of Healing, Science of Understanding” Workshop</title>
-  <link>https://mgenet.github.io/posts/2024/2024-12-02 - l-art-de-soigner/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Today I gave a short course on “Mechanics of Hard and Soft Tissues” at INRIA Paris, for the <a href="https://www.biomecardio.com/GDR_MBS/GDR_MBS_clinique_2024.html">“<em>L’Art de Soigner, la Science de Comprendre</em>” workshop</a> of the <a href="https://gdr-mecabio-sante.cnrs.fr">GdR MécaBioSanté</a>. Every year, this workshop is held right before the GdR annual workshop (which this year will be held in Metz, starting tomorrow!), to offer some basic training in mechanics to medical doctors, and to discuss research at the interface between mechanics and clinics. It is organized by <a href="https://team.inria.fr/simbiotx/team-members/irene-vignon-clementel">Irène Vignon-Clémentel</a> and <a href="https://www.biomecardio.com">Damien Garcia</a>—many thanks to them for finding such a fancy name for the workshop, and more importantly for bringing together people from mechanics (solid and fluid!), imaging, machine learning, … and the clinics!</p>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/2024-12-02 - l-art-de-soigner/</guid>
-  <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2024/2024-12-02 - l-art-de-soigner/logoGDRday1.jpg" medium="image" type="image/jpeg"/>
-</item>
+<lastBuildDate>Wed, 11 Dec 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>New preprints on Finite Element Neural Network!</title>
   <link>https://mgenet.github.io/posts/2024/2024-12-11 - new-preprint-on-finite-element-neural-network/</link>
@@ -48,8 +29,27 @@
  ]]></description>
   <category>News</category>
   <guid>https://mgenet.github.io/posts/2024/2024-12-11 - new-preprint-on-finite-element-neural-network/</guid>
-  <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+  <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2024/2024-12-11 - new-preprint-on-finite-element-neural-network/fenni.png" medium="image" type="image/png" height="233" width="144"/>
+</item>
+<item>
+  <title>“Art of Healing, Science of Understanding” Workshop</title>
+  <link>https://mgenet.github.io/posts/2024/2024-12-02 - l-art-de-soigner/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today I gave a short course on “Mechanics of Hard and Soft Tissues” at INRIA Paris, for the <a href="https://www.biomecardio.com/GDR_MBS/GDR_MBS_clinique_2024.html">“<em>L’Art de Soigner, la Science de Comprendre</em>” workshop</a> of the <a href="https://gdr-mecabio-sante.cnrs.fr">GdR MécaBioSanté</a>. Every year, this workshop is held right before the GdR annual workshop (which this year will be held in Metz, starting tomorrow!), to offer some basic training in mechanics to medical doctors, and to discuss research at the interface between mechanics and clinics. It is organized by <a href="https://team.inria.fr/simbiotx/team-members/irene-vignon-clementel">Irène Vignon-Clémentel</a> and <a href="https://www.biomecardio.com">Damien Garcia</a>—many thanks to them for finding such a fancy name for the workshop, and more importantly for bringing together people from mechanics (solid and fluid!), imaging, machine learning, … and the clinics!</p>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-12-02 - l-art-de-soigner/</guid>
+  <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-12-02 - l-art-de-soigner/logoGDRday1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>PM-iDICs 2024</title>
