@@ -10,7 +10,40 @@
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Wed, 11 Dec 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Dec 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Alice Peyraut defends her PhD thesis</title>
+  <link>https://mgenet.github.io/posts/2024/2024-12-19 - alice-peyraut-defends-her-phd-thesis/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today Alice Peyraut defended her PhD thesis! Jury was composed of:</p>
+<ul>
+<li><a href="https://imes.ethz.ch/the-institute/people/person-detail.ldelorenzis.html">Laura De Lorenzis</a>, ETH Zurich, Switzerland (President)</li>
+<li><a href="https://lmps.ens-paris-saclay.fr/fr/annuaire-des-personnes/bing-tie">Bing Tie</a>, Laboratoire de Mécanique Paris-Saclay (LMPS), Centrale Supélec, Git-sur-Yvette (Reviewer)</li>
+<li><a href="https://www.mines-stetienne.fr/author/avril">Stéphane Avril</a>, Mines Saint-Étienne (Reviewer)</li>
+<li><a href="https://fr.linkedin.com/in/andrei-constantinescu-652b8972">Andrei Constantinescu</a>, Laboratoire de Mécanique des Solides de l’École Polytechnique, CNRS, Palaiseau (Examiner)</li>
+<li><a href="https://hypoxie.univ-paris13.fr/equipe/37-bernaudin-jean-francois.html">Jean-François Bernaudin</a>, Sorbonne University, Paris (Examiner)</li>
+<li><a href="https://mgenet.github.io">Martin Genet</a>, École Polytechnique (PhD Director)</li>
+</ul>
+<p>Congrats Alice and best wishes for the future!!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2024/2024-12-19 - alice-peyraut-defends-her-phd-thesis/image.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-12-19 - alice-peyraut-defends-her-phd-thesis/</guid>
+  <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-12-19 - alice-peyraut-defends-her-phd-thesis/image.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>New preprints on Finite Element Neural Network!</title>
   <link>https://mgenet.github.io/posts/2024/2024-12-11 - new-preprint-on-finite-element-neural-network/</link>
@@ -477,30 +510,6 @@
   <category>News</category>
   <guid>https://mgenet.github.io/posts/2023/2023-10-25 - m3disim-sb2023/</guid>
   <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Kateřina Škardová joins the team</title>
-  <link>https://mgenet.github.io/posts/2023/2023-10-01 - katka-skardova-joins-the-team/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a>, who recently defended her PhD at the Department of Mathematics of Czech Technical University in Prague, is starting as a postdoc in the team. She already visited us during her PhD, notably to work on motion tracking and published <a href="https://doi.org/10.1007/978-3-030-32040-9_9">a conference paper</a> on the subject. Her postdoc is funded by a <a href="https://www.ip-paris.fr/en/research/research-departments-laboratories-centers-and-projects/disciplinary-and-interdisciplinary-centers/e4h-interdisciplinary-center-engineering-health/postdoctoral-fellowship-program">E4H Postdoctoral Fellowship</a>, which she obtained with her project on Multiscale Modeling and Simulation of Remodeling in Pulmonary Fibrosis. Welcome back and good luck, Katka!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2023/2023-10-01 - katka-skardova-joins-the-team/IMG_0554b-1.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2023/2023-10-01 - katka-skardova-joins-the-team/</guid>
-  <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2023/2023-10-01 - katka-skardova-joins-the-team/IMG_0554b-1.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
