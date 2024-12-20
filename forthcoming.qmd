@@ -13,7 +13,7 @@ about:
 
 <!-- - 2024/12/04: Course on "Biomedical engineering based on mechanical simulation: application to pulmonary fibrosis" for the [Biology, Physiology and Pharmacology of Respiration and Sleep (B2PRS) Master](https://master-sante.sorbonne-universite.fr/mention-sante/mention-sante-m2/m2-biologie-physiologie-pharmacologie-de-la-respiration-et-du-sommeil-b2prs) -->
 
-- 2024/12/16: Seminar on "Motion tracking, Lung modeling, Machine learning" for the "[Computational Mechanics @ IPP](https://groupes.renater.fr/sympa/info/computational-mechanics-at-ipp)" monthly meeting.
+<!-- - 2024/12/16: Seminar on "Motion tracking, Lung modeling, Machine learning" for the "[Computational Mechanics @ IPP](https://groupes.renater.fr/sympa/info/computational-mechanics-at-ipp)" monthly meeting. -->
 
 - 2025/02/17-21: Mini-symposium (co-organized w/ [Philippe Moireau](http://www.cmap.polytechnique.fr/~philippe.moireau)) on "Digital Twins of Living Systems: Theoretical, Implementation & Application Challenges" at the [3rd IACM Digital Twins in Engineering Conference (DTE 2025) & 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025) conference](https://dte_aicomas_2025.iacm.info).
 
