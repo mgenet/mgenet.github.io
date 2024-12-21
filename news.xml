@@ -10,7 +10,31 @@
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Thu, 19 Dec 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Dec 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>New review paper on digital twins for chronic lung diseases</title>
+  <link>https://mgenet.github.io/posts/2024/2024-12-20 - new-review-paper-on-digital-twins/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Together with <a href="https://www.researchgate.net/profile/Gonsard-Apolline">Apolline Gonsard</a> (University Hospital Necker-Enfants Malades) &amp; <a href="https://www.researchgate.net/profile/David-Drummond-2">David Drummond</a> (University Hospital Necker-Enfants Malades/Université Paris Cité/INSERM/INRIA), we just published a review paper on “Digital twins for chronic lung diseases”, cf.&nbsp;<a href="https://doi.org/10.1183/16000617.0159-2024">https://doi.org/10.1183/16000617.0159-2024</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2024/2024-12-20 - new-review-paper-on-digital-twins/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2024/2024-12-20 - new-review-paper-on-digital-twins/</guid>
+  <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2024/2024-12-20 - new-review-paper-on-digital-twins/image.png" medium="image" type="image/png" height="59" width="144"/>
+</item>
 <item>
   <title>Alice Peyraut defends her PhD thesis</title>
   <link>https://mgenet.github.io/posts/2024/2024-12-19 - alice-peyraut-defends-her-phd-thesis/</link>
@@ -488,28 +512,6 @@
   <guid>https://mgenet.github.io/posts/2023/2023-11-24 - m3disim-mortech-2023/</guid>
   <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2023/2023-11-24 - m3disim-mortech-2023/images/20231124_111135.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>SB2023</title>
-  <link>https://mgenet.github.io/posts/2023/2023-10-25 - m3disim-sb2023/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>We are present this week at the <a href="https://sb2023-grenoble.sciencesconf.org">48th Congress of the Francophone Society of Biomechanics</a>:</p>
-<ul>
-<li><p><a href="https://m3disim.saclay.inria.fr/people/alice-peyraut">Alice Peyraut</a> presents her PhD work on uncertainty quantification in personalized pulmonary mechanics</p></li>
-<li><p>I present <a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a>’s PhD work on micro-poro-mechanical modeling of the lung parenchyma</p></li>
-</ul>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2023/2023-10-25 - m3disim-sb2023/</guid>
-  <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
