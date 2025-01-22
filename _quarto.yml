@@ -13,6 +13,7 @@ website:
         href: index.qmd
       - news.qmd
       - forthcoming.qmd
+      - codes.qmd
       - text: "{{< iconify academicons:hal width=17 title=HAL >}}"
         href: https://cv.hal.science/martin-genet
       - text: "{{< iconify academicons:orcid width=17 title=ORCID >}}"

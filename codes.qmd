@@ -1,0 +1,68 @@
+---
+title: Codes
+format:
+  html:
+    page-layout: full
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+---
+
+
+## Libraries
+
+Here are the main codes developed in the team—do not hesitate to get in touch if you want to collaborate on future developments!
+
+
+### dolfin_warp
+
+A set of [FEniCS](https://fenicsproject.org)- and [VTK](https://vtk.org)-based python tools for Finite Element Digital Image Correlation/Image Registration/Motion Tracking.
+
+- DOI: [https://doi.org/10.5281/zenodo.8010786](https://doi.org/10.5281/zenodo.8010786)
+- GitLab: [https://gitlab.inria.fr/mgenet/dolfin_warp](https://gitlab.inria.fr/mgenet/dolfin_warp)
+- PyPI: [https://pypi.org/project/dolfin-warp](https://pypi.org/project/dolfin-warp)
+- Tutorials: [https://gitlab.inria.fr/mgenet/dolfin_warp-tutorials](https://gitlab.inria.fr/mgenet/dolfin_warp-tutorials)
+
+
+### dolfin_mech
+
+A set of [FEniCS](https://fenicsproject.org)-based python tools for Computational Mechanics.
+
+- DOI: [https://doi.org/10.5281/zenodo.10533833](https://doi.org/10.5281/zenodo.10533833)
+- GitLab: [https://gitlab.inria.fr/mgenet/dolfin_mech](https://gitlab.inria.fr/mgenet/dolfin_mech)
+- PyPI: [https://pypi.org/project/dolfin-mech](https://pypi.org/project/dolfin-mech)
+
+
+### NeuROM
+
+The reduced-order modelling code used to create surrogate models based on an hybridization of standard reduced-order modelling methods such as the PGD and deep learning methods.
+
+- DOI: [https://doi.org/10.5281/zenodo.13772741](https://doi.org/10.5281/zenodo.13772741)
+- GitHub: [https://github.com/AlexandreDabySeesaram/NeuROM](https://github.com/AlexandreDabySeesaram/NeuROM)
+- PyPI: [https://pypi.org/project/NeuROM-Py](https://pypi.org/project/NeuROM-Py)
+
+
+## Papers with codes
+
+In order to allow for long term reproducibility of research results, we now try to systematically publish, in addition to the papers themselves, [Jupyter](https://jupyter.org) notebooks with the code to reproduce the figures of the papers, as well as [Docker](https://www.docker.com) images to run the notebooks—in principle you can reproduce the computation directly in your browser thanks to [Binder](https://mybinder.org)!
+
+
+### [Genet, 2024, C. R. Méca.]
+
+- Title: Finite strain formulation of the discrete equilibrium gap principle: application to mechanically consistent regularization for large motion tracking
+- DOI: [https://doi.org/10.5802/crmeca.228](https://doi.org/10.5802/crmeca.228)
+- Demos: [https://mgenet.gitlabpages.inria.fr/N-DEG-paper-demos/index.html](https://mgenet.gitlabpages.inria.fr/N-DEG-paper-demos/index.html)
+
+
+### [Peyraut & Genet, 2025, Biomech. Model. Mecanobiol.]
+
+- Title: A model of mechanical loading of the lungs including gravity and a balancing heterogeneous pleural pressure
+- DOI: [https://doi.org/10.1007/s10237-024-01876-w](https://doi.org/10.1007/s10237-024-01876-w)
+- Demos: [https://apeyraut.gitlabpages.inria.fr/gravity-modeling-paper-demos](https://apeyraut.gitlabpages.inria.fr/gravity-modeling-paper-demos)
+
+
+### [Peyraut & Genet, 2025, C. R. Méca.]
+
+- Title: Finite strain formulation of the discrete equilibrium gap principle: application to direct parameter estimation from large full-fields measurements
+- DOI: [https://doi.org/10.5802/crmeca.279](https://doi.org/10.5802/crmeca.279)
+- Demos: [https://apeyraut.gitlabpages.inria.fr/identification-methods-paper-demos](https://apeyraut.gitlabpages.inria.fr/identification-methods-paper-demos)
