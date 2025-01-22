@@ -9,8 +9,34 @@
 <link>https://mgenet.github.io/news.html</link>
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
-<generator>quarto-1.6.39</generator>
-<lastBuildDate>Fri, 20 Dec 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Wed, 22 Jan 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>New paper on direct model parameter identification</title>
+  <link>https://mgenet.github.io/posts/2025/2025-01-22 - new-paper-on-direct-estimation/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Did you ever dream of identifying model parameters from images without running the model itself? This is possible!</p>
+<p>Alice Peyraut and I just published a paper in <em>Comptes Rendus Mécanique</em>, where we use the finite strain formulation of the equilibrium gap principle (introduced in [<a href="https://doi.org/10.5802/crmeca.228">Genet, 2024, C. R. Mécanique</a>], cf.&nbsp;<a href="../../2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking">dedicated post</a>) to perform direct (i.e., without evaluating the model itself) estimation of model (material and/or loading) parameters from full field measurements. The method is <em>a priori</em> highly sensitive to noise, but we showed that using the equilibrium gap as regularizer for motion tracking allows to extract displacement fields from dynamic images that are robust enough to be used for direct parameter estimation. All the details are in the paper: <a href="https://doi.org/10.5802/crmeca.279">[Peyraut &amp; Genet, 2025, C. R. Mécanique]</a>.</p>
+<p>All computations from the paper (which are based on the <a href="https://github.com/mgenet/dolfin_warp">dolfin_warp</a> FEniCS/VTK-based library and the <a href="https://gitlab.inria.fr/apeyraut/dolfin_estim">dolfin_estim</a> FEniCS-based library) are easily reproducible at <a href="https://apeyraut.gitlabpages.inria.fr/identification-methods-paper-demos">https://apeyraut.gitlabpages.inria.fr/identification-methods-paper-demos</a>, so do not hesitate to give it a try, and let us know how it goes!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2025/2025-01-22 - new-paper-on-direct-estimation/logo.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2025/2025-01-22 - new-paper-on-direct-estimation/</guid>
+  <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-01-22 - new-paper-on-direct-estimation/logo.png" medium="image" type="image/png" height="124" width="144"/>
+</item>
 <item>
   <title>New review paper on digital twins for chronic lung diseases</title>
   <link>https://mgenet.github.io/posts/2024/2024-12-20 - new-review-paper-on-digital-twins/</link>
@@ -488,30 +514,6 @@
   <category>News</category>
   <guid>https://mgenet.github.io/posts/2023/2023-12-01 - mΞdisim-gdr-mecabiosante/</guid>
   <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>MORTech 2023</title>
-  <link>https://mgenet.github.io/posts/2023/2023-11-24 - m3disim-mortech-2023/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a> and I are attending <a href="https://mortech2023.sciencesconf.org">MORTech 2023</a> (6th International Workshop on Model Reduction Techniques) at Laboratoire de Mécanique de Paris-Saclay (LMPS), École Normale Supérieur de Paris-Saclay (ENSPS), to learn about current trends in model reduction methods—we even met a future member of the team (more on that soon)!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2023/2023-11-24 - m3disim-mortech-2023/images/20231124_111135.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2023/2023-11-24 - m3disim-mortech-2023/</guid>
-  <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2023/2023-11-24 - m3disim-mortech-2023/images/20231124_111135.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
