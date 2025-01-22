@@ -12,7 +12,7 @@ website:
       - text: "Home"
         href: index.qmd
       - news.qmd
-      - forthcoming.qmd
+      # - forthcoming.qmd
       - codes.qmd
       - text: "{{< iconify academicons:hal width=17 title=HAL >}}"
         href: https://cv.hal.science/martin-genet
