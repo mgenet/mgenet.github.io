@@ -9,8 +9,44 @@
 <link>https://mgenet.github.io/news.html</link>
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Mon, 10 Feb 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>DTE &amp; AICOMAS 2025</title>
+  <link>https://mgenet.github.io/posts/2025/2025-02-21 - DTE-AICOMAS/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This week we attended the <a href="https://dte_aicomas_2025.iacm.info">3rd IACM Digital Twins in Engineering Conference (DTE 2025) &amp; 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025)</a> in Paris:</p>
+<ul>
+<li><p><a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a> presented her work on <a href="https://dte_aicomas_2025.iacm.info/event/contribution/93f57dba-8e1e-11ef-b344-000c29ddfc0c">“Finite element neural network interpolation: Interpretable and adaptive discretization for solving PDEs”</a>;</p></li>
+<li><p><a href="https://alexandredabyseesaram.github.io">Alexandre Daby-Seesaram</a> presented his work on <a href="https://dte_aicomas_2025.iacm.info/event/contribution/db226dec-8efc-11ef-b344-000c29ddfc0c">“Finite element neural network interpolation: Hybridization with the proper generalized decomposition for surrogate modeling”</a>;</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2025/2025-02-21 - DTE-AICOMAS/alex.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<ul>
+<li>I co-chaired (together with <a href="http://www.cmap.polytechnique.fr/~philippe.moireau">Philippe Moireau (MΞDISIM, INRIA &amp; CMAP, École Polytechnique/IPP/CNRS)</a>) a mini-symposium on <a href="https://dte_aicomas_2025.iacm.info/event/area/8d4fc12b-710a-11ef-a6b7-000c29ddfc0c">“Digital twins of living systems: theoretical, implementation &amp; application challenges”</a>, with many exciting talks, cf.&nbsp;Sessions <a href="https://dte_aicomas_2025.iacm.info/event/session/23def0ab-b23c-11ef-9e02-000c29ddfc0c">I</a> <a href="https://dte_aicomas_2025.iacm.info/event/session/246c811a-b23c-11ef-9e02-000c29ddfc0c">II</a> and <a href="https://dte_aicomas_2025.iacm.info/event/session/24e8f1b8-b23c-11ef-9e02-000c29ddfc0c">III</a>—thanks again to all the speakers of the mini-symposium!</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2025/2025-02-21 - DTE-AICOMAS/group.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2025/2025-02-21 - DTE-AICOMAS/</guid>
+  <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-02-21 - DTE-AICOMAS/group.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>New review paper on lung poromechanical modeling for clinical application</title>
   <link>https://mgenet.github.io/posts/2025/2025-02-10 - expert-review/</link>
@@ -498,24 +534,6 @@
   <guid>https://mgenet.github.io/posts/2024/2024-01-01 - alexandre-daby-seesaram-joins-the-team/</guid>
   <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2024/2024-01-01 - alexandre-daby-seesaram-joins-the-team/alexandre.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Keynote speaker @ BIOREME Network Conference 2024</title>
-  <link>https://mgenet.github.io/posts/2023/2023-12-12 - martin-genet-bioreme-network-conference-2024/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>I will be a keynote speaker at <a href="https://www.bioreme.net/events-all/anwc2024">the BIOREME (Biophysical Modelling in Respiratory Medicine) Network Conference 2024</a>, which will be held in Nottingham, UK, next January—it is still time to register so do not hesitate to do so if you are interested in pulmonary biomechanical modeling!</p>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2023/2023-12-12 - martin-genet-bioreme-network-conference-2024/</guid>
-  <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
