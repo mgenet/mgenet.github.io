@@ -28,7 +28,7 @@ listing:
 
 <!-- - 2025/02/17-21: Mini-symposium (co-organized w/ [Philippe Moireau](http://www.cmap.polytechnique.fr/~philippe.moireau)) on "Digital Twins of Living Systems: Theoretical, Implementation & Application Challenges" at the [3rd IACM Digital Twins in Engineering Conference (DTE 2025) & 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025) conference](https://dte_aicomas_2025.iacm.info). -->
 
-- 2025/03/14: Examiner for Matteo Barbieri's PhD defense (Laboratory: [LMPS](https://lmps.ens-paris-saclay.fr), [ENPS](https://ens-paris-saclay.fr)/[CNRS](https://cnrs.fr); Advisors: Stéphane Roux, Clément Jailin & Laurence Vancamberg)
+- 2025/03/14 (pi day!): Examiner for Matteo Barbieri's PhD defense (Laboratory: [LMPS](https://lmps.ens-paris-saclay.fr), [ENPS](https://ens-paris-saclay.fr)/[CNRS](https://cnrs.fr); Advisors: Stéphane Roux, Clément Jailin & Laurence Vancamberg)
 
 - 2025/04/10: Reviewer for Pauline Assemat's HdR defense (Laboratory: [IMFT](https://www.imft.fr), [UT3](https://www.univ-tlse3.fr)/[INPT](https://www.inp-toulouse.fr)/[CNRS](https://cnrs.fr))
 
