@@ -10,7 +10,43 @@
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Mar 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Kick Off Meeting FHU Cournand</title>
+  <link>https://mgenet.github.io/posts/2025/2025-03-12 - FHU Cournand/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today was the kick off meeting of the FHU (<em>Fédérations Hospitalo-Universitaires</em>, i.e., University Hospital Federations) André Cournand (French-American physician and physiologist, Nobel Prize in Physiology and Medicine in 1956 for the development of cardiac catheterization) “Transforming Pulmonary Vascular Medicine”.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2025/2025-03-12 - FHU Cournand/marc.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>The FHU, lead by <a href="https://www.linkedin.com/in/david-montani-859183119">David Montani</a> &amp; <a href="https://www.linkedin.com/in/laurent-savale-594754275">Laurent Savale</a>, is built upon the world-leading <a href="http://www.u999.universite-paris-saclay.fr">Paris-Saclay University/INSERM/APHP “Pulmonary hypertension: Pathophysiology and therapeutic innovation” research unit</a> lead by Marc Humbert, and aims at establishing “a robust network of clinical teams, basic and translational multidisciplinary research laboratories, engineering teams and platforms to confront emerging challenges in the field of pulmonary vascular diseases”.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2025/2025-03-12 - FHU Cournand/fhu.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>As a co-leader of the “Biomarkers and Modeling Pulmonary Vascular Diseases” work package of the FHU, I gave a short presentation on our current efforts on lung mechanical modeling, and our plan for modeling pulmonary circulation, notably in the context of <a href="https://www.linkedin.com/in/haotian-xiao-a00771195">Haotian Xiao</a>’s PhD. The other presentations were all super impressive, and I am looking forward to see this federation in action!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2025/2025-03-12 - FHU Cournand/program.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2025/2025-03-12 - FHU Cournand/</guid>
+  <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-03-12 - FHU Cournand/marc.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>DTE &amp; AICOMAS 2025</title>
   <link>https://mgenet.github.io/posts/2025/2025-02-21 - DTE-AICOMAS/</link>
@@ -510,30 +546,6 @@
   <guid>https://mgenet.github.io/posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/</guid>
   <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/images/logo.png" medium="image" type="image/png" height="145" width="144"/>
-</item>
-<item>
-  <title>Alexandre Daby-Seesaram joins the team</title>
-  <link>https://mgenet.github.io/posts/2024/2024-01-01 - alexandre-daby-seesaram-joins-the-team/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><a href="https://alexandredabyseesaram.github.io">Alexandre Daby-Seesaram</a>, who recently defended his PhD at the Paris-Saclay Mechanics Laboratory of École Normale Supérieure de Paris-Saclay, is starting as a postdoc in the team. He is funded by our recent ANR MLQ-CT project, and will work on model reduction and porting our digital twin pipeline to the clinical environment of our clinical colleagues. Welcome and good luck, Alexandre!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2024/2024-01-01 - alexandre-daby-seesaram-joins-the-team/alexandre.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/2024-01-01 - alexandre-daby-seesaram-joins-the-team/</guid>
-  <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2024/2024-01-01 - alexandre-daby-seesaram-joins-the-team/alexandre.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
