@@ -10,7 +10,31 @@
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Mon, 24 Mar 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 27 Mar 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Seminar @ School of Mathematics and Statistics, University of Glasgow</title>
+  <link>https://mgenet.github.io/posts/2025/2025-03-27 - Glasgow Seminar/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today I gave a seminar at the School of Mathematics and Statistics of the University of Glasgow, entitled “Toward pulmonary digital twins: recent efforts in motion tracking using mechanical regularization, lung poromechanical modeling and estimation, model reduction using finite element neural networks”. I had the chance to meet many people from the <a href="https://www.softmech.org">SofTMech “Mathematics for Healthcare” Center</a> (notably Profs. <a href="https://www.gla.ac.uk/schools/mathematicsstatistics/staff/nicholashill">Nicholas Hill</a> &amp; <a href="https://www.gla.ac.uk/schools/mathematicsstatistics/staff/haogao">Hao Gao</a> and some of their students), and learn about the excellent work they are doing, notably on cardiac perfusion modeling and simulation, which could very well be useful for lung perfusion modeling efforts.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2025/2025-03-27 - Glasgow Seminar/20250327_094559.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2025/2025-03-27 - Glasgow Seminar/</guid>
+  <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-03-27 - Glasgow Seminar/20250327_094559.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>BMMB Editorial Board</title>
   <link>https://mgenet.github.io/posts/2025/2025-03-24 - BMMB/</link>
@@ -528,24 +552,6 @@
   <guid>https://mgenet.github.io/posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/</guid>
   <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/images/IMG_3329.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Four teaching positions are available in the Mechanics Department of École Polytechnique</title>
-  <link>https://mgenet.github.io/posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Four teaching positions are available in the Mechanics Department of École Polytechnique, including one full-time faculty position (Assistant Professor) in Bio-materials! See <a href="https://www.linkedin.com/posts/eric-charkaluk-99170965_postes-ouverts-au-d%C3%A9partement-de-m%C3%A9canique-activity-7160643818109734914-AdlQ">https://www.linkedin.com/posts/eric-charkaluk-99170965_postes-ouverts-au-d%C3%A9partement-de-m%C3%A9canique-activity-7160643818109734914-AdlQ</a> for more details.</p>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/</guid>
-  <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
