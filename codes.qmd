@@ -44,7 +44,7 @@ The reduced-order modelling code used to create surrogate models based on an hyb
 
 ## Papers with codes
 
-In order to allow for long term reproducibility of research results, we now try to systematically publish, in addition to the papers themselves, [Jupyter](https://jupyter.org) notebooks with the code to reproduce the figures of the papers, as well as [Docker](https://www.docker.com) images to run the notebooks—in principle you can reproduce the computation directly in your browser thanks to [Binder](https://mybinder.org)!
+In order to allow for long term reproducibility of research results, we now try to systematically publish, in addition to the papers themselves, [Jupyter](https://jupyter.org) notebooks with the code to reproduce the figures of the papers, as well as [Docker](https://www.docker.com) images to run the notebooks—in principle you can reproduce the computations directly in your browser thanks to [Binder](https://mybinder.org)!
 
 
 ### [Genet, 2024, C. R. Méca.]
