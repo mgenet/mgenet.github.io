@@ -19,9 +19,9 @@ Here are the main codes developed in the team—do not hesitate to get in touch 
 A set of [FEniCS](https://fenicsproject.org)- and [VTK](https://vtk.org)-based python tools for Finite Element Digital Image Correlation/Image Registration/Motion Tracking.
 
 - DOI: [https://doi.org/10.5281/zenodo.8010786](https://doi.org/10.5281/zenodo.8010786)
-- GitLab: [https://gitlab.inria.fr/mgenet/dolfin_warp](https://gitlab.inria.fr/mgenet/dolfin_warp)
+- GitHub: [https://github.com/mgenet/dolfin_warp](https://github.com/mgenet/dolfin_warp)
 - PyPI: [https://pypi.org/project/dolfin-warp](https://pypi.org/project/dolfin-warp)
-- Tutorials: [https://gitlab.inria.fr/mgenet/dolfin_warp-tutorials](https://gitlab.inria.fr/mgenet/dolfin_warp-tutorials)
+- Tutorials: [https://mgenet.github.io/dolfin_warp-tutorials](https://mgenet.github.io/dolfin_warp-tutorials)
 
 
 ### dolfin_mech
@@ -29,7 +29,7 @@ A set of [FEniCS](https://fenicsproject.org)- and [VTK](https://vtk.org)-based p
 A set of [FEniCS](https://fenicsproject.org)-based python tools for Computational Mechanics.
 
 - DOI: [https://doi.org/10.5281/zenodo.10533833](https://doi.org/10.5281/zenodo.10533833)
-- GitLab: [https://gitlab.inria.fr/mgenet/dolfin_mech](https://gitlab.inria.fr/mgenet/dolfin_mech)
+- GitHub: [https://github.com/mgenet/dolfin_mech](https://github.com/mgenet/dolfin_mech)
 - PyPI: [https://pypi.org/project/dolfin-mech](https://pypi.org/project/dolfin-mech)
 
 
@@ -47,22 +47,22 @@ The reduced-order modelling code used to create surrogate models based on an hyb
 In order to allow for long term reproducibility of research results, we now try to systematically publish, in addition to the papers themselves, [Jupyter](https://jupyter.org) notebooks with the code to reproduce the figures of the papers, as well as [Docker](https://www.docker.com) images to run the notebooks—in principle you can reproduce the computations directly in your browser thanks to [Binder](https://mybinder.org)!
 
 
-### [Genet, 2024, C. R. Méca.]
+### [Genet, 2023, C. R. Méca.]
 
 - Title: Finite strain formulation of the discrete equilibrium gap principle: application to mechanically consistent regularization for large motion tracking
 - DOI: [https://doi.org/10.5802/crmeca.228](https://doi.org/10.5802/crmeca.228)
-- Demos: [https://mgenet.gitlabpages.inria.fr/N-DEG-paper-demos/index.html](https://mgenet.gitlabpages.inria.fr/N-DEG-paper-demos/index.html)
+- Demos: [https://mgenet.github.io/N-DEG-paper-demos](https://mgenet.github.io/N-DEG-paper-demos)
 
 
-### [Peyraut & Genet, 2025, Biomech. Model. Mecanobiol.]
+### [Peyraut & Genet, 2024, Biomech. Model. Mecanobiol.]
 
 - Title: A model of mechanical loading of the lungs including gravity and a balancing heterogeneous pleural pressure
 - DOI: [https://doi.org/10.1007/s10237-024-01876-w](https://doi.org/10.1007/s10237-024-01876-w)
-- Demos: [https://apeyraut.gitlabpages.inria.fr/gravity-modeling-paper-demos](https://apeyraut.gitlabpages.inria.fr/gravity-modeling-paper-demos)
+- Demos: [https://alicepeyraut.github.io/gravity_modeling_paper_demos_github](https://alicepeyraut.github.io/gravity_modeling_paper_demos_github)
 
 
 ### [Peyraut & Genet, 2025, C. R. Méca.]
 
 - Title: Finite strain formulation of the discrete equilibrium gap principle: application to direct parameter estimation from large full-fields measurements
 - DOI: [https://doi.org/10.5802/crmeca.279](https://doi.org/10.5802/crmeca.279)
-- Demos: [https://apeyraut.gitlabpages.inria.fr/identification-methods-paper-demos](https://apeyraut.gitlabpages.inria.fr/identification-methods-paper-demos)
+- Demos: [https://alicepeyraut.github.io/identification-methods-paper-demos-github](https://alicepeyraut.github.io/identification-methods-paper-demos-github)
