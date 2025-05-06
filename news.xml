@@ -9,8 +9,33 @@
 <link>https://mgenet.github.io/news.html</link>
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
-<generator>quarto-1.6.43</generator>
-<lastBuildDate>Thu, 27 Mar 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.30</generator>
+<lastBuildDate>Tue, 06 May 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>New paper on micro-poro-mechanics</title>
+  <link>https://mgenet.github.io/posts/2025/2025-05-06 - new-paper-on-micro-poro-mechanics/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Mahdi Manoochehrtayebi, Aline Bel-Brunon and I just published a paper in the <a href="https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures"><em>International Journal of Solids and Structures</em></a> on a general micro-poro-mechanics formulation, cf.&nbsp;<a href="https://doi.org/10.1016/j.ijsolstr.2025.113354">https://doi.org/10.1016/j.ijsolstr.2025.113354</a> (<a href="https://authors.elsevier.com/a/1l2e84kE0ec2y">editor shared link</a>, <a href="https://hal.science/hal-05057928">HAL repository</a>).</p>
+<p>All computations from the paper (which are based on the <a href="https://github.com/mgenet/dolfin_mech">dolfin_mech</a> FEniCS-based library) are easily reproducible at <a href="https://mgenet.github.io/Micro-Macro-Poro-paper-demos">https://mgenet.github.io/Micro-Macro-Poro-paper-demos</a>, so do not hesitate to give it a try, and let us know how it goes!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2025/2025-05-06 - new-paper-on-micro-poro-mechanics/screenshot.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2025/2025-05-06 - new-paper-on-micro-poro-mechanics/</guid>
+  <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-05-06 - new-paper-on-micro-poro-mechanics/screenshot.pdf" medium="image"/>
+</item>
 <item>
   <title>Seminar @ School of Mathematics and Statistics, University of Glasgow</title>
   <link>https://mgenet.github.io/posts/2025/2025-03-27 - Glasgow Seminar/</link>
@@ -517,41 +542,6 @@
   <guid>https://mgenet.github.io/posts/2024/2024-05-17 - CSMA2024/</guid>
   <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2024/2024-05-17 - CSMA2024/images/WhatsApp-Image-2024-05-17-at-11.09.54.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Mahdi Manoochehrtayebi defends his PhD thesis</title>
-  <link>https://mgenet.github.io/posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Today <a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a> defended his PhD thesis! Jury was composed of:</p>
-<ul>
-<li><a href="https://team.inria.fr/commedia/grandmont">Céline Grandmont</a>, INRIA (présidente)</li>
-<li><a href="https://lem3.univ-lorraine.fr/fiche-membre/baldit-adrien/">Adrien Baldit</a>, Université de Lorraine (rapporteur)</li>
-<li><a href="https://lmps.ens-paris-saclay.fr/fr/annuaire-des-personnes/emmanuel-baranger-0">Emmanuel Baranger</a>, ENS Paris-Saclay (rapporteur)</li>
-<li><a href="https://www.imft.fr/annuaire/assemat-pauline">Pauline Assemat</a>, Institut de Mécanique des Fluides de Toulouse (examinatrice)</li>
-<li><a href="https://www.kostasdanas.com">Kostantinos Danas</a>, CNRS (examinateur)</li>
-<li><a href="https://lamcos.insa-lyon.fr/fiche_personnelle.php?p=33&amp;Numpers=616&amp;L=1">Aline Bel-Brunon</a>, INSA-Lyon (directrice de thèse)</li>
-<li><a href="https://m3disim.saclay.inria.fr/people/dominique-chapelle">Dominique Chapelle</a>, INRIA&nbsp;(directeur de thèse)</li>
-<li><a href="https://m3disim.saclay.inria.fr/people/martin-genet">Martin Genet</a>, École Polytechnique (directeur de thèse)</li>
-</ul>
-<p>Congrats Mahdi and best wishes for the future!!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/images/IMG_3329.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/</guid>
-  <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/images/IMG_3329.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
