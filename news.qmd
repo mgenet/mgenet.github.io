@@ -32,13 +32,19 @@ listing:
 
 <!-- - 2025/03/27: Seminar at the [School of Mathematics and Statistics of the University of Glasgow](https://www.gla.ac.uk/schools/mathematicsstatistics), Scotland, U.K. -->
 
-- 2025/04/10: Reviewer for Pauline Assemat's HdR defense (Laboratory: [IMFT](https://www.imft.fr), [UT3](https://www.univ-tlse3.fr)/[INPT](https://www.inp-toulouse.fr)/[CNRS](https://cnrs.fr)), Toulouse.
+<!-- - 2025/04/10: Reviewer for Pauline Assemat's HdR defense (Laboratory: [IMFT](https://www.imft.fr), [UT3](https://www.univ-tlse3.fr)/[INPT](https://www.inp-toulouse.fr)/[CNRS](https://cnrs.fr)), Toulouse. -->
 
-- 2025/05/26-27: Invited seminar at the [UT Southwestern Medical Center](https://www.utsouthwestern.edu), Dallas, Texas, U.S.A.
+- 2025/05/26 - 2025/06/06: Invited Professor (hosted by Radomir Chabiniok and Tarique Hussain) at the [UT Southwestern Medical Center](https://www.utsouthwestern.edu), Dallas, Texas, U.S.A.
 
 - 2025/06/01-05: Presentation at the [FIMH 2025](https://fimh2025.sciencesconf.org) conference, Dallas, Texas, U.S.A.
 
-- 2025/09/08-10: Mini-symposium (co-organized w/ Daniel Hurtado & Mona Eskandari) on "Modeling the respiratory system: current trends and clinical opportunities" at the [XI International Conference on Computational Bioengineering](http://iccb2025.org/index), Roma, Italia.
+- 2025/09/08-10: Mini-symposium (co-organized w/ Daniel Hurtado & Mona Eskandari) on "Modeling the respiratory system: current trends and clinical opportunities" at the [XI International Conference on Computational Bioengineering](http://iccb2025.org), Roma, Italia.
+
+- 2026/01/18-23: Speaker at the [MécaMat](https://mecamat.org) National Colloquium on "Images, Mechanics and Materials", Aussois, France.
+
+- Winter-Spring 2026: Invited Professor (hosted by Gerard Ateshian through the [Alliance Program](https://alliance.columbia.edu)) at [Columbia University](https://www.columbia.edu), New York, New York, USA.
+
+- 2026/06/29 - 07/03: Lecturer at the [CISM](https://cism.it) courses on "Mechanics of the Deep Lung", Udine, Italy.
 
 ### Past
 

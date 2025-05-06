@@ -66,3 +66,10 @@ In order to allow for long term reproducibility of research results, we now try 
 - Title: Finite strain formulation of the discrete equilibrium gap principle: application to direct parameter estimation from large full-fields measurements
 - DOI: [https://doi.org/10.5802/crmeca.279](https://doi.org/10.5802/crmeca.279)
 - Demos: [https://alicepeyraut.github.io/identification-methods-paper-demos-github](https://alicepeyraut.github.io/identification-methods-paper-demos-github)
+
+
+### [Manoochehrtayebi, Bel-Brunon & Genet, 2025, Int. J. Sol. Struct.]
+
+- Title: Finite strain micro-poro-mechanics: formulation and compared analysis with macro-poro-mechanics
+- DOI: [https://doi.org/10.1016/j.ijsolstr.2025.113354](https://doi.org/10.1016/j.ijsolstr.2025.113354)
+- Demos: [https://mgenet.github.io/Micro-Macro-Poro-paper-demos](https://mgenet.github.io/Micro-Macro-Poro-paper-demos)
