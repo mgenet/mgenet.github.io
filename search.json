@@ -28,137 +28,11 @@
     "text": "Papers with codes\nIn order to allow for long term reproducibility of research results, we now try to systematically publish, in addition to the papers themselves, Jupyter notebooks with the code to reproduce the figures of the papers, as well as Docker images to run the notebooks—in principle you can reproduce the computations directly in your browser thanks to Binder!\n\n[Genet, 2023, C. R. Méca.]\n\nTitle: Finite strain formulation of the discrete equilibrium gap principle: application to mechanically consistent regularization for large motion tracking\nDOI: https://doi.org/10.5802/crmeca.228\nDemos: https://mgenet.github.io/N-DEG-paper-demos\n\n\n\n[Peyraut & Genet, 2024, Biomech. Model. Mecanobiol.]\n\nTitle: A model of mechanical loading of the lungs including gravity and a balancing heterogeneous pleural pressure\nDOI: https://doi.org/10.1007/s10237-024-01876-w\nDemos: https://alicepeyraut.github.io/gravity_modeling_paper_demos_github\n\n\n\n[Peyraut & Genet, 2025, C. R. Méca.]\n\nTitle: Finite strain formulation of the discrete equilibrium gap principle: application to direct parameter estimation from large full-fields measurements\nDOI: https://doi.org/10.5802/crmeca.279\nDemos: https://alicepeyraut.github.io/identification-methods-paper-demos-github\n\n\n\n[Manoochehrtayebi, Bel-Brunon & Genet, 2025, Int. J. Sol. Struct.]\n\nTitle: Finite strain micro-poro-mechanics: formulation and compared analysis with macro-poro-mechanics\nDOI: https://doi.org/10.1016/j.ijsolstr.2025.113354\nDemos: https://mgenet.github.io/Micro-Macro-Poro-paper-demos"
   },
   {
-    "objectID": "posts/2022/2022-12-12 - new-paper-on-the-structural-origin-of-the-anisotropy-in-the-myocardium-multiscale-modeling-and-analysis/index.html",
-    "href": "posts/2022/2022-12-12 - new-paper-on-the-structural-origin-of-the-anisotropy-in-the-myocardium-multiscale-modeling-and-analysis/index.html",
-    "title": "New paper on the structural origin of the anisotropy in the myocardium: Multiscale modeling and analysis",
+    "objectID": "posts/2016/2016-10-13 - phd-position-on-image-guided-computational-cardiac-mechanics/index.html",
+    "href": "posts/2016/2016-10-13 - phd-position-on-image-guided-computational-cardiac-mechanics/index.html",
+    "title": "(Closed) PhD position on Image-guided Computational Cardiac Mechanics",
     "section": "",
-    "text": "Nicole Tueni, Jean-Marc Allain and I just published a paper in the Journal of the Mechanical Behavior of Biomedical Materials.\nClick here to read the article!"
-  },
-  {
-    "objectID": "posts/2022/2022-08-30 - new-paper-on-quantification-of-left-ventricular-strain-and-torsion-by-joint-analysis-of-3d-tagging-and-cine-mr-images/index.html",
-    "href": "posts/2022/2022-08-30 - new-paper-on-quantification-of-left-ventricular-strain-and-torsion-by-joint-analysis-of-3d-tagging-and-cine-mr-images/index.html",
-    "title": "New paper on quantification of left ventricular strain and torsion by joint analysis of 3D tagging and cine MR images",
-    "section": "",
-    "text": "Together with Ezgi Berberoğlu we just published a paper in Medical Image Analysis, in collaboration with Christian Stoeck and Sebastian Kozerke from the Institute for Biomedical Engineering of the ETH-Zurich.\nClick here to read the article!"
-  },
-  {
-    "objectID": "posts/2022/2022-06-21 - martin-genet-defends-his-habilitation-thesis/index.html",
-    "href": "posts/2022/2022-06-21 - martin-genet-defends-his-habilitation-thesis/index.html",
-    "title": "Today I defended my Habilitation thesis",
-    "section": "",
-    "text": "Today I defended my habilitation thesis, entitled “Some contributions to cardiac and pulmonary biomechanical modeling, simulation & estimation”, in front of an impressive international jury:\n\nPatrick Le Tallec (Professor, École Polytechnique, Palaiseau, France)\nAlain Goriely (Professor, University of Oxford, United Kingdom)\nGerhard Holzapfel (Professor, Graz University of Technology, Austria)\nMerryn Tawhai (Professor, University of Auckland, New Zealand)\nStéphane Avril (Professor, École des Mines de Saint-Etienne, France)\nPatrick Clarysse (Research Director, CREATIS/CNRS, Lyon, France)\n\nYou can find my habilitation manuscript on HAL: https://hal.archives-ouvertes.fr/tel-03698102."
-  },
-  {
-    "objectID": "posts/2022/2022-12-02 - m3disim-gdr-mecabiosante/index.html",
-    "href": "posts/2022/2022-12-02 - m3disim-gdr-mecabiosante/index.html",
-    "title": "GdR MécaBioSanté",
-    "section": "",
-    "text": "This week we are taking part to the MécaBioSanté GdR annual workshop: Mahdi Manoochehrtayebi presented his PhD work on multiscale modeling of the lung parenchyma, and I chaired a session on biomechanics of soft tissues. Looking forward to next year’s meeting!"
-  },
-  {
-    "objectID": "posts/2021/2021-09-06 - m3disim-cmbbe/index.html",
-    "href": "posts/2021/2021-09-06 - m3disim-cmbbe/index.html",
-    "title": "CMBBE",
-    "section": "",
-    "text": "This week I will be presenting some collaborative work with Cécile Patte and Dominique Chapelle on Personalized Pulmonary Mechanics at the 17th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering (CMBBE 2021)!"
-  },
-  {
-    "objectID": "posts/2021/2021-03-01 - colin-laville-joins-the-team/index.html",
-    "href": "posts/2021/2021-03-01 - colin-laville-joins-the-team/index.html",
-    "title": "Colin Laville joins the team",
-    "section": "",
-    "text": "Colin Laville, an engineer from INSA Hauts-de-France (Valenciennes, France) with a PhD from CEMEF, Mines ParisTech & Université PSL (Sophia Antipolis, France), is just starting his postdoc (funded by our ANR COVID grant) in the team. Welcome and good luck, Colin!"
-  },
-  {
-    "objectID": "posts/2021/2021-10-22 - m3disim-sb2021/index.html",
-    "href": "posts/2021/2021-10-22 - m3disim-sb2021/index.html",
-    "title": "SB2021",
-    "section": "",
-    "text": "Next week I will be presenting some collaborative work with Nicole Tueni and Jean-Marc Allain on the origin of the anisotropy of the myocardium at the 46th congress of the francophone society of biomechanics (SB 2021)! I will also chair a session on “Cellular & Tissular Biomechanics”."
-  },
-  {
-    "objectID": "posts/2023/2023-12-12 - martin-genet-bioreme-network-conference-2024/index.html",
-    "href": "posts/2023/2023-12-12 - martin-genet-bioreme-network-conference-2024/index.html",
-    "title": "Keynote speaker @ BIOREME Network Conference 2024",
-    "section": "",
-    "text": "I will be a keynote speaker at the BIOREME (Biophysical Modelling in Respiratory Medicine) Network Conference 2024, which will be held in Nottingham, UK, next January—it is still time to register so do not hesitate to do so if you are interested in pulmonary biomechanical modeling!"
-  },
-  {
-    "objectID": "posts/2023/2023-07-05 - m3disim-e4h-2/index.html",
-    "href": "posts/2023/2023-07-05 - m3disim-e4h-2/index.html",
-    "title": "E4H Forum",
-    "section": "",
-    "text": "Today we were present at the second E4H forum:\n\nAlice Peyraut presented a posted on Uncertainty Quantification in Personalized Pulmonary Mechanics\nMahdi Manoochehrtayebi & Alice Peyraut received a BME Conference Award\nKateřina Škardová (Department of Mathematics, Czech Technical University, Prague) received a E4H Postdoctoral Fellowship—she will arrive in the team in August and work on Multiscale Modeling and Simulation of Remodeling in Pulmonary Fibrosis."
-  },
-  {
-    "objectID": "posts/2023/2023-11-24 - m3disim-mortech-2023/index.html",
-    "href": "posts/2023/2023-11-24 - m3disim-mortech-2023/index.html",
-    "title": "MORTech 2023",
-    "section": "",
-    "text": "Kateřina Škardová and I are attending MORTech 2023 (6th International Workshop on Model Reduction Techniques) at Laboratoire de Mécanique de Paris-Saclay (LMPS), École Normale Supérieur de Paris-Saclay (ENSPS), to learn about current trends in model reduction methods—we even met a future member of the team (more on that soon)!"
-  },
-  {
-    "objectID": "posts/2023/2023-10-25 - m3disim-sb2023/index.html",
-    "href": "posts/2023/2023-10-25 - m3disim-sb2023/index.html",
-    "title": "SB2023",
-    "section": "",
-    "text": "We are present this week at the 48th Congress of the Francophone Society of Biomechanics:\n\nAlice Peyraut presents her PhD work on uncertainty quantification in personalized pulmonary mechanics\nI present Mahdi Manoochehrtayebi’s PhD work on micro-poro-mechanical modeling of the lung parenchyma"
-  },
-  {
-    "objectID": "posts/2024/2024-11-01 - pm-idics-conference/index.html",
-    "href": "posts/2024/2024-11-01 - pm-idics-conference/index.html",
-    "title": "PM-iDICs 2024",
-    "section": "",
-    "text": "This week I attended the 2024 PM-iDICs conference, and presented recent work on the use of the equilibrium gap principle for regularizing the motion tracking problem [Genet, 2023, Comptes Rendus Mécanique], and for the direct estimation of model parameters from full field measurement (joint work with Alice Peyraut, to appear), in the “Mathematics & Algorithms” mini-symposium.\nThe conference was jointly held by the PhotoMechanics Association and the International Digital Image Correlation Society, and perfectly hosted by the Université Clermont Auvergne.\nLooking forward to PM-iDICs 2026 at École Normale Supérieure de Paris-Saclay!"
-  },
-  {
-    "objectID": "posts/2024/2024-10-07 - new-paper-on-lung-modeling/index.html",
-    "href": "posts/2024/2024-10-07 - new-paper-on-lung-modeling/index.html",
-    "title": "New paper on lung modeling",
-    "section": "",
-    "text": "Alice Peyraut and I just published a paper in Biomechanics and Modeling in Mechanobiology (BMMB), introducing new boundary conditions for our lung model, including gravity and more physiological pleural pressure distributions, cf. https://doi.org/10.1007/s10237-024-01876-w (editor shared link, HAL repository). As usual now all computations from the paper (which are based on the dolfin_mech FEniCS library) are easily reproducible at https://apeyraut.gitlabpages.inria.fr/gravity-modeling-paper-demos, so do not hesitate to give it a try—let us know how it goes!"
-  },
-  {
-    "objectID": "posts/2024/2024-09-06 - VPH2024/index.html",
-    "href": "posts/2024/2024-09-06 - VPH2024/index.html",
-    "title": "VPH2024",
-    "section": "",
-    "text": "This week we are attending the 2024 Virtual Physiological Human Conference (VPH2024):\n\nKateřina Škardová presented her work on “Bridging micro to macro in pulmonary mechanics: Interpretable neural networks for surrogate modelling”;\n\n\n\n\n\n\n\nAlexandre Daby-Seesaram presented his work on “Hybridising standard reduced-order modelling methods with interpretable sparse neural networks for real-time patient specific lung simulations” (including Neural Network PGD);\n\n\n\n\n\n\n\nI had the chance to inaugurate the Lung Modeling I session with my talk on “Lung multiscale modeling and estimation”, and to chair the Lung Modeling II Session.\n\nWe also got the chance to meet with old MΞDISIM members:\n\nFederica Caforio, who is now a University Assistant at the Department of Mathematics and Scientific Computing of the University of Graz, Austria;\nMaria Gusseva, who is now a Postdoctoral Researcher at the UT Southwestern Medical Center in Dallas, USA;\nRadomir Chabiniok, who is now an Associate Professor the UT Southwestern Medical Center in Dallas, USA.\n\n\n\n\n\n\nLooking forward to VPH2026 in Milano!"
-  },
-  {
-    "objectID": "posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/index.html",
-    "href": "posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/index.html",
-    "title": "Nouvel article sur les jumeaux numériques dans Les Échos",
-    "section": "",
-    "text": "Je viens de publier un article sur les jumeaux numériques en santé dans Les Échos: https://www.lesechos.fr/idees-debats/editos-analyses/jumeaux-numeriques-la-modelisation-dorganes-espoir-de-la-medecine-2110146 (le texte complet est disponible ici: https://sdrive.cnrs.fr/s/H8aaHJoQgjiee6H)."
-  },
-  {
-    "objectID": "posts/2024/09/01/new-website/index.html",
-    "href": "posts/2024/09/01/new-website/index.html",
-    "title": "New website!",
-    "section": "",
-    "text": "New website! It is based on the awesome Quarto framework. Do not hesitate to subscribe via RSS or on LinkedIn where I will be dispatching new posts."
-  },
-  {
-    "objectID": "posts/2024/2024-05-17 - CSMA2024/index.html",
-    "href": "posts/2024/2024-05-17 - CSMA2024/index.html",
-    "title": "CSMA2024",
-    "section": "",
-    "text": "This week we are attending the 16th national workshop on computational mechanics (https://csma2024.sciencesconf.org) in Giens (one of the most beautiful places in France!):\n\nAlice Peyraut presented her PhD work (Quantification d’incertitudes pour la modélisation pulmonaire personnalisée)\nAlexandre Daby-Seesaram presented his PhD work (Réduction de modèles en dynamique non-linéaire pour la simulation de structures soumises à une famille de chargements)\nI presented Mahdi Manoochehrtayebi’s PhD work (Un modèle micro-poro-mécanique du parenchyme pulmonaire) and chaired a session (Biomécanique et ingénierie du vivant)\n\nAlso, I was elected a board member of the French Computational Mechanics Association."
-  },
-  {
-    "objectID": "posts/2024/2024-12-19 - alice-peyraut-defends-her-phd-thesis/index.html",
-    "href": "posts/2024/2024-12-19 - alice-peyraut-defends-her-phd-thesis/index.html",
-    "title": "Alice Peyraut defends her PhD thesis",
-    "section": "",
-    "text": "Today Alice Peyraut successfully defended her PhD thesis! Jury was composed of:\n\nLaura De Lorenzis, ETH Zurich, Switzerland (President)\nBing Tie, Laboratoire de Mécanique Paris-Saclay (LMPS), Centrale Supélec, Gif-sur-Yvette (Reviewer)\nStéphane Avril, Mines Saint-Étienne (Reviewer)\nAndrei Constantinescu, Laboratoire de Mécanique des Solides (LMS), École Polytechnique/CNRS, Palaiseau (Examiner)\nJean-François Bernaudin, Sorbonne University, Paris (Examiner)\nMartin Genet, École Polytechnique (PhD Director)\n\nCongrats Alice and best wishes for the future!!"
-  },
-  {
-    "objectID": "posts/2024/2024-01-01 - alexandre-daby-seesaram-joins-the-team/index.html",
-    "href": "posts/2024/2024-01-01 - alexandre-daby-seesaram-joins-the-team/index.html",
-    "title": "Alexandre Daby-Seesaram joins the team",
-    "section": "",
-    "text": "Alexandre Daby-Seesaram, who recently defended his PhD at the Paris-Saclay Mechanics Laboratory of École Normale Supérieure de Paris-Saclay, is starting as a postdoc in the team. He is funded by our recent ANR MLQ-CT project, and will work on model reduction and porting our digital twin pipeline to the clinical environment of our clinical colleagues. Welcome and good luck, Alexandre!"
+    "text": "The Institute for Biomedical Engineering at the University and ETH Zurich and the MΞDISIM team jointly develop Magnetic Resonance image-guided computational models of the heart. As part of our efforts to predict growth and remodeling of the failing heart we are offering a PhD position on image-guided Computational Cardiac Mechanics.\nThe research project aims at developing image-guided and experimentally validated computational models of cell aggregate-level structural and tissue-level mechanical changes in pathological growth and remodeling of the heart. To this end, a growth and remodeling law will be formulated and implemented, which will be calibrated and validated using longitudinal in-vivo Magnetic Resonance imaging and experimental data of cardiac microstructure, tissue and function in models of chronic myocardial infarction and left ventricular volume overload. The research will be conducted both in Zurich and Paris.\nThe candidate holds a Master of Science degree in mechanical engineering or biomedical engineering with first class grades. He/she should have a keen interest in computational mechanics, signal and data processing and applications of cutting-edge imaging and modelling technology. Very good programming skills (Matlab, Python, C) and interest in both theoretical and practical work are a premise. An innovative spirit and team player skills round off the profile. For further information about the position please contact Prof. Sebastian Kozerke or Prof. Martin Genet."
   },
   {
     "objectID": "posts/2017/2017-03-01 - ezgi-berberoglu-joins-the-team/index.html",
@@ -168,116 +42,32 @@
     "text": "Ezgi Berberoğlu, who graduated from the Middle East Technical University in Ankara, is just starting her PhD (funded by a Swiss National Science Foundation grant) in between the Swiss Federal Institute of Technology (ETH) in Zurich and École Polytechnique, co-advised by Prof. Sebastian Kozerke and I. Welcome and good luck, Ezgi!"
   },
   {
-    "objectID": "posts/2017/2017-09-01 - cecile-patte-joins-the-team/index.html",
-    "href": "posts/2017/2017-09-01 - cecile-patte-joins-the-team/index.html",
-    "title": "Cécile Patte joins the team",
+    "objectID": "posts/2017/2017-05-23 - open-phd-position/index.html",
+    "href": "posts/2017/2017-05-23 - open-phd-position/index.html",
+    "title": "(Closed) PhD position on multiscale poromechanical modeling of the lung",
     "section": "",
-    "text": "Alice Peyraut, who graduated from the Technological University of Belfort-Montbéliard, is just starting her PhD (funded by my ANR JCJC grant) under my supervision. Welcome and good luck, Alice!"
+    "text": "Proposition de sujet de thèse: Modélisation poro-mécanique multi-échelle du poumon, de la respiration au remodelage chronique associé à la fibrose pulmonaire\nContexte La fibrose pulmonaire idiopathique (FPI) est une maladie chronique du poumon au pronostic très sévère [1]. À l’échelle alvéolaire, au cours du développement de la maladie les alvéoles pulmonaires fusionnent par destruction de l’interstitium (la paroi inter-alvéolaire) [1]. Et physiologiquement, la maladie se traduit par un volume pulmonaire accru, mais une altération forte de la fonction respiratoire avec perte d’efficacité des échanges gazeux [1]. Même si positivement corrélée à des facteurs tels l’hérédité ou le tabagisme, la cause directe de la maladie est largement inconnue (d’où le qualificatif « idiopathique ») [1]. De même, la voie de progression est loin d’être quantitativement comprise ; cependant, le rôle régulateur de la mécanique semble prépondérant : il a récemment été postulé que dans le poumons sain les fibres de collagènes sont lâchement enchevêtrées et représentent un fusible mécanique pour les fibroblastes (les cellules qui synthétisent le collagène) ; au contraire dans le poumon fibreux la matrice de collagène est plus dense et tendue et les fibroblastes sont alors davantage sollicités, entraînant une spirale pathologique [2].\nObjectifs L’objectif général de la thèse est de développer une modélisation fine du poumon au cours de la respiration et du remodelage chronique associé à la fibrose pulmonaire, ainsi qu’une méthode d’assimilation de données dédiée au modèle et aux données cliniques (typiquement, des images). Le modèle servira de cadre pour formuler quantitativement les hypothèses existantes (et éventuellement de nouvelles hypothèses) sur le développement de la maladie. Augmenté des données, il représentera un outil de diagnostic objectif et quantitatif pour la fibrose pulmonaire. Sur le plus long terme, il pourrait servir de base à un outil d’optimisation de traitement personnalisé. Le travail se situera dans la continuité des travaux de l’équipe MΞDISIM, notamment sur la poro-mécanique [3] et sur l’assimilation de données [4]; il ouvrira également un nouvel axe de recherche sur la modélisation microscopique du comportement passif des tissus mous, complémentaire du travail sur le comportement actif [5]. Plus précisément, le travail s’organisera autour des trois axes suivants:\n(A1) Adaptation du modèle poro-mécanique macroscopique existant [3] au cas du poumon, et mise en place d’une stratégie d’assimilation de données dédiée au modèle et aux données cliniques (images, mesures de pression).\n(A2) Développement d’un modèle poro-mécanique « microscopique » (échelle des alvéoles pulmonaires), ainsi que d’un pont micro-macro d’homogénéisation avec le modèle « macroscopique » (échelle du poumon) proposé en (A1).\n(A3) Introduction dans le modèle microscopique des mécanismes de remodelage chronique associés à la fibrose pulmonaire, et étude de l’influence sur le comportement à l’échelle de l’organe (la respiration).\nProfil du candidat Le/La candidat/e devra maîtriser la mécanique des milieux continus, avec si possible des connaissances en grandes transformations, en biomécanique, et en méthodes numériques. Il/Elle aura également un intérêt pour l’application en pneumologie, notamment pour l’interaction avec les collaborateurs cliniques.\nCadre de travail La thèse se déroulera dans le cadre de l’équipe MΞDISIM (commune au Laboratoire de Mécanique des Solides de l’École Polytechnique & Inria), sur le campus de l’École Polytechnique.\nBibliographie  [1] B. Suki, S. Sato, H. Parameswaran, M. V. Szabari, A. Takahashi, and E. Bartolak-Suki, “Emphysema and Mechanical Stress-Induced Lung Remodeling,” Physiology, vol. 28, no. 6, pp. 404–413, Nov. 2013.\n[2] B. Hinz and B. Suki, “Does Breathing Amplify Fibrosis?,” Am. J. Respir. Crit. Care Med., vol. 194, no. 1, 2016.\n[3] D. Chapelle and P. Moireau, “General coupling of porous flows and hyperelastic formulations—From thermodynamics principles to energy balance and compatible time schemes,” Eur. J. Mech. Part B Fluids, vol. 46, pp. 82–96, Jul. 2014.\n[4] P. Moireau, D. Chapelle, and P. Le Tallec, “Joint state and parameter estimation for distributed mechanical systems,” Comput. Methods Appl. Mech. Eng., vol. 197, no. 6–8, pp. 659–677, Jan. 2008.\n[5] D. Chapelle, P. Le Tallec, P. Moireau, and M. Sorine, “Energy-Preserving Muscle Tissue Model: Formulation and Compatible Discretizations,” Int. J. Multiscale Comput. Eng., vol. 10, no. 2, pp. 189–211, 2012.\nContacts martin.genet@polytechnique.edu, dominique.chapelle@inria.fr."
   },
   {
-    "objectID": "posts/2019/2019-12-04 - phd-fellowship-on-multi-scale-modeling-of-lung-poromechanics/index.html",
-    "href": "posts/2019/2019-12-04 - phd-fellowship-on-multi-scale-modeling-of-lung-poromechanics/index.html",
-    "title": "(Closed) PhD position on Multi-Scale Modeling of Lung Poromechanics",
+    "objectID": "posts/2021/2021-03-01 - colin-laville-joins-the-team/index.html",
+    "href": "posts/2021/2021-03-01 - colin-laville-joins-the-team/index.html",
+    "title": "Colin Laville joins the team",
     "section": "",
-    "text": "Context & Objectives The lungs are the primary organs of the respiratory system in humans and many animals, responsible for molecular exchanges between external air and internal blood through mechanical ventilation. It has an extraordinary complex architecture, with the inherent fractal structure of the bronchial and blood vessel trees, as well as the hierarchical structure of the parenchyma. Lung biomechanics has been extensively studied by physiologists, experimentally as well as theoretically, from the air flow, blood flow and tissue stress points of view, laying the ground for our current fundamental understanding of the relationship between function and mechanical behavior. However, many questions remain, notably in the intricate coupling between the multiple constituents, between the many phenomena taking place at different spatial and temporal scales in health and disease. For example, even for healthy lungs, there is no quantitative model allowing to link tissue-level and organ-level experimental material responses.\nThese fundamental questions represent real clinical challenges, as pulmonary diseases are an important health burden. Interstitial lung diseases, for instance, affect several million people globally. Idiopathic Pulmonary Fibrosis (IPF), notably, a progressive form of interstitial lung diseases where some alveolar septa get thicker and stiffer while others get completely damaged, remains poorly understood, poorly diagnosed, and poorly treated, with a current median survival rate inferior to 5 years. It has, however, been hypothesized that a mechanical vicious cycle is in place within the parenchyma of IPF patients, where fibrosis and damage induce large stresses, which in turn favor fibrosis.\nThe general goal of this project is twofold: (i) scientifically, to better understand pulmonary (solid) mechanics, from the alveolar scale to the organ in health and (IPF) disease; (ii) clinically, to improve diagnosis and prognosis of (IPF) patients through personalized computational modeling. More precisely, the student will develop a many-scale model of the parenchymal biomechanics, at all relevant spatial scales from the alveolus to the organ, and at the temporal scales of the breathing cycle and fibrosis process. Different representations at successive spatial scales will be linked by a computational nonlinear homogenization strategy with a priori model reduction based on a neural network. The model will integrate the rather unique experimental data produced by Drs. Bel-Brunon and Trunfio-Sfarghiu from LaMCoS (INSA-Lyon), i.e., microtomography images at alveolar scale and inflation tests of lobules: microstructures will be extracted from the images and systematically analyzed, and model parameters will be estimated from the mechanical tests. The model will also integrate clinical-radiological data provided by Profs. Nunes and Brillet from Avicenne APHP Hospital, i.e., standard pulmonary function tests and thoracic computed tomography imaging on IPF patients as well as normal lung controls: a pipeline to estimate observable model parameters from clinical data will be set up, and generic values will be defined for the remaining parameters. The model and estimation procedure will represent augmented diagnosis and prognosis tools for the clinicians.\nKeywords Pulmonary Biomechanics; Image-based Modeling; Finite Element Method; Computational Homogenization; Neural Networks; Data assimilation\nCandidate profile The candidate will have to master continuum mechanics, with if possible knowledge of finite strains, biomechanics, and numerical methods. He/She will also have an interest in the application in pneumology, especially for interacting with clinical collaborators.\nWork environment The thesis will take place within the MΞDISIM team (joint between École Polytechnique & Inria and within the Solid Mechanics Laboratory), on the École Polytechnique campus. It will be in tight collaboration with the LaMCoS at INSA-Lyon. It will be co-directed by Martin Genet, Aline Bel-Brunon & Dominique Chapelle. It should start in 2020. It could be preceded by an M2 internship.\nBibliography\n[1]  B. Hinz and B. Suki, “Does Breathing Amplify Fibrosis?,” Am. J. Respir. Crit. Care Med., 2016.\n[2]  D. Chapelle and P. Moireau, “General coupling of porous flows and hyperelastic formulations—From thermodynamics principles to energy balance and compatible time schemes,” Eur. J. Mech. Part B Fluids, 2014.\n[3]  C. Patte, M. Genet, C. Fetita, P.-Y. Brillet and D. Chapelle, “Mécanique pulmonaire personnalisée: modélisation et estimation—Application à la fibrose pulmonaire”, 14ème colloque national en calcul des structures (CSMA), Giens, France, 2019.\nContacts martin.genet@polytechnique.edu, aline.bel-brunon@insa-lyon.fr, philippe.moireau@inria.fr, dominique.chapelle@inria.fr"
+    "text": "Colin Laville, an engineer from INSA Hauts-de-France (Valenciennes, France) with a PhD from CEMEF, Mines ParisTech & Université PSL (Sophia Antipolis, France), is just starting his postdoc (funded by our ANR COVID grant) in the team. Welcome and good luck, Colin!"
   },
   {
-    "objectID": "posts/2019/2019-07-16 - martin-genet-selected-for-anr-jcjc-grant/index.html",
-    "href": "posts/2019/2019-07-16 - martin-genet-selected-for-anr-jcjc-grant/index.html",
-    "title": "ANR JCJC grant",
+    "objectID": "posts/2021/2021-09-06 - m3disim-cmbbe/index.html",
+    "href": "posts/2021/2021-09-06 - m3disim-cmbbe/index.html",
+    "title": "CMBBE",
     "section": "",
-    "text": "My proposal for a young investigator (JCJC) grant from the French National Research Agency (ANR) on lung modeling was just accepted! Here is a summary of the project. It involves Dominique Chapelle & Phillipe Moireau from MΞDISIM, as well as other colleagues:\n\nAline Bel-Brunon & Ana-Maira Trunfio-Sfarghiu from LaMCoS/Insa-Lyon,\nCatalin Fetita from Artemis/Télécom-SudParis,\nJean-François Bernaudin, Hilario Nunes & Pierre-Yves Brillet from Hypoxia & Lung Laboratory/Sorbonne-Paris-Nord University and Avicenne AP-HP Hospital.\n\nThanks to this funding we will hire two PhD students in the coming years!"
+    "text": "This week I will be presenting some collaborative work with Cécile Patte and Dominique Chapelle on Personalized Pulmonary Mechanics at the 17th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering (CMBBE 2021)!"
   },
   {
-    "objectID": "posts/2020/2020-09-22 - engineer-postdoc-on-personalized-modeling-of-lung-poromechanics-in-covid-19/index.html",
-    "href": "posts/2020/2020-09-22 - engineer-postdoc-on-personalized-modeling-of-lung-poromechanics-in-covid-19/index.html",
-    "title": "(Closed) Postdoc position on Personalized modeling of lung poromechanics in COVID-19",
+    "objectID": "posts/2021/2021-07-01 - nicole-tueni-defends-her-phd/index.html",
+    "href": "posts/2021/2021-07-01 - nicole-tueni-defends-her-phd/index.html",
+    "title": "Nicole Tueni defends her PhD",
     "section": "",
-    "text": "Context & Objectives The COVID-19 infection manifests itself in its severe forms as acute alveolar-interstitial and vascular disease of varying severity, the long-term course of which is unknown. A development towards fibrosing pneumopathy could affect 10 to 30% of survivors of severe forms, which would make it a public health problem due to the secondary handicap. A better understanding of the regional physiological mechanisms in the evolution of COVID-19 pneumonia in their severe forms would allow to anticipate the development or not of sequelae, in particular fibrosing.\nIn the past few years, the MΞDISIM team at École Polytechnique and Inria, in close collaboration with clinicians (pulmonologists and radiologists) from Avicenne AP-HP Hospital/Sorbonne Paris Nord University/INSERM, as well as image processing experts from Telecom SudParis, has developed a poromechanical model of the human lung, together with an estimation pipeline allowing to personalize the model to a patient based on clinical images [1]. Until now the focus of the group was on idiopathic pulmonary fibrosis; however, the consortium has just received a grant from the ANR to adapt the image-based patient-specific modeling pipeline to COVID-19 patients.\nMore precisely, the project concerns the processing of CT images of patients followed at the Avicenne AP-HP hospital for an assessment of vascular remodeling and regional lung mechanics/compliance. These parameters obtained at 2-3 months of the COVID-19 infection will be correlated with clinical, CT, and functional data at 6 months and 1 year of follow-up. To do so, developments are required at the modeling level (to adapt the model to the new disease), on the numerical method level (to automatize the few remaining manual steps) as well as at the implementation level (to streamline the image à model pipeline).\nKeywords Pulmonary Biomechanics; Image-based Modeling; Finite Element Method; Data assimilation\nCandidate profile We are looking for a postdoc. The funding is for one year, but could be further extended if we receive other grants. The candidate will have a fair understanding of continuum mechanics, with if possible knowledge of finite strains, biomechanics, and numerical methods. He/She will be at ease with computational pipelines, and also have an interest in the application in pulmonology, especially for interacting with clinical collaborators.\nWork environment The work will take place within the MΞDISIM team (joint between École Polytechnique & Inria) and within the Solid Mechanics Laboratory, on the École Polytechnique campus. It will be co-supervised by Martin Genet & Dominique Chapelle, and in direct contact with clinicians and image processing scientists. It should start as soon as possible.\nBibliograpy\n[1]  C. Patte, M. Genet, C. Fetita, P.-Y. Brillet and D. Chapelle, “Mécanique pulmonaire personnalisée: modélisation et estimation—Application à la fibrose pulmonaire”, 14ème colloque national en calcul des structures (CSMA), Giens, France, 2019.\nContacts martin.genet@polytechnique.edu, dominique.chapelle@inria.fr"
-  },
-  {
-    "objectID": "posts/2020/2020-10-26 - m3disim-sb2020/index.html",
-    "href": "posts/2020/2020-10-26 - m3disim-sb2020/index.html",
-    "title": "SB2020",
-    "section": "",
-    "text": "Multiple contributions of the team at the 45th congress of the francophone biomechanics society:\n\nNicole Tueni, Jean-Marc Allain & I on cardiac micromechanics\nCécile Patte, Dominique Chapelle & I on lung poromechanics\nI will also chair a session on cardiovascular and respiratory mechanics"
-  },
-  {
-    "objectID": "posts/2020/2020-10-01 - mahdi-manoochehrtayebi-joins-the-team/index.html",
-    "href": "posts/2020/2020-10-01 - mahdi-manoochehrtayebi-joins-the-team/index.html",
-    "title": "Mahdi Manoochehrtayebi joins the team",
-    "section": "",
-    "text": "Mahdi Manoochehrtayebi, who graduated his Bachelor (Mechanical Engineering) from Amirkabir University of Technology in Iran, and his Master (Multiscale Modeling and Multiphysics of Materials and Structures) from École Polytechnique, is just starting his PhD (funded by my ANR JCJC grant) in the team, co-advised by Aline Bel-Brunon (INSA-Lyon), Dominique Chapelle (INRIA) and I. Welcome and good luck, Mahdi!"
-  },
-  {
-    "objectID": "posts/2020/2020-12-18 - cecile-patte-defends-her-phd/index.html",
-    "href": "posts/2020/2020-12-18 - cecile-patte-defends-her-phd/index.html",
-    "title": "Cécile Patte defends her PhD",
-    "section": "",
-    "text": "Today Cécile Patte defended her thesis! Reviewers of the thesis were:\n\nStéphane Avril, Professor, Mines de Saint-Étienne, France\nMerryn Tawhai, Professor, University of Auckland, New Zealand\n\nAnd the jury was composed of:\n\nWolfgang A. Wall, Professor, Technical University of Munich, Germany (President)\nStéphane Avril, Professor, Mines de Saint-Étienne, France (Reviewer)\nPauline Assemat, CNRS Researcher, IMF Toulouse, France (Examiner)\nAline Bel-Brunon, Maître de Conférences, INSA Lyon, France (Examiner)\nJean-François Bernaudin, Emeritus Professor, Sorbonne University, France (Examiner)\nNicolas Triantafyllidis, CNRS Research Director, École Polytechnique (Examiner)\nDominique Chapelle, Inria Research Director, France (PhD Advisor)\nMartin Genet, Maître de Conférences, École Polytechnique (PhD Advisor)\n\nCongrats Cécile and best wishes for the future!!\nBy the way, her PhD thesis is available at https://theses.hal.science/tel-03144413."
-  },
-  {
-    "objectID": "posts/2025/2025-05-06 - new-paper-on-micro-poro-mechanics/index.html",
-    "href": "posts/2025/2025-05-06 - new-paper-on-micro-poro-mechanics/index.html",
-    "title": "New paper on micro-poro-mechanics",
-    "section": "",
-    "text": "Mahdi Manoochehrtayebi, Aline Bel-Brunon and I just published a paper in the International Journal of Solids and Structures on a general micro-poro-mechanics formulation, cf. https://doi.org/10.1016/j.ijsolstr.2025.113354 (editor shared link, HAL repository).\nAll computations from the paper (which are based on the dolfin_mech FEniCS-based library) are easily reproducible at https://mgenet.github.io/Micro-Macro-Poro-paper-demos, so do not hesitate to give it a try, and let us know how it goes!"
-  },
-  {
-    "objectID": "posts/2025/2025-03-12 - FHU Cournand/index.html",
-    "href": "posts/2025/2025-03-12 - FHU Cournand/index.html",
-    "title": "Kick Off Meeting FHU Cournand",
-    "section": "",
-    "text": "Today was the kick off meeting of the FHU (Fédération Hospitalo-Universitaire, i.e., University Hospital Federation) André Cournand (French-American physician and physiologist, Nobel Prize in Physiology and Medicine in 1956 for the development of cardiac catheterization) “Transforming Pulmonary Vascular Medicine”.\n\n\n\n\n\nThe FHU, lead by David Montani & Laurent Savale, is built upon the world-leading Paris-Saclay University/INSERM/APHP “Pulmonary hypertension: Pathophysiology and therapeutic innovation” research unit lead by Marc Humbert, and aims at establishing “a robust network of clinical teams, basic and translational multidisciplinary research laboratories, engineering teams and platforms to confront emerging challenges in the field of pulmonary vascular diseases”.\n\n\n\n\n\nAs a co-leader of the “Biomarkers and Modeling Pulmonary Vascular Diseases” work package of the FHU, I gave a short presentation on our current efforts on lung mechanical modeling, and our plan for modeling pulmonary circulation, notably in the context of Haotian Xiao’s PhD. The other presentations were all super impressive, and I am looking forward to see this federation in action!"
-  },
-  {
-    "objectID": "posts/2025/2025-01-22 - new-paper-on-direct-estimation/index.html",
-    "href": "posts/2025/2025-01-22 - new-paper-on-direct-estimation/index.html",
-    "title": "New paper on direct model parameter identification",
-    "section": "",
-    "text": "Did you ever dream of identifying model parameters from images without running the model itself? This is possible!\nAlice Peyraut and I just published a paper in Comptes Rendus Mécanique, where we use the finite strain formulation of the equilibrium gap principle (introduced in [Genet, 2024, C. R. Mécanique], cf. dedicated post) to perform direct (i.e., without evaluating the model itself) estimation of model (material and/or loading) parameters from full field measurements. The method is a priori highly sensitive to noise, but we showed that using the equilibrium gap as regularizer for motion tracking allows to extract displacement fields from dynamic images that are robust enough to be used for direct parameter estimation. All the details are in the paper: [Peyraut & Genet, 2025, C. R. Mécanique].\nAll computations from the paper (which are based on the dolfin_warp FEniCS+VTK-based library and the dolfin_estim FEniCS-based library) are easily reproducible at https://apeyraut.gitlabpages.inria.fr/identification-methods-paper-demos, so do not hesitate to give it a try, and let us know how it goes!"
-  },
-  {
-    "objectID": "posts/2018/2018-07-31 - martin-genet-just-received-the-young-investigator-award-from-the-francophone-society-of-biomechanics/index.html",
-    "href": "posts/2018/2018-07-31 - martin-genet-just-received-the-young-investigator-award-from-the-francophone-society-of-biomechanics/index.html",
-    "title": "Young Investigator Award from the Francophone Society of Biomechanics",
-    "section": "",
-    "text": "During the 8th World Congress of Biomechanics in Dublin, I received the Young Investigator Award from the Francophone Society of Biomechanics for my talk on “A continuum relaxed growth framework for controlling growth-induced residual stresses in living tissues”."
-  },
-  {
-    "objectID": "posts/2018/2018-08-22 - new-paper-with-msu-and-ethz-on-mechanical-regularization-for-medical-image-registration/index.html",
-    "href": "posts/2018/2018-08-22 - new-paper-with-msu-and-ethz-on-mechanical-regularization-for-medical-image-registration/index.html",
-    "title": "New paper with MSU and ETHZ on Mechanical Regularization for Medical Image Registration",
-    "section": "",
-    "text": "Title: Equilibrated warping: Finite element image registration with finite strain equilibrium gap regularization\nAuthors: Martin Genet, Christian T. Stoeck, Constantin von Deuster, Lik Chuan Lee, Sebastian Kozerke\nAbstract: In this paper, we propose a novel continuum finite strain formulation of the equilibrium gap regularization for image registration. The equilibrium gap regularization essentially penalizes any deviation from the solution of a hyperelastic body in equilibrium with arbitrary loads prescribed at the boundary. It thus represents a regularization with strong mechanical basis, especially suited for cardiac image analysis. We describe the consistent linearization and discretization of the regularized image registration problem, in the framework of the finite elements method. The method is implemented using FEniCS & VTK, and distributed as a freely available python library. We show that the equilibrated warping method is effective and robust: regularization strength and image noise have minimal impact on motion tracking, especially when compared to strain-based regularization methods such as hyperelastic warping. We also show that equilibrated warping is able to extract main deformation features on both tagged and untagged cardiac magnetic resonance images."
-  },
-  {
-    "objectID": "posts/2016/2016-02-08 - m3disim-contributing-to-vtk-development/index.html",
-    "href": "posts/2016/2016-02-08 - m3disim-contributing-to-vtk-development/index.html",
-    "title": "Contributing to VTK development",
-    "section": "",
-    "text": "The Visualization Toolkit (VTK) is the open-source library underlying ParaView—it is a very efficient piece of software for everything related to geometry, images and meshes. After being a user for many years, I recently corrected some bugs related to the handling of second order tensors, and my patches are now part of the library’s master branch, for everyone to use. More info here."
-  },
-  {
-    "objectID": "posts/2016/2016-03-02 - open-phd-position-on-multi-scale-modeling-of-cardiac-growth-remodeling/index.html",
-    "href": "posts/2016/2016-03-02 - open-phd-position-on-multi-scale-modeling-of-cardiac-growth-remodeling/index.html",
-    "title": "(Closed) PhD position on multi-scale modeling of cardiac growth & remodeling",
-    "section": "",
-    "text": "Context Living tissues are made of highly complex hierarchical materials, with a large number of biochemical/biophysical mechanisms interacting at various spatial and temporal scales. This complexity can be addressed through modern modeling and simulation methods (e.g., multi-physics coupling, homogenization, model reduction, etc.), in close interaction with experimental assays. This leads to a better understanding of living tissues, the ultimate goal being to develop objective and quantitative diagnostic and prognostic tools for the clinic—biomedical engineering. The team has already proposed detailed models of cardiac poromechanics [1], electromechanics [2,3] and hypertrophy [4,5], whose coupling raises important fundamental and technical questions.\nObjectives The PhD will aim at developing a modeling and simulation framework including multiple strongly coupled spatial and temporal scales. In terms of spatial scales, the mechanisms driving the tissue’s chronic evolution at small scales (cellular growth, extracellular remodeling, etc.) will be introduced in the electromechanical model developed in the team, and homogenized (relying in particular on the method of the multiplicative decomposition of the transformation gradient) to generate the macroscopic behavior. In terms of temporal scales, a method will be developed to accelerate the resolution of periodic solutions of the cardiac cycle, and indirectly simulate a very large number of cycles. The work will focus on specific remodeling conditions, including cardiac hypertrophy induced by myocardial infarction and cardiac amyloidosis, around which the team develops experimental protocols in collaboration with the clinical world.\nCandidate Profile The candidate must master continuum mechanics, with preferably (but not necessarily) a good knowledge of large transformations and biomechanics. He/She will also have a marked interest in the cardiac application, especially for the interaction with the clinical collaborators.\nWork environment The work will take place within the MΞDISIM team (a joint team of Inria & École Polytechnique), which is located on the École Polytechnique campus.\nContacts / Applications For more information, you may contact .genet@polytechnique.edu and dominique.chapelle@inria.fr. Applications should be submitted online on the Paris-Saclay / ADUM system, but we recommend that you also contact us via the above email addresses to prepare your application.\nBibliography\n[1] Chapelle and Moireau, 2014. A poroelastic model valid in large strains with applications to perfusion in cardiac modeling. European Journal of Mechanics - B/Fluids.\n[2] Chapelle, et al., 2009. Numerical Simulation of the Electromechanical Activity of the Heart, Functional Imaging and Modeling of the heart.\n[3] Chapelle, et al., 2012. Energy-preserving muscle tissue model: formulation and compatible discretizations, International Journal for Multiscale Computational Engineering.\n[4] Genet, et al., 2015. Heterogeneous growth-induced prestrain in the heart, Journal of Biomechanics.\n[5] Genet, et al., 2015. Modeling Pathologies of Diastolic and Systolic Heart Failure, Annals of Biomedical Eng."
-  },
-  {
-    "objectID": "posts/2016/2016-10-13 - phd-position-on-image-guided-computational-cardiac-mechanics/index.html",
-    "href": "posts/2016/2016-10-13 - phd-position-on-image-guided-computational-cardiac-mechanics/index.html",
-    "title": "(Closed) PhD position on Image-guided Computational Cardiac Mechanics",
-    "section": "",
-    "text": "The Institute for Biomedical Engineering at the University and ETH Zurich and the MΞDISIM team jointly develop Magnetic Resonance image-guided computational models of the heart. As part of our efforts to predict growth and remodeling of the failing heart we are offering a PhD position on image-guided Computational Cardiac Mechanics.\nThe research project aims at developing image-guided and experimentally validated computational models of cell aggregate-level structural and tissue-level mechanical changes in pathological growth and remodeling of the heart. To this end, a growth and remodeling law will be formulated and implemented, which will be calibrated and validated using longitudinal in-vivo Magnetic Resonance imaging and experimental data of cardiac microstructure, tissue and function in models of chronic myocardial infarction and left ventricular volume overload. The research will be conducted both in Zurich and Paris.\nThe candidate holds a Master of Science degree in mechanical engineering or biomedical engineering with first class grades. He/she should have a keen interest in computational mechanics, signal and data processing and applications of cutting-edge imaging and modelling technology. Very good programming skills (Matlab, Python, C) and interest in both theoretical and practical work are a premise. An innovative spirit and team player skills round off the profile. For further information about the position please contact Prof. Sebastian Kozerke or Prof. Martin Genet."
-  },
-  {
-    "objectID": "posts/2018/2018-01-07 - nicole-tueni-joins-the-team/index.html",
-    "href": "posts/2018/2018-01-07 - nicole-tueni-joins-the-team/index.html",
-    "title": "Nicole Tueni joins the team",
-    "section": "",
-    "text": "Nicole Tueni, an engineer from INSA-Lyon with a Master (Biomechanics) from École Polytechnique, is just starting her PhD (funded by École Polytechnique), co-advised by Jean-Marc Allain and I. Welcome and good luck, Nicole!"
+    "text": "Today Nicole Tueni defended her thesis! Jury was composed of:\n\nJacques Ohayon, Université Joseph Fourier (Président)\nSabine Bensamoun, Université de Technologie de Compiègne (Rapportrice)\nKarine Bruyère-Garnier, Université Gustave Eiffel (Rapportrice)\nKostantinos Danas, CNRS (Examinateur)\nJean-Marc Allain, École Polytechnique (directeur de thèse)\nMartin Genet, École Polytechnique (directeur de thèse)\n\nCongrats Nicole and best wishes for the future!!\nBy the way, her PhD thesis is available at https://tel.archives-ouvertes.fr/tel-03330458."
   },
   {
     "objectID": "posts/2025/2025-03-24 - BMMB/index.html",
@@ -285,13 +75,6 @@
     "title": "BMMB Editorial Board",
     "section": "",
     "text": "I was invited by Gerhard Holzapfel & David Nordsletten (Editors-in-Chief) to be part of the Editorial Board of the Biomechanics and Modeling in Mechanobiology (BMMB) journal, cf. https://link.springer.com/journal/10237/editorial-board. I think this is a very good journal, and I am very happy to be a part of it!"
-  },
-  {
-    "objectID": "posts/2025/2025-02-21 - DTE-AICOMAS/index.html",
-    "href": "posts/2025/2025-02-21 - DTE-AICOMAS/index.html",
-    "title": "DTE & AICOMAS 2025",
-    "section": "",
-    "text": "This week we attended the 3rd IACM Digital Twins in Engineering Conference (DTE 2025) & 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025) in Paris:\n\nKateřina Škardová presented her work on “Finite element neural network interpolation: Interpretable and adaptive discretization for solving PDEs”;\nAlexandre Daby-Seesaram presented his work on “Finite element neural network interpolation: Hybridization with the proper generalized decomposition for surrogate modeling”;\n\n\n\n\n\n\n\nI co-chaired (together with Philippe Moireau (MΞDISIM, INRIA & CMAP, École Polytechnique/IPP/CNRS)) a mini-symposium on “Digital twins of living systems: theoretical, implementation & application challenges”, with many exciting talks, cf. Sessions I II and III—thanks again to all the speakers of the mini-symposium!"
   },
   {
     "objectID": "posts/2025/2025-02-10 - expert-review/index.html",
@@ -308,116 +91,25 @@
     "text": "Today I gave a seminar at the School of Mathematics and Statistics of the University of Glasgow, entitled “Toward pulmonary digital twins: recent efforts in motion tracking using mechanical regularization, lung poromechanical modeling and estimation, model reduction using finite element neural networks”. I had the chance to meet many people from the SofTMech “Mathematics for Healthcare” Center (notably Profs. Nicholas Hill & Hao Gao and some of their students), and learn about the excellent work they are doing, notably on cardiac perfusion modeling and simulation, which could very well be useful for our lung perfusion modeling efforts."
   },
   {
-    "objectID": "posts/2020/2020-07-24 - martin-genet-dominique-chapelle-involved-in-anr-covid-grant/index.html",
-    "href": "posts/2020/2020-07-24 - martin-genet-dominique-chapelle-involved-in-anr-covid-grant/index.html",
-    "title": "ANR COVID grant",
+    "objectID": "posts/2018/2018-01-07 - nicole-tueni-joins-the-team/index.html",
+    "href": "posts/2018/2018-01-07 - nicole-tueni-joins-the-team/index.html",
+    "title": "Nicole Tueni joins the team",
     "section": "",
-    "text": "Together with Dominique Chapelle we are part of a project (SILICOVILUNG) selected by ANR in the 4th wave of the COVID call, cf. https://anr.fr/fr/actualites-de-lanr/details/news/appel-anr-ra-covid-19-les-resultats-des-premieres-vagues-devaluation.\nThe project is managed by Pierre-Yves Brillet from Hypoxia & Lung Laboratory/Sorbonne-Paris-Nord University and Avicenne AP-HP Hospital. It aims at better understanding the regional physiological mechanisms in the evolution of Covid-19 pneumonia in their severe forms and to anticipate the development or not of sequelae, in particular fibrosis. It focuses on the processing of CT images of Covid-19 patients for an assessment of vascular remodeling and regional lung mechanics/compliance.\nWith this project we will hire one engineer or post-doc to extend Cécile Patte’s PhD work, and begin its translation to the clinic."
+    "text": "Nicole Tueni, an engineer from INSA-Lyon with a Master (Biomechanics) from École Polytechnique, is just starting her PhD (funded by École Polytechnique), co-advised by Jean-Marc Allain and I. Welcome and good luck, Nicole!"
   },
   {
-    "objectID": "posts/2020/2020-10-09 - cecile-patte-is-one-of-the-2020-france-young-talents-for-women-in-science-loreal-unesco/index.html",
-    "href": "posts/2020/2020-10-09 - cecile-patte-is-one-of-the-2020-france-young-talents-for-women-in-science-loreal-unesco/index.html",
-    "title": "Cécile Patte is one of the 2020 France Young Talents “For Women in Science” L’Oréal - Unesco",
+    "objectID": "posts/2018/2018-07-31 - martin-genet-just-received-the-young-investigator-award-from-the-francophone-society-of-biomechanics/index.html",
+    "href": "posts/2018/2018-07-31 - martin-genet-just-received-the-young-investigator-award-from-the-francophone-society-of-biomechanics/index.html",
+    "title": "Young Investigator Award from the Francophone Society of Biomechanics",
     "section": "",
-    "text": "Cécile Patte, 3rd-year PhD student in the team with Dominique Chapelle and I, received the 2020 French Young Talent award of the programme “For Women in Science” L’Oréal - Unesco. This prize rewards her research work on pulmonary poromechanics modeling applied to pulmonary fibrosis."
+    "text": "During the 8th World Congress of Biomechanics in Dublin, I received the Young Investigator Award from the Francophone Society of Biomechanics for my talk on “A continuum relaxed growth framework for controlling growth-induced residual stresses in living tissues”."
   },
   {
-    "objectID": "posts/2020/2020-11-30 - new-paper-on-cardiac-tissue-microstructural-deformation-during-traction-assay/index.html",
-    "href": "posts/2020/2020-11-30 - new-paper-on-cardiac-tissue-microstructural-deformation-during-traction-assay/index.html",
-    "title": "New paper on cardiac tissue microstructural deformation during traction assay",
+    "objectID": "posts/2023/2023-10-25 - m3disim-sb2023/index.html",
+    "href": "posts/2023/2023-10-25 - m3disim-sb2023/index.html",
+    "title": "SB2023",
     "section": "",
-    "text": "Together with Nicole Tueni and Jean-Marc Allain, we recently published a paper in Scientific Reports, in collaboration with Jérémy Vizet and Angelo Pierangelo from the LPICM.\nClick here to read the article!"
-  },
-  {
-    "objectID": "posts/2019/2019-09-30 - jean-marc-allain-co-chair-martin-genet-plenary-speaker-at-upcoming-parisian-biomechanics-workshop/index.html",
-    "href": "posts/2019/2019-09-30 - jean-marc-allain-co-chair-martin-genet-plenary-speaker-at-upcoming-parisian-biomechanics-workshop/index.html",
-    "title": "Plenary speaker @ upcoming Parisian Biomechanics Workshop",
-    "section": "",
-    "text": "I will be giving a plenary talk on mechanics-based biomedical image processing during the upcoming workshop “Biomechanics from cells to tissues”, which “aims to bring together engineers, physicists and life scientists working at the interface between mechanics, biology and medicine to exchange recent results and stimulate further interactions within the Paris-Saclay and broader Paris area.”."
-  },
-  {
-    "objectID": "posts/2019/2019-12-16 - new-paper-on-relaxed-growth/index.html",
-    "href": "posts/2019/2019-12-16 - new-paper-on-relaxed-growth/index.html",
-    "title": "New paper on relaxed growth",
-    "section": "",
-    "text": "I just published a paper in Clinical Biomechanics, introducing a new framework for controlling growth-induced residual stresses in the context of the kinematic growth approach (i.e., multiplicative split of deformation gradient), through an additional relaxation step."
-  },
-  {
-    "objectID": "posts/2015/2015-09-01 - m3disim-has-a-new-permanent-researcher-with-martin-genet/index.html",
-    "href": "posts/2015/2015-09-01 - m3disim-has-a-new-permanent-researcher-with-martin-genet/index.html",
-    "title": "Today I start as an Assistant Professor at École Polytechnique!",
-    "section": "",
-    "text": "After a Marie Curie fellowship in between UC San Francisco, Stanford and the ETH Zurich, I just started as an Assistant Professor (Maître de Conférence) in the Mechanics Department/Solid Mechanics Laboratory at École Polytechnique, with research position in the MΞDISIM team of INRIA."
-  },
-  {
-    "objectID": "posts/2017/2017-05-23 - open-phd-position/index.html",
-    "href": "posts/2017/2017-05-23 - open-phd-position/index.html",
-    "title": "(Closed) PhD position on multiscale poromechanical modeling of the lung",
-    "section": "",
-    "text": "Proposition de sujet de thèse: Modélisation poro-mécanique multi-échelle du poumon, de la respiration au remodelage chronique associé à la fibrose pulmonaire\nContexte La fibrose pulmonaire idiopathique (FPI) est une maladie chronique du poumon au pronostic très sévère [1]. À l’échelle alvéolaire, au cours du développement de la maladie les alvéoles pulmonaires fusionnent par destruction de l’interstitium (la paroi inter-alvéolaire) [1]. Et physiologiquement, la maladie se traduit par un volume pulmonaire accru, mais une altération forte de la fonction respiratoire avec perte d’efficacité des échanges gazeux [1]. Même si positivement corrélée à des facteurs tels l’hérédité ou le tabagisme, la cause directe de la maladie est largement inconnue (d’où le qualificatif « idiopathique ») [1]. De même, la voie de progression est loin d’être quantitativement comprise ; cependant, le rôle régulateur de la mécanique semble prépondérant : il a récemment été postulé que dans le poumons sain les fibres de collagènes sont lâchement enchevêtrées et représentent un fusible mécanique pour les fibroblastes (les cellules qui synthétisent le collagène) ; au contraire dans le poumon fibreux la matrice de collagène est plus dense et tendue et les fibroblastes sont alors davantage sollicités, entraînant une spirale pathologique [2].\nObjectifs L’objectif général de la thèse est de développer une modélisation fine du poumon au cours de la respiration et du remodelage chronique associé à la fibrose pulmonaire, ainsi qu’une méthode d’assimilation de données dédiée au modèle et aux données cliniques (typiquement, des images). Le modèle servira de cadre pour formuler quantitativement les hypothèses existantes (et éventuellement de nouvelles hypothèses) sur le développement de la maladie. Augmenté des données, il représentera un outil de diagnostic objectif et quantitatif pour la fibrose pulmonaire. Sur le plus long terme, il pourrait servir de base à un outil d’optimisation de traitement personnalisé. Le travail se situera dans la continuité des travaux de l’équipe MΞDISIM, notamment sur la poro-mécanique [3] et sur l’assimilation de données [4]; il ouvrira également un nouvel axe de recherche sur la modélisation microscopique du comportement passif des tissus mous, complémentaire du travail sur le comportement actif [5]. Plus précisément, le travail s’organisera autour des trois axes suivants:\n(A1) Adaptation du modèle poro-mécanique macroscopique existant [3] au cas du poumon, et mise en place d’une stratégie d’assimilation de données dédiée au modèle et aux données cliniques (images, mesures de pression).\n(A2) Développement d’un modèle poro-mécanique « microscopique » (échelle des alvéoles pulmonaires), ainsi que d’un pont micro-macro d’homogénéisation avec le modèle « macroscopique » (échelle du poumon) proposé en (A1).\n(A3) Introduction dans le modèle microscopique des mécanismes de remodelage chronique associés à la fibrose pulmonaire, et étude de l’influence sur le comportement à l’échelle de l’organe (la respiration).\nProfil du candidat Le/La candidat/e devra maîtriser la mécanique des milieux continus, avec si possible des connaissances en grandes transformations, en biomécanique, et en méthodes numériques. Il/Elle aura également un intérêt pour l’application en pneumologie, notamment pour l’interaction avec les collaborateurs cliniques.\nCadre de travail La thèse se déroulera dans le cadre de l’équipe MΞDISIM (commune au Laboratoire de Mécanique des Solides de l’École Polytechnique & Inria), sur le campus de l’École Polytechnique.\nBibliographie  [1] B. Suki, S. Sato, H. Parameswaran, M. V. Szabari, A. Takahashi, and E. Bartolak-Suki, “Emphysema and Mechanical Stress-Induced Lung Remodeling,” Physiology, vol. 28, no. 6, pp. 404–413, Nov. 2013.\n[2] B. Hinz and B. Suki, “Does Breathing Amplify Fibrosis?,” Am. J. Respir. Crit. Care Med., vol. 194, no. 1, 2016.\n[3] D. Chapelle and P. Moireau, “General coupling of porous flows and hyperelastic formulations—From thermodynamics principles to energy balance and compatible time schemes,” Eur. J. Mech. Part B Fluids, vol. 46, pp. 82–96, Jul. 2014.\n[4] P. Moireau, D. Chapelle, and P. Le Tallec, “Joint state and parameter estimation for distributed mechanical systems,” Comput. Methods Appl. Mech. Eng., vol. 197, no. 6–8, pp. 659–677, Jan. 2008.\n[5] D. Chapelle, P. Le Tallec, P. Moireau, and M. Sorine, “Energy-Preserving Muscle Tissue Model: Formulation and Compatible Discretizations,” Int. J. Multiscale Comput. Eng., vol. 10, no. 2, pp. 189–211, 2012.\nContacts martin.genet@polytechnique.edu, dominique.chapelle@inria.fr."
-  },
-  {
-    "objectID": "posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/index.html",
-    "href": "posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/index.html",
-    "title": "Mahdi Manoochehrtayebi defends his PhD thesis",
-    "section": "",
-    "text": "Today Mahdi Manoochehrtayebi defended his PhD thesis! Jury was composed of:\n\nCéline Grandmont, INRIA (présidente)\nAdrien Baldit, Université de Lorraine (rapporteur)\nEmmanuel Baranger, ENS Paris-Saclay (rapporteur)\nPauline Assemat, Institut de Mécanique des Fluides de Toulouse (examinatrice)\nKostantinos Danas, CNRS (examinateur)\nAline Bel-Brunon, INSA-Lyon (directrice de thèse)\nDominique Chapelle, INRIA (directeur de thèse)\nMartin Genet, École Polytechnique (directeur de thèse)\n\nCongrats Mahdi and best wishes for the future!!"
-  },
-  {
-    "objectID": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
-    "href": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
-    "title": "Four teaching positions are available in the Mechanics Department of École Polytechnique",
-    "section": "",
-    "text": "Four teaching positions are available in the Mechanics Department of École Polytechnique, including one full-time faculty position (Assistant Professor) in Bio-materials! See https://www.linkedin.com/posts/eric-charkaluk-99170965_postes-ouverts-au-d%C3%A9partement-de-m%C3%A9canique-activity-7160643818109734914-AdlQ for more details."
-  },
-  {
-    "objectID": "posts/2024/2024-12-20 - new-review-paper-on-digital-twins/index.html",
-    "href": "posts/2024/2024-12-20 - new-review-paper-on-digital-twins/index.html",
-    "title": "New review paper on digital twins for chronic lung diseases",
-    "section": "",
-    "text": "Together with Apolline Gonsard (University Hospital Necker-Enfants Malades) & David Drummond (University Hospital Necker-Enfants Malades/Université Paris Cité/INSERM/INRIA), we just published a review paper on “Digital twins for chronic lung diseases” in European Respiratory Review, cf. https://doi.org/10.1183/16000617.0159-2024."
-  },
-  {
-    "objectID": "posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team/index.html",
-    "href": "posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team/index.html",
-    "title": "Felipe Álvarez-Barrientos joins the team",
-    "section": "",
-    "text": "Felipe Álvarez-Barrientos, who holds a Master of Science in Engineering from the Pontificia Universidad Católica de Chile in Santiago, just started his PhD in the team. He already visited MΞDISIM twice, for his Master thesis and Engineering internship, and together we published a paper on micro-poro-mechanics. His PhD is funded by the European Innovation Council PathFinder V|LF-Spiro3D grant, and he will work on porting our lung personalized modeling/digital twin pipeline to (dynamic) lung magnetic resonance imaging. Welcome back and good luck, Felipe!"
-  },
-  {
-    "objectID": "posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/index.html",
-    "href": "posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/index.html",
-    "title": "New paper on mechanical regularization for motion tracking",
-    "section": "",
-    "text": "I (with the help of Philippe Moireau and Patrick Le Tallec) just introduced a new formulation of the equilibrium gap principle in the context of finite element motion tracking, cf. https://doi.org/10.5802/crmeca.228! The code is available online (https://gitlab.inria.fr/mgenet/dolfin_warp), and there are even freely available Jupyter notebooks to reproduce the figures of the paper (https://mgenet.gitlabpages.inria.fr/N-DEG-paper-demos/index.html), so do not hesitate to give it a try!!"
-  },
-  {
-    "objectID": "posts/2024/2024-12-11 - new-preprint-on-finite-element-neural-network/index.html",
-    "href": "posts/2024/2024-12-11 - new-preprint-on-finite-element-neural-network/index.html",
-    "title": "New preprints on Finite Element Neural Network!",
-    "section": "",
-    "text": "Together with Kateřina Škardová and Alexandre Daby-Seesaram we just submitted for publication two papers on “Finite Element Neural Network Interpolation”: Part I is on “Interpretable and Adaptive Discretization for Solving PDEs” and Part II on “Hybridisation with the Proper Generalised Decomposition for non-linear surrogate modelling”. Both preprints are on ArXiv: Part I and Part II.\nWe implemented our framework in a library called NeuROM, which is freely available, and as usual now we also publish jupyter notebooks to allow reproduction of the figures of the papers: Part I and Part II.\nDefinitely let us know if you are interested and want to collaborate on these topics!"
-  },
-  {
-    "objectID": "posts/2024/2024-12-02 - l-art-de-soigner/index.html",
-    "href": "posts/2024/2024-12-02 - l-art-de-soigner/index.html",
-    "title": "“Art of Healing, Science of Understanding” Workshop",
-    "section": "",
-    "text": "Today I gave a short course on “Mechanics of Hard and Soft Tissues” at INRIA Paris, for the “L’Art de Soigner, la Science de Comprendre” workshop of the GdR MécaBioSanté. Every year, this workshop is held right before the GdR annual workshop (which this year will be held in Metz, starting tomorrow!), to offer some basic training in mechanics to medical doctors, and to discuss research at the interface between mechanics and clinics. It is organized by Irène Vignon-Clémentel and Damien Garcia—many thanks to them for finding such a fancy name for the workshop, and more importantly for bringing together people from mechanics (solid and fluid!), imaging, machine learning, … and the clinics!"
-  },
-  {
-    "objectID": "posts/2024/2024-10-01 - haotian-xiao-joins-the-team/index.html",
-    "href": "posts/2024/2024-10-01 - haotian-xiao-joins-the-team/index.html",
-    "title": "Haotian Xiao joins the team",
-    "section": "",
-    "text": "Haotian Xiao, who graduated from École Centrale de Pékin (China) and holds a Master from the École Nationale des Ponts et Chaussées (ENPC, France), just started his PhD in the team. Funded by the Institut Polytechnique de Paris (IPP) doctoral school, he will work on adding the pulmonary circulation to our lung model, in collaboration with Laurent Savale, David Montani & Marc Humbert from the Université Paris-Saclay/INSERM Hypertension Artérielle Pulmonaire: Physiopathologie et Innovation Thérapeutique team and APHP. Welcome and good luck, Haotian!"
-  },
-  {
-    "objectID": "posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/index.html",
-    "href": "posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/index.html",
-    "title": "Keynote speaker @ RT Math-Bio-Santé",
-    "section": "",
-    "text": "Today I, as an envoy from the GdR Méca-Bio-Santé (https://gdr-mecabio-sante.cnrs.fr), gave a keynote lecture on the team’s efforts on “multiscale modeling and estimation of lung poromechanics” during the RT Math-Bio-Santé (https://math-bio-sante.math.cnrs.fr) 2024 workshop organized at the Henri Lebesgue Center for Mathematics in Nantes (https://www.lebesgue.fr/fr/JMBS24)…super nice to see so much interest at the interface —the interphase!— between both communities! And it was an occasion to meet with Annabelle Collin, former PhD student in MΞDISIM, who co-organized the meeting and is soon moving to Nantes University as a Professor of Mathematics."
+    "text": "We are present this week at the 48th Congress of the Francophone Society of Biomechanics:\n\nAlice Peyraut presents her PhD work on uncertainty quantification in personalized pulmonary mechanics\nI present Mahdi Manoochehrtayebi’s PhD work on micro-poro-mechanical modeling of the lung parenchyma"
   },
   {
     "objectID": "posts/2023/2023-05-03 - m3disim-cmbbe2023/index.html",
@@ -427,20 +119,6 @@
     "text": "This week we are present at the 18th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering:\n\nAlice Peyraut is presenting her work on “Uncertainty quantification in personalized pulmonary mechanics”;\nMahdi Manoochehrtayebi is presenting his work on “Multi-Scale Modeling of the Lung Parenchyma”;\nI am chairing a session on “Computational pulmonology: recent advances and challenges”."
   },
   {
-    "objectID": "posts/2023/2023-10-01 - katka-skardova-joins-the-team/index.html",
-    "href": "posts/2023/2023-10-01 - katka-skardova-joins-the-team/index.html",
-    "title": "Kateřina Škardová joins the team",
-    "section": "",
-    "text": "Kateřina Škardová, who recently defended her PhD at the Department of Mathematics of Czech Technical University in Prague, is starting as a postdoc in the team. She already visited us during her PhD, notably to work on motion tracking and published a conference paper on the subject. Her postdoc is funded by a E4H Postdoctoral Fellowship, which she obtained with her project on Multiscale Modeling and Simulation of Remodeling in Pulmonary Fibrosis. Welcome back and good luck, Katka!"
-  },
-  {
-    "objectID": "posts/2023/2023-12-01 - mΞdisim-gdr-mecabiosante/index.html",
-    "href": "posts/2023/2023-12-01 - mΞdisim-gdr-mecabiosante/index.html",
-    "title": "GdR MécaBioSanté",
-    "section": "",
-    "text": "This week we are taking part to the MécaBioSanté GdR annual workshop, this year at INSA-Lyon:\n\nAlice Peyraut presented her PhD work on uncertainty quantification in personalized pulmonary mechanics;\nI presented Mahdi Manoochehrtayebi’s PhD work on pulmonary micro-poro-mechanics."
-  },
-  {
     "objectID": "posts/2023/2023-05-23 - new-paper-on-reduced-left-ventricular-dynamics-modeling-based-on-a-cylindrical-assumption/index.html",
     "href": "posts/2023/2023-05-23 - new-paper-on-reduced-left-ventricular-dynamics-modeling-based-on-a-cylindrical-assumption/index.html",
     "title": "New paper on reduced left ventricular dynamics modeling based on a cylindrical assumption",
@@ -448,25 +126,32 @@
     "text": "Together with Jérôme Diaz, Dominique Chapelle & Philippe Moireau, we just introduced a new —intermediate— level in the MΞDISIM team team’s cardiac model hierarchy (3D & reduced “spherical” model) with a reduced “cylindrical” model: https://dx.doi.org/10.1002/cnm.3711\nYou can find our preprint on HAL: https://hal.science/hal-03832575"
   },
   {
-    "objectID": "posts/2021/2021-01-04 - phd-fellowship-on-modeling-and-estimation-of-lung-poromechanics/index.html",
-    "href": "posts/2021/2021-01-04 - phd-fellowship-on-modeling-and-estimation-of-lung-poromechanics/index.html",
-    "title": "(Closed) PhD position on Modeling and Estimation of Lung Poromechanics",
+    "objectID": "posts/2023/2023-11-24 - m3disim-mortech-2023/index.html",
+    "href": "posts/2023/2023-11-24 - m3disim-mortech-2023/index.html",
+    "title": "MORTech 2023",
     "section": "",
-    "text": "Context & Objectives The lungs are the primary organs of the respiratory system in humans and many animals, responsible for molecular exchanges between external air and internal blood through mechanical ventilation. It has an extraordinary complex architecture, with the inherent fractal structure of the bronchial and blood vessel trees, as well as the hierarchical structure of the parenchyma. Lung biomechanics has been extensively studied by physiologists, experimentally as well as theoretically, from the air flow, blood flow and tissue stress points of view, laying the ground for our current fundamental understanding of the relationship between function and mechanical behavior. However, many questions remain, notably in the intricate coupling between the multiple constituents, between the many phenomena taking place at different spatial and temporal scales in health and disease. For example, even for healthy lungs, there is no quantitative model allowing to link tissue-level and organ-level experimental material responses.\nThese fundamental questions represent real clinical challenges, as pulmonary diseases are an important health burden. Interstitial lung diseases, for instance, affect several million people globally. Idiopathic Pulmonary Fibrosis (IPF), notably, a progressive form of interstitial lung diseases where some alveolar septa get thicker and stiffer while others get completely damaged, remains poorly understood, poorly diagnosed, and poorly treated, with a current median survival rate inferior to 5 years. It has, however, been hypothesized that a mechanical vicious cycle is in place within the parenchyma of IPF patients, where fibrosis and damage induce large stresses, which in turn favor fibrosis.\nThe general goal of this project is twofold: (i) scientifically, to better understand pulmonary (solid) mechanics, from the alveolar scale to the organ in health and (IPF) disease; (ii) clinically, to improve diagnosis and prognosis of (IPF) patients through personalized computational modeling. More precisely, the student will develop a many-scale model of the parenchymal biomechanics, at all relevant spatial scales from the alveolus to the organ, and at the temporal scales of the breathing cycle and fibrosis process. Different representations at successive spatial scales will be linked by a computational nonlinear homogenization strategy with a priori model reduction based on a neural network. The model will integrate the rather unique experimental data produced by Drs. Bel-Brunon and Trunfio-Sfarghiu from LaMCoS (INSA-Lyon), i.e., microtomography images at alveolar scale and inflation tests of lobules: microstructures will be extracted from the images and systematically analyzed, and model parameters will be estimated from the mechanical tests. The model will also integrate clinical-radiological data provided by Profs. Nunes and Brillet from Avicenne APHP Hospital, i.e., standard pulmonary function tests and thoracic computed tomography imaging on IPF patients as well as normal lung controls: a pipeline to estimate observable model parameters from clinical data will be set up, and generic values will be defined for the remaining parameters. The model and estimation procedure will represent augmented diagnosis and prognosis tools for the clinicians.\nKeywords Pulmonary Biomechanics; Image-based Modeling; Finite Element Method; Computational Homogenization; Neural Networks; Data assimilation\nCandidate profile The candidate will have to master continuum mechanics, with if possible knowledge of finite strains, biomechanics, and numerical methods. He/She will also have an interest in the application in pulmonology, especially for interacting with clinical collaborators.\nWork environment The thesis will take place within the MΞDISIM team (joint between École Polytechnique & Inria and within the Solid Mechanics Laboratory), on the École Polytechnique campus. It will be in tight collaboration with the LaMCoS at INSA-Lyon. It will be co-directed by Martin Genet & Philippe Moireau. It should start in 2021. It could be preceded by an M2 internship.\nBibliography\n[1]  B. Hinz and B. Suki, “Does Breathing Amplify Fibrosis?,” Am. J. Respir. Crit. Care Med., 2016.\n[2]  D. Chapelle and P. Moireau, “General coupling of porous flows and hyperelastic formulations—From thermodynamics principles to energy balance and compatible time schemes,” Eur. J. Mech. Part B Fluids, 2014.\n[3]  C. Patte, M. Genet, C. Fetita, P.-Y. Brillet and D. Chapelle, “Mécanique pulmonaire personnalisée: modélisation et estimation—Application à la fibrose pulmonaire”, 14ème colloque national en calcul des structures (CSMA), Giens, France, 2019.\nContacts martin.genet@polytechnique.edu, philippe.moireau@inria.fr"
+    "text": "Kateřina Škardová and I are attending MORTech 2023 (6th International Workshop on Model Reduction Techniques) at Laboratoire de Mécanique de Paris-Saclay (LMPS), École Normale Supérieur de Paris-Saclay (ENSPS), to learn about current trends in model reduction methods—we even met a future member of the team (more on that soon)!"
   },
   {
-    "objectID": "posts/2021/2021-07-01 - nicole-tueni-defends-her-phd/index.html",
-    "href": "posts/2021/2021-07-01 - nicole-tueni-defends-her-phd/index.html",
-    "title": "Nicole Tueni defends her PhD",
+    "objectID": "posts/2019/2019-12-04 - phd-fellowship-on-multi-scale-modeling-of-lung-poromechanics/index.html",
+    "href": "posts/2019/2019-12-04 - phd-fellowship-on-multi-scale-modeling-of-lung-poromechanics/index.html",
+    "title": "(Closed) PhD position on Multi-Scale Modeling of Lung Poromechanics",
     "section": "",
-    "text": "Today Nicole Tueni defended her thesis! Jury was composed of:\n\nJacques Ohayon, Université Joseph Fourier (Président)\nSabine Bensamoun, Université de Technologie de Compiègne (Rapportrice)\nKarine Bruyère-Garnier, Université Gustave Eiffel (Rapportrice)\nKostantinos Danas, CNRS (Examinateur)\nJean-Marc Allain, École Polytechnique (directeur de thèse)\nMartin Genet, École Polytechnique (directeur de thèse)\n\nCongrats Nicole and best wishes for the future!!\nBy the way, her PhD thesis is available at https://tel.archives-ouvertes.fr/tel-03330458."
+    "text": "Context & Objectives The lungs are the primary organs of the respiratory system in humans and many animals, responsible for molecular exchanges between external air and internal blood through mechanical ventilation. It has an extraordinary complex architecture, with the inherent fractal structure of the bronchial and blood vessel trees, as well as the hierarchical structure of the parenchyma. Lung biomechanics has been extensively studied by physiologists, experimentally as well as theoretically, from the air flow, blood flow and tissue stress points of view, laying the ground for our current fundamental understanding of the relationship between function and mechanical behavior. However, many questions remain, notably in the intricate coupling between the multiple constituents, between the many phenomena taking place at different spatial and temporal scales in health and disease. For example, even for healthy lungs, there is no quantitative model allowing to link tissue-level and organ-level experimental material responses.\nThese fundamental questions represent real clinical challenges, as pulmonary diseases are an important health burden. Interstitial lung diseases, for instance, affect several million people globally. Idiopathic Pulmonary Fibrosis (IPF), notably, a progressive form of interstitial lung diseases where some alveolar septa get thicker and stiffer while others get completely damaged, remains poorly understood, poorly diagnosed, and poorly treated, with a current median survival rate inferior to 5 years. It has, however, been hypothesized that a mechanical vicious cycle is in place within the parenchyma of IPF patients, where fibrosis and damage induce large stresses, which in turn favor fibrosis.\nThe general goal of this project is twofold: (i) scientifically, to better understand pulmonary (solid) mechanics, from the alveolar scale to the organ in health and (IPF) disease; (ii) clinically, to improve diagnosis and prognosis of (IPF) patients through personalized computational modeling. More precisely, the student will develop a many-scale model of the parenchymal biomechanics, at all relevant spatial scales from the alveolus to the organ, and at the temporal scales of the breathing cycle and fibrosis process. Different representations at successive spatial scales will be linked by a computational nonlinear homogenization strategy with a priori model reduction based on a neural network. The model will integrate the rather unique experimental data produced by Drs. Bel-Brunon and Trunfio-Sfarghiu from LaMCoS (INSA-Lyon), i.e., microtomography images at alveolar scale and inflation tests of lobules: microstructures will be extracted from the images and systematically analyzed, and model parameters will be estimated from the mechanical tests. The model will also integrate clinical-radiological data provided by Profs. Nunes and Brillet from Avicenne APHP Hospital, i.e., standard pulmonary function tests and thoracic computed tomography imaging on IPF patients as well as normal lung controls: a pipeline to estimate observable model parameters from clinical data will be set up, and generic values will be defined for the remaining parameters. The model and estimation procedure will represent augmented diagnosis and prognosis tools for the clinicians.\nKeywords Pulmonary Biomechanics; Image-based Modeling; Finite Element Method; Computational Homogenization; Neural Networks; Data assimilation\nCandidate profile The candidate will have to master continuum mechanics, with if possible knowledge of finite strains, biomechanics, and numerical methods. He/She will also have an interest in the application in pneumology, especially for interacting with clinical collaborators.\nWork environment The thesis will take place within the MΞDISIM team (joint between École Polytechnique & Inria and within the Solid Mechanics Laboratory), on the École Polytechnique campus. It will be in tight collaboration with the LaMCoS at INSA-Lyon. It will be co-directed by Martin Genet, Aline Bel-Brunon & Dominique Chapelle. It should start in 2020. It could be preceded by an M2 internship.\nBibliography\n[1]  B. Hinz and B. Suki, “Does Breathing Amplify Fibrosis?,” Am. J. Respir. Crit. Care Med., 2016.\n[2]  D. Chapelle and P. Moireau, “General coupling of porous flows and hyperelastic formulations—From thermodynamics principles to energy balance and compatible time schemes,” Eur. J. Mech. Part B Fluids, 2014.\n[3]  C. Patte, M. Genet, C. Fetita, P.-Y. Brillet and D. Chapelle, “Mécanique pulmonaire personnalisée: modélisation et estimation—Application à la fibrose pulmonaire”, 14ème colloque national en calcul des structures (CSMA), Giens, France, 2019.\nContacts martin.genet@polytechnique.edu, aline.bel-brunon@insa-lyon.fr, philippe.moireau@inria.fr, dominique.chapelle@inria.fr"
   },
   {
-    "objectID": "posts/2021/2021-09-01 - alice-peyraut-joins-the-team/index.html",
-    "href": "posts/2021/2021-09-01 - alice-peyraut-joins-the-team/index.html",
-    "title": "Alice Peyraut joins the team",
+    "objectID": "posts/2019/2019-09-30 - jean-marc-allain-co-chair-martin-genet-plenary-speaker-at-upcoming-parisian-biomechanics-workshop/index.html",
+    "href": "posts/2019/2019-09-30 - jean-marc-allain-co-chair-martin-genet-plenary-speaker-at-upcoming-parisian-biomechanics-workshop/index.html",
+    "title": "Plenary speaker @ upcoming Parisian Biomechanics Workshop",
     "section": "",
-    "text": "Alice Peyraut, who graduated from the Technological University of Belfort-Montbéliard, is just starting her PhD (funded by my ANR JCJC grant) under my supervision. Welcome and good luck, Alice!"
+    "text": "I will be giving a plenary talk on mechanics-based biomedical image processing during the upcoming workshop “Biomechanics from cells to tissues”, which “aims to bring together engineers, physicists and life scientists working at the interface between mechanics, biology and medicine to exchange recent results and stimulate further interactions within the Paris-Saclay and broader Paris area.”."
+  },
+  {
+    "objectID": "posts/2015/2015-09-01 - m3disim-has-a-new-permanent-researcher-with-martin-genet/index.html",
+    "href": "posts/2015/2015-09-01 - m3disim-has-a-new-permanent-researcher-with-martin-genet/index.html",
+    "title": "Today I start as an Assistant Professor at École Polytechnique!",
+    "section": "",
+    "text": "After a Marie Curie fellowship in between UC San Francisco, Stanford and the ETH Zurich, I just started as an Assistant Professor (Maître de Conférence) in the Mechanics Department/Solid Mechanics Laboratory at École Polytechnique, with research position in the MΞDISIM team of INRIA."
   },
   {
     "objectID": "posts/2022/2022-03-09 - ezgi-berberoglu-defends-her-phd/index.html",
@@ -476,6 +161,20 @@
     "text": "Today Ezgi Berberoğlu defended her thesis at the ETH Zurich, from Istanbul and in front of a jury spread across California, France and Switzerland! Congrats Ezgi and best wishes for the future!!"
   },
   {
+    "objectID": "posts/2022/2022-12-02 - m3disim-gdr-mecabiosante/index.html",
+    "href": "posts/2022/2022-12-02 - m3disim-gdr-mecabiosante/index.html",
+    "title": "GdR MécaBioSanté",
+    "section": "",
+    "text": "This week we are taking part to the MécaBioSanté GdR annual workshop: Mahdi Manoochehrtayebi presented his PhD work on multiscale modeling of the lung parenchyma, and I chaired a session on biomechanics of soft tissues. Looking forward to next year’s meeting!"
+  },
+  {
+    "objectID": "posts/2022/2022-08-30 - new-paper-on-quantification-of-left-ventricular-strain-and-torsion-by-joint-analysis-of-3d-tagging-and-cine-mr-images/index.html",
+    "href": "posts/2022/2022-08-30 - new-paper-on-quantification-of-left-ventricular-strain-and-torsion-by-joint-analysis-of-3d-tagging-and-cine-mr-images/index.html",
+    "title": "New paper on quantification of left ventricular strain and torsion by joint analysis of 3D tagging and cine MR images",
+    "section": "",
+    "text": "Together with Ezgi Berberoğlu we just published a paper in Medical Image Analysis, in collaboration with Christian Stoeck and Sebastian Kozerke from the Institute for Biomedical Engineering of the ETH-Zurich.\nClick here to read the article!"
+  },
+  {
     "objectID": "posts/2022/2022-06-01 - m3disim-soleil/index.html",
     "href": "posts/2022/2022-06-01 - m3disim-soleil/index.html",
     "title": "Microstructural imaging @ SOLEIL synchrotron",
@@ -483,11 +182,186 @@
     "text": "Jean-Marc Allain & I (with the help of Anne-Gaëlle Eveno) are currently making microstructural images of hearts and lungs at the SOLEIL synchrotron (ANATOMIX beamline, managed by Timm Weitkamp & Mario Scheel). Stay tuned for the results!"
   },
   {
-    "objectID": "posts/2022/2022-07-06 - m3disim-e4h/index.html",
-    "href": "posts/2022/2022-07-06 - m3disim-e4h/index.html",
-    "title": "Round table @ E4H Forum",
+    "objectID": "posts/2020/2020-10-01 - mahdi-manoochehrtayebi-joins-the-team/index.html",
+    "href": "posts/2020/2020-10-01 - mahdi-manoochehrtayebi-joins-the-team/index.html",
+    "title": "Mahdi Manoochehrtayebi joins the team",
     "section": "",
-    "text": "Today I shared some views on the future of pulmonology during a round table with Olaf Mercier (Hôpital Marie Lannelongue - Groupe Hospitalier Paris Saint Joseph), Irène Vignon-Clémentel (INRIA) & Caroline Caramella (Hôpital Marie Lannelongue - Groupe Hospitalier Paris Saint Joseph) on “The lung - platform for integration and innovation” at the 1st Annuel Forum of the E4H program at École Polytechnique."
+    "text": "Mahdi Manoochehrtayebi, who graduated his Bachelor (Mechanical Engineering) from Amirkabir University of Technology in Iran, and his Master (Multiscale Modeling and Multiphysics of Materials and Structures) from École Polytechnique, is just starting his PhD (funded by my ANR JCJC grant) in the team, co-advised by Aline Bel-Brunon (INSA-Lyon), Dominique Chapelle (INRIA) and I. Welcome and good luck, Mahdi!"
+  },
+  {
+    "objectID": "posts/2020/2020-07-24 - martin-genet-dominique-chapelle-involved-in-anr-covid-grant/index.html",
+    "href": "posts/2020/2020-07-24 - martin-genet-dominique-chapelle-involved-in-anr-covid-grant/index.html",
+    "title": "ANR COVID grant",
+    "section": "",
+    "text": "Together with Dominique Chapelle we are part of a project (SILICOVILUNG) selected by ANR in the 4th wave of the COVID call, cf. https://anr.fr/fr/actualites-de-lanr/details/news/appel-anr-ra-covid-19-les-resultats-des-premieres-vagues-devaluation.\nThe project is managed by Pierre-Yves Brillet from Hypoxia & Lung Laboratory/Sorbonne-Paris-Nord University and Avicenne AP-HP Hospital. It aims at better understanding the regional physiological mechanisms in the evolution of Covid-19 pneumonia in their severe forms and to anticipate the development or not of sequelae, in particular fibrosis. It focuses on the processing of CT images of Covid-19 patients for an assessment of vascular remodeling and regional lung mechanics/compliance.\nWith this project we will hire one engineer or post-doc to extend Cécile Patte’s PhD work, and begin its translation to the clinic."
+  },
+  {
+    "objectID": "posts/2020/2020-11-30 - new-paper-on-cardiac-tissue-microstructural-deformation-during-traction-assay/index.html",
+    "href": "posts/2020/2020-11-30 - new-paper-on-cardiac-tissue-microstructural-deformation-during-traction-assay/index.html",
+    "title": "New paper on cardiac tissue microstructural deformation during traction assay",
+    "section": "",
+    "text": "Together with Nicole Tueni and Jean-Marc Allain, we recently published a paper in Scientific Reports, in collaboration with Jérémy Vizet and Angelo Pierangelo from the LPICM.\nClick here to read the article!"
+  },
+  {
+    "objectID": "posts/2020/2020-10-09 - cecile-patte-is-one-of-the-2020-france-young-talents-for-women-in-science-loreal-unesco/index.html",
+    "href": "posts/2020/2020-10-09 - cecile-patte-is-one-of-the-2020-france-young-talents-for-women-in-science-loreal-unesco/index.html",
+    "title": "Cécile Patte is one of the 2020 France Young Talents “For Women in Science” L’Oréal - Unesco",
+    "section": "",
+    "text": "Cécile Patte, 3rd-year PhD student in the team with Dominique Chapelle and I, received the 2020 French Young Talent award of the programme “For Women in Science” L’Oréal - Unesco. This prize rewards her research work on pulmonary poromechanics modeling applied to pulmonary fibrosis."
+  },
+  {
+    "objectID": "posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/index.html",
+    "href": "posts/2024/2024-02-07 - new-paper-on-mechanical-regularization-for-motion-tracking/index.html",
+    "title": "New paper on mechanical regularization for motion tracking",
+    "section": "",
+    "text": "I (with the help of Philippe Moireau and Patrick Le Tallec) just introduced a new formulation of the equilibrium gap principle in the context of finite element motion tracking, cf. https://doi.org/10.5802/crmeca.228! The code is available online (https://gitlab.inria.fr/mgenet/dolfin_warp), and there are even freely available Jupyter notebooks to reproduce the figures of the paper (https://mgenet.gitlabpages.inria.fr/N-DEG-paper-demos/index.html), so do not hesitate to give it a try!!"
+  },
+  {
+    "objectID": "posts/2024/2024-12-20 - new-review-paper-on-digital-twins/index.html",
+    "href": "posts/2024/2024-12-20 - new-review-paper-on-digital-twins/index.html",
+    "title": "New review paper on digital twins for chronic lung diseases",
+    "section": "",
+    "text": "Together with Apolline Gonsard (University Hospital Necker-Enfants Malades) & David Drummond (University Hospital Necker-Enfants Malades/Université Paris Cité/INSERM/INRIA), we just published a review paper on “Digital twins for chronic lung diseases” in European Respiratory Review, cf. https://doi.org/10.1183/16000617.0159-2024."
+  },
+  {
+    "objectID": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
+    "href": "posts/2024/2024-01-31 - four-teaching-positions-are-available-in-the-mechanics-department-of-ecole-polytechnique/index.html",
+    "title": "Four teaching positions are available in the Mechanics Department of École Polytechnique",
+    "section": "",
+    "text": "Four teaching positions are available in the Mechanics Department of École Polytechnique, including one full-time faculty position (Assistant Professor) in Bio-materials! See https://www.linkedin.com/posts/eric-charkaluk-99170965_postes-ouverts-au-d%C3%A9partement-de-m%C3%A9canique-activity-7160643818109734914-AdlQ for more details."
+  },
+  {
+    "objectID": "posts/2024/2024-12-11 - new-preprint-on-finite-element-neural-network/index.html",
+    "href": "posts/2024/2024-12-11 - new-preprint-on-finite-element-neural-network/index.html",
+    "title": "New preprints on Finite Element Neural Network!",
+    "section": "",
+    "text": "Together with Kateřina Škardová and Alexandre Daby-Seesaram we just submitted for publication two papers on “Finite Element Neural Network Interpolation”: Part I is on “Interpretable and Adaptive Discretization for Solving PDEs” and Part II on “Hybridisation with the Proper Generalised Decomposition for non-linear surrogate modelling”. Both preprints are on ArXiv: Part I and Part II.\nWe implemented our framework in a library called NeuROM, which is freely available, and as usual now we also publish jupyter notebooks to allow reproduction of the figures of the papers: Part I and Part II.\nDefinitely let us know if you are interested and want to collaborate on these topics!"
+  },
+  {
+    "objectID": "posts/2024/2024-11-01 - pm-idics-conference/index.html",
+    "href": "posts/2024/2024-11-01 - pm-idics-conference/index.html",
+    "title": "PM-iDICs 2024",
+    "section": "",
+    "text": "This week I attended the 2024 PM-iDICs conference, and presented recent work on the use of the equilibrium gap principle for regularizing the motion tracking problem [Genet, 2023, Comptes Rendus Mécanique], and for the direct estimation of model parameters from full field measurement (joint work with Alice Peyraut, to appear), in the “Mathematics & Algorithms” mini-symposium.\nThe conference was jointly held by the PhotoMechanics Association and the International Digital Image Correlation Society, and perfectly hosted by the Université Clermont Auvergne.\nLooking forward to PM-iDICs 2026 at École Normale Supérieure de Paris-Saclay!"
+  },
+  {
+    "objectID": "posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/index.html",
+    "href": "posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/index.html",
+    "title": "Nouvel article sur les jumeaux numériques dans Les Échos",
+    "section": "",
+    "text": "Je viens de publier un article sur les jumeaux numériques en santé dans Les Échos: https://www.lesechos.fr/idees-debats/editos-analyses/jumeaux-numeriques-la-modelisation-dorganes-espoir-de-la-medecine-2110146 (le texte complet est disponible ici: https://sdrive.cnrs.fr/s/H8aaHJoQgjiee6H)."
+  },
+  {
+    "objectID": "posts/2024/2024-09-06 - VPH2024/index.html",
+    "href": "posts/2024/2024-09-06 - VPH2024/index.html",
+    "title": "VPH2024",
+    "section": "",
+    "text": "This week we are attending the 2024 Virtual Physiological Human Conference (VPH2024):\n\nKateřina Škardová presented her work on “Bridging micro to macro in pulmonary mechanics: Interpretable neural networks for surrogate modelling”;\n\n\n\n\n\n\n\nAlexandre Daby-Seesaram presented his work on “Hybridising standard reduced-order modelling methods with interpretable sparse neural networks for real-time patient specific lung simulations” (including Neural Network PGD);\n\n\n\n\n\n\n\nI had the chance to inaugurate the Lung Modeling I session with my talk on “Lung multiscale modeling and estimation”, and to chair the Lung Modeling II Session.\n\nWe also got the chance to meet with old MΞDISIM members:\n\nFederica Caforio, who is now a University Assistant at the Department of Mathematics and Scientific Computing of the University of Graz, Austria;\nMaria Gusseva, who is now a Postdoctoral Researcher at the UT Southwestern Medical Center in Dallas, USA;\nRadomir Chabiniok, who is now an Associate Professor the UT Southwestern Medical Center in Dallas, USA.\n\n\n\n\n\n\nLooking forward to VPH2026 in Milano!"
+  },
+  {
+    "objectID": "posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/index.html",
+    "href": "posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/index.html",
+    "title": "Keynote speaker @ RT Math-Bio-Santé",
+    "section": "",
+    "text": "Today I, as an envoy from the GdR Méca-Bio-Santé (https://gdr-mecabio-sante.cnrs.fr), gave a keynote lecture on the team’s efforts on “multiscale modeling and estimation of lung poromechanics” during the RT Math-Bio-Santé (https://math-bio-sante.math.cnrs.fr) 2024 workshop organized at the Henri Lebesgue Center for Mathematics in Nantes (https://www.lebesgue.fr/fr/JMBS24)…super nice to see so much interest at the interface —the interphase!— between both communities! And it was an occasion to meet with Annabelle Collin, former PhD student in MΞDISIM, who co-organized the meeting and is soon moving to Nantes University as a Professor of Mathematics."
+  },
+  {
+    "objectID": "posts/2024/2024-05-17 - CSMA2024/index.html",
+    "href": "posts/2024/2024-05-17 - CSMA2024/index.html",
+    "title": "CSMA2024",
+    "section": "",
+    "text": "This week we are attending the 16th national workshop on computational mechanics (https://csma2024.sciencesconf.org) in Giens (one of the most beautiful places in France!):\n\nAlice Peyraut presented her PhD work (Quantification d’incertitudes pour la modélisation pulmonaire personnalisée)\nAlexandre Daby-Seesaram presented his PhD work (Réduction de modèles en dynamique non-linéaire pour la simulation de structures soumises à une famille de chargements)\nI presented Mahdi Manoochehrtayebi’s PhD work (Un modèle micro-poro-mécanique du parenchyme pulmonaire) and chaired a session (Biomécanique et ingénierie du vivant)\n\nAlso, I was elected a board member of the French Computational Mechanics Association."
+  },
+  {
+    "objectID": "posts/2024/2024-10-01 - haotian-xiao-joins-the-team/index.html",
+    "href": "posts/2024/2024-10-01 - haotian-xiao-joins-the-team/index.html",
+    "title": "Haotian Xiao joins the team",
+    "section": "",
+    "text": "Haotian Xiao, who graduated from École Centrale de Pékin (China) and holds a Master from the École Nationale des Ponts et Chaussées (ENPC, France), just started his PhD in the team. Funded by the Institut Polytechnique de Paris (IPP) doctoral school, he will work on adding the pulmonary circulation to our lung model, in collaboration with Laurent Savale, David Montani & Marc Humbert from the Université Paris-Saclay/INSERM Hypertension Artérielle Pulmonaire: Physiopathologie et Innovation Thérapeutique team and APHP. Welcome and good luck, Haotian!"
+  },
+  {
+    "objectID": "posts/2024/2024-12-02 - l-art-de-soigner/index.html",
+    "href": "posts/2024/2024-12-02 - l-art-de-soigner/index.html",
+    "title": "“Art of Healing, Science of Understanding” Workshop",
+    "section": "",
+    "text": "Today I gave a short course on “Mechanics of Hard and Soft Tissues” at INRIA Paris, for the “L’Art de Soigner, la Science de Comprendre” workshop of the GdR MécaBioSanté. Every year, this workshop is held right before the GdR annual workshop (which this year will be held in Metz, starting tomorrow!), to offer some basic training in mechanics to medical doctors, and to discuss research at the interface between mechanics and clinics. It is organized by Irène Vignon-Clémentel and Damien Garcia—many thanks to them for finding such a fancy name for the workshop, and more importantly for bringing together people from mechanics (solid and fluid!), imaging, machine learning, … and the clinics!"
+  },
+  {
+    "objectID": "posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/index.html",
+    "href": "posts/2024/2024-03-05 - mahdi-manoochehrtayebi-defends-his-phd-thesis/index.html",
+    "title": "Mahdi Manoochehrtayebi defends his PhD thesis",
+    "section": "",
+    "text": "Today Mahdi Manoochehrtayebi defended his PhD thesis! Jury was composed of:\n\nCéline Grandmont, INRIA (présidente)\nAdrien Baldit, Université de Lorraine (rapporteur)\nEmmanuel Baranger, ENS Paris-Saclay (rapporteur)\nPauline Assemat, Institut de Mécanique des Fluides de Toulouse (examinatrice)\nKostantinos Danas, CNRS (examinateur)\nAline Bel-Brunon, INSA-Lyon (directrice de thèse)\nDominique Chapelle, INRIA (directeur de thèse)\nMartin Genet, École Polytechnique (directeur de thèse)\n\nCongrats Mahdi and best wishes for the future!!"
+  },
+  {
+    "objectID": "posts/2024/2024-10-07 - new-paper-on-lung-modeling/index.html",
+    "href": "posts/2024/2024-10-07 - new-paper-on-lung-modeling/index.html",
+    "title": "New paper on lung modeling",
+    "section": "",
+    "text": "Alice Peyraut and I just published a paper in Biomechanics and Modeling in Mechanobiology (BMMB), introducing new boundary conditions for our lung model, including gravity and more physiological pleural pressure distributions, cf. https://doi.org/10.1007/s10237-024-01876-w (editor shared link, HAL repository). As usual now all computations from the paper (which are based on the dolfin_mech FEniCS library) are easily reproducible at https://apeyraut.gitlabpages.inria.fr/gravity-modeling-paper-demos, so do not hesitate to give it a try—let us know how it goes!"
+  },
+  {
+    "objectID": "posts/2024/2024-01-01 - alexandre-daby-seesaram-joins-the-team/index.html",
+    "href": "posts/2024/2024-01-01 - alexandre-daby-seesaram-joins-the-team/index.html",
+    "title": "Alexandre Daby-Seesaram joins the team",
+    "section": "",
+    "text": "Alexandre Daby-Seesaram, who recently defended his PhD at the Paris-Saclay Mechanics Laboratory of École Normale Supérieure de Paris-Saclay, is starting as a postdoc in the team. He is funded by our recent ANR MLQ-CT project, and will work on model reduction and porting our digital twin pipeline to the clinical environment of our clinical colleagues. Welcome and good luck, Alexandre!"
+  },
+  {
+    "objectID": "posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team/index.html",
+    "href": "posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team/index.html",
+    "title": "Felipe Álvarez-Barrientos joins the team",
+    "section": "",
+    "text": "Felipe Álvarez-Barrientos, who holds a Master of Science in Engineering from the Pontificia Universidad Católica de Chile in Santiago, just started his PhD in the team. He already visited MΞDISIM twice, for his Master thesis and Engineering internship, and together we published a paper on micro-poro-mechanics. His PhD is funded by the European Innovation Council PathFinder V|LF-Spiro3D grant, and he will work on porting our lung personalized modeling/digital twin pipeline to (dynamic) lung magnetic resonance imaging. Welcome back and good luck, Felipe!"
+  },
+  {
+    "objectID": "posts/2024/09/01/new-website/index.html",
+    "href": "posts/2024/09/01/new-website/index.html",
+    "title": "New website!",
+    "section": "",
+    "text": "New website! It is based on the awesome Quarto framework. Do not hesitate to subscribe via RSS or on LinkedIn where I will be dispatching new posts."
+  },
+  {
+    "objectID": "posts/2024/2024-12-19 - alice-peyraut-defends-her-phd-thesis/index.html",
+    "href": "posts/2024/2024-12-19 - alice-peyraut-defends-her-phd-thesis/index.html",
+    "title": "Alice Peyraut defends her PhD thesis",
+    "section": "",
+    "text": "Today Alice Peyraut successfully defended her PhD thesis! Jury was composed of:\n\nLaura De Lorenzis, ETH Zurich, Switzerland (President)\nBing Tie, Laboratoire de Mécanique Paris-Saclay (LMPS), Centrale Supélec, Gif-sur-Yvette (Reviewer)\nStéphane Avril, Mines Saint-Étienne (Reviewer)\nAndrei Constantinescu, Laboratoire de Mécanique des Solides (LMS), École Polytechnique/CNRS, Palaiseau (Examiner)\nJean-François Bernaudin, Sorbonne University, Paris (Examiner)\nMartin Genet, École Polytechnique (PhD Director)\n\nCongrats Alice and best wishes for the future!!"
+  },
+  {
+    "objectID": "posts/2020/2020-12-18 - cecile-patte-defends-her-phd/index.html",
+    "href": "posts/2020/2020-12-18 - cecile-patte-defends-her-phd/index.html",
+    "title": "Cécile Patte defends her PhD",
+    "section": "",
+    "text": "Today Cécile Patte defended her thesis! Reviewers of the thesis were:\n\nStéphane Avril, Professor, Mines de Saint-Étienne, France\nMerryn Tawhai, Professor, University of Auckland, New Zealand\n\nAnd the jury was composed of:\n\nWolfgang A. Wall, Professor, Technical University of Munich, Germany (President)\nStéphane Avril, Professor, Mines de Saint-Étienne, France (Reviewer)\nPauline Assemat, CNRS Researcher, IMF Toulouse, France (Examiner)\nAline Bel-Brunon, Maître de Conférences, INSA Lyon, France (Examiner)\nJean-François Bernaudin, Emeritus Professor, Sorbonne University, France (Examiner)\nNicolas Triantafyllidis, CNRS Research Director, École Polytechnique (Examiner)\nDominique Chapelle, Inria Research Director, France (PhD Advisor)\nMartin Genet, Maître de Conférences, École Polytechnique (PhD Advisor)\n\nCongrats Cécile and best wishes for the future!!\nBy the way, her PhD thesis is available at https://theses.hal.science/tel-03144413."
+  },
+  {
+    "objectID": "posts/2020/2020-10-26 - m3disim-sb2020/index.html",
+    "href": "posts/2020/2020-10-26 - m3disim-sb2020/index.html",
+    "title": "SB2020",
+    "section": "",
+    "text": "Multiple contributions of the team at the 45th congress of the francophone biomechanics society:\n\nNicole Tueni, Jean-Marc Allain & I on cardiac micromechanics\nCécile Patte, Dominique Chapelle & I on lung poromechanics\nI will also chair a session on cardiovascular and respiratory mechanics"
+  },
+  {
+    "objectID": "posts/2020/2020-09-22 - engineer-postdoc-on-personalized-modeling-of-lung-poromechanics-in-covid-19/index.html",
+    "href": "posts/2020/2020-09-22 - engineer-postdoc-on-personalized-modeling-of-lung-poromechanics-in-covid-19/index.html",
+    "title": "(Closed) Postdoc position on Personalized modeling of lung poromechanics in COVID-19",
+    "section": "",
+    "text": "Context & Objectives The COVID-19 infection manifests itself in its severe forms as acute alveolar-interstitial and vascular disease of varying severity, the long-term course of which is unknown. A development towards fibrosing pneumopathy could affect 10 to 30% of survivors of severe forms, which would make it a public health problem due to the secondary handicap. A better understanding of the regional physiological mechanisms in the evolution of COVID-19 pneumonia in their severe forms would allow to anticipate the development or not of sequelae, in particular fibrosing.\nIn the past few years, the MΞDISIM team at École Polytechnique and Inria, in close collaboration with clinicians (pulmonologists and radiologists) from Avicenne AP-HP Hospital/Sorbonne Paris Nord University/INSERM, as well as image processing experts from Telecom SudParis, has developed a poromechanical model of the human lung, together with an estimation pipeline allowing to personalize the model to a patient based on clinical images [1]. Until now the focus of the group was on idiopathic pulmonary fibrosis; however, the consortium has just received a grant from the ANR to adapt the image-based patient-specific modeling pipeline to COVID-19 patients.\nMore precisely, the project concerns the processing of CT images of patients followed at the Avicenne AP-HP hospital for an assessment of vascular remodeling and regional lung mechanics/compliance. These parameters obtained at 2-3 months of the COVID-19 infection will be correlated with clinical, CT, and functional data at 6 months and 1 year of follow-up. To do so, developments are required at the modeling level (to adapt the model to the new disease), on the numerical method level (to automatize the few remaining manual steps) as well as at the implementation level (to streamline the image à model pipeline).\nKeywords Pulmonary Biomechanics; Image-based Modeling; Finite Element Method; Data assimilation\nCandidate profile We are looking for a postdoc. The funding is for one year, but could be further extended if we receive other grants. The candidate will have a fair understanding of continuum mechanics, with if possible knowledge of finite strains, biomechanics, and numerical methods. He/She will be at ease with computational pipelines, and also have an interest in the application in pulmonology, especially for interacting with clinical collaborators.\nWork environment The work will take place within the MΞDISIM team (joint between École Polytechnique & Inria) and within the Solid Mechanics Laboratory, on the École Polytechnique campus. It will be co-supervised by Martin Genet & Dominique Chapelle, and in direct contact with clinicians and image processing scientists. It should start as soon as possible.\nBibliograpy\n[1]  C. Patte, M. Genet, C. Fetita, P.-Y. Brillet and D. Chapelle, “Mécanique pulmonaire personnalisée: modélisation et estimation—Application à la fibrose pulmonaire”, 14ème colloque national en calcul des structures (CSMA), Giens, France, 2019.\nContacts martin.genet@polytechnique.edu, dominique.chapelle@inria.fr"
+  },
+  {
+    "objectID": "posts/2022/2022-12-12 - new-paper-on-the-structural-origin-of-the-anisotropy-in-the-myocardium-multiscale-modeling-and-analysis/index.html",
+    "href": "posts/2022/2022-12-12 - new-paper-on-the-structural-origin-of-the-anisotropy-in-the-myocardium-multiscale-modeling-and-analysis/index.html",
+    "title": "New paper on the structural origin of the anisotropy in the myocardium: Multiscale modeling and analysis",
+    "section": "",
+    "text": "Nicole Tueni, Jean-Marc Allain and I just published a paper in the Journal of the Mechanical Behavior of Biomedical Materials.\nClick here to read the article!"
+  },
+  {
+    "objectID": "posts/2022/2022-06-29 - m3disim-cmbe2022/index.html",
+    "href": "posts/2022/2022-06-29 - m3disim-cmbe2022/index.html",
+    "title": "CMBE2022",
+    "section": "",
+    "text": "This week Mahdi Manoochehrtayebi and I presented work on the lung at the 7th International Conference on Computational and Mathematical Biomedical Engineering (CMBE22) in Milano, Italy!"
   },
   {
     "objectID": "posts/2022/2022-11-22 - phd-on-modeling-and-estimation-of-pulmonary-dynamics/index.html",
@@ -497,11 +371,137 @@
     "text": "Context & Objectives The lungs are the primary organs of the respiratory system in humans and many animals, responsible for molecular exchanges between external air and internal blood through mechanical ventilation. They have an extraordinary complex architecture, with the inherent fractal structure of the bronchial and blood vessel trees, as well as the hierarchical structure of the parenchyma. Lung biomechanics has been extensively studied by physiologists, experimentally as well as theoretically, from the air flow, blood flow and tissue stress points of view, laying the ground for our current fundamental understanding of the relationship between function and mechanical behavior. However, many questions remain, notably in the intricate coupling between the multiple constituents, between the many phenomena taking place at different spatial and temporal scales in health and disease, and these fundamental questions represent real clinical challenges, as pulmonary diseases are an important health burden.\nThe MΞDISIM team, joint between the Solid Mechanics Laboratory of École Polytechnique and INRIA has recently developed a lung model [1] based on a general formulation of poromechanics [2]. The model can be personalized for a given patient by assimilating clinical data, with the aim of providing computational tools to clinicians for better diagnosing and in fine treating patients suffering from various pulmonary diseases [3]. This work has been funded notably by an ANR Young Investigator grant (PI: Martin Genet) and an ANR COVID grant (PI: Pierre-Yves Brillet, APHP & Université Sorbonne Paris Nord/INSERM).\nThe project associated with the present PhD offer, funded by a European Innovation Council Pathfinder Open grant (PI: Xavier Maître, Université Paris-Saclay/CNRS), aims at developing low-field 3D magnetic resonance spirometry for advanced regional exploration of respiratory diseases. This would allow more widespread, totally innocuous and fully dynamics lung in vivo imaging, compared to the current state of the art based on expensive, ionizing and mostly static computed tomography scanners. This will however represent significant change to our modeling approach (from quasi-static to dynamic) and associated data assimilation pipeline (from computed tomography to magnetic resonance images), which will be the main objective of this PhD.\nKeywords Poromechanics; Pulmonary Biomechanics; Image-based Modeling; Finite Element Method; Data assimilation\nCandidate profile The candidate will have to master continuum mechanics (with, if possible, knowledge of finite strains & biomechanics) and numerical methods (notably the finite element method & integration schemes). He/She will also have an interest in the application in pulmonology, especially for interacting with clinical collaborators.\nWork environment The thesis will take place within the MΞDISIM team (joint between École Polytechnique & INRIA and within the Solid Mechanics Laboratory), on the École Polytechnique campus. It will be in tight collaboration with other members of the EIC project, notably Télécom SudParis (Catalin Fetita) & Paris-Saclay University (Xavier Maître). It will be directed by Martin Genet, in direct collaboration with Dominique Chapelle. It could start in 2023, and could be preceded by an M2 internship.\nBibliography\n[1]  C. Patte, M. Genet and D. Chapelle, “A quasi-static poromechanical model of the lungs”, Biomechanics and Modeling in Mechanobiology, 2022.\n[2]  D. Chapelle and P. Moireau, “General coupling of porous flows and hyperelastic formulations—From thermodynamics principles to energy balance and compatible time schemes,” European Journal of Mechanics Part B/Fluids, 2014.\n[3]  C. Patte, P.-Y. Brillet, C. Fetita, T. Gille, J.-F. Bernaudin, H. Nunes, D. Chapelle and M. Genet, “Estimation of regional pulmonary compliance in idiopathic pulmonary fibrosis based on personalized lung poromechanical modeling”, Journal of Biomechanical Engineering, 2022.\nContacts martin.genet@polytechnique.edu, dominique.chapelle@inria.fr"
   },
   {
-    "objectID": "posts/2022/2022-06-29 - m3disim-cmbe2022/index.html",
-    "href": "posts/2022/2022-06-29 - m3disim-cmbe2022/index.html",
-    "title": "CMBE2022",
+    "objectID": "posts/2022/2022-06-21 - martin-genet-defends-his-habilitation-thesis/index.html",
+    "href": "posts/2022/2022-06-21 - martin-genet-defends-his-habilitation-thesis/index.html",
+    "title": "Today I defended my Habilitation thesis",
     "section": "",
-    "text": "This week Mahdi Manoochehrtayebi and I presented work on the lung at the 7th International Conference on Computational and Mathematical Biomedical Engineering (CMBE22) in Milano, Italy!"
+    "text": "Today I defended my habilitation thesis, entitled “Some contributions to cardiac and pulmonary biomechanical modeling, simulation & estimation”, in front of an impressive international jury:\n\nPatrick Le Tallec (Professor, École Polytechnique, Palaiseau, France)\nAlain Goriely (Professor, University of Oxford, United Kingdom)\nGerhard Holzapfel (Professor, Graz University of Technology, Austria)\nMerryn Tawhai (Professor, University of Auckland, New Zealand)\nStéphane Avril (Professor, École des Mines de Saint-Etienne, France)\nPatrick Clarysse (Research Director, CREATIS/CNRS, Lyon, France)\n\nYou can find my habilitation manuscript on HAL: https://hal.archives-ouvertes.fr/tel-03698102."
+  },
+  {
+    "objectID": "posts/2022/2022-07-06 - m3disim-e4h/index.html",
+    "href": "posts/2022/2022-07-06 - m3disim-e4h/index.html",
+    "title": "Round table @ E4H Forum",
+    "section": "",
+    "text": "Today I shared some views on the future of pulmonology during a round table with Olaf Mercier (Hôpital Marie Lannelongue - Groupe Hospitalier Paris Saint Joseph), Irène Vignon-Clémentel (INRIA) & Caroline Caramella (Hôpital Marie Lannelongue - Groupe Hospitalier Paris Saint Joseph) on “The lung - platform for integration and innovation” at the 1st Annuel Forum of the E4H program at École Polytechnique."
+  },
+  {
+    "objectID": "posts/2019/2019-07-16 - martin-genet-selected-for-anr-jcjc-grant/index.html",
+    "href": "posts/2019/2019-07-16 - martin-genet-selected-for-anr-jcjc-grant/index.html",
+    "title": "ANR JCJC grant",
+    "section": "",
+    "text": "My proposal for a young investigator (JCJC) grant from the French National Research Agency (ANR) on lung modeling was just accepted! Here is a summary of the project. It involves Dominique Chapelle & Phillipe Moireau from MΞDISIM, as well as other colleagues:\n\nAline Bel-Brunon & Ana-Maira Trunfio-Sfarghiu from LaMCoS/Insa-Lyon,\nCatalin Fetita from Artemis/Télécom-SudParis,\nJean-François Bernaudin, Hilario Nunes & Pierre-Yves Brillet from Hypoxia & Lung Laboratory/Sorbonne-Paris-Nord University and Avicenne AP-HP Hospital.\n\nThanks to this funding we will hire two PhD students in the coming years!"
+  },
+  {
+    "objectID": "posts/2019/2019-12-16 - new-paper-on-relaxed-growth/index.html",
+    "href": "posts/2019/2019-12-16 - new-paper-on-relaxed-growth/index.html",
+    "title": "New paper on relaxed growth",
+    "section": "",
+    "text": "I just published a paper in Clinical Biomechanics, introducing a new framework for controlling growth-induced residual stresses in the context of the kinematic growth approach (i.e., multiplicative split of deformation gradient), through an additional relaxation step."
+  },
+  {
+    "objectID": "posts/2023/2023-10-01 - katka-skardova-joins-the-team/index.html",
+    "href": "posts/2023/2023-10-01 - katka-skardova-joins-the-team/index.html",
+    "title": "Kateřina Škardová joins the team",
+    "section": "",
+    "text": "Kateřina Škardová, who recently defended her PhD at the Department of Mathematics of Czech Technical University in Prague, is starting as a postdoc in the team. She already visited us during her PhD, notably to work on motion tracking and published a conference paper on the subject. Her postdoc is funded by a E4H Postdoctoral Fellowship, which she obtained with her project on Multiscale Modeling and Simulation of Remodeling in Pulmonary Fibrosis. Welcome back and good luck, Katka!"
+  },
+  {
+    "objectID": "posts/2023/2023-12-12 - martin-genet-bioreme-network-conference-2024/index.html",
+    "href": "posts/2023/2023-12-12 - martin-genet-bioreme-network-conference-2024/index.html",
+    "title": "Keynote speaker @ BIOREME Network Conference 2024",
+    "section": "",
+    "text": "I will be a keynote speaker at the BIOREME (Biophysical Modelling in Respiratory Medicine) Network Conference 2024, which will be held in Nottingham, UK, next January—it is still time to register so do not hesitate to do so if you are interested in pulmonary biomechanical modeling!"
+  },
+  {
+    "objectID": "posts/2023/2023-12-01 - mΞdisim-gdr-mecabiosante/index.html",
+    "href": "posts/2023/2023-12-01 - mΞdisim-gdr-mecabiosante/index.html",
+    "title": "GdR MécaBioSanté",
+    "section": "",
+    "text": "This week we are taking part to the MécaBioSanté GdR annual workshop, this year at INSA-Lyon:\n\nAlice Peyraut presented her PhD work on uncertainty quantification in personalized pulmonary mechanics;\nI presented Mahdi Manoochehrtayebi’s PhD work on pulmonary micro-poro-mechanics."
+  },
+  {
+    "objectID": "posts/2023/2023-07-05 - m3disim-e4h-2/index.html",
+    "href": "posts/2023/2023-07-05 - m3disim-e4h-2/index.html",
+    "title": "E4H Forum",
+    "section": "",
+    "text": "Today we were present at the second E4H forum:\n\nAlice Peyraut presented a posted on Uncertainty Quantification in Personalized Pulmonary Mechanics\nMahdi Manoochehrtayebi & Alice Peyraut received a BME Conference Award\nKateřina Škardová (Department of Mathematics, Czech Technical University, Prague) received a E4H Postdoctoral Fellowship—she will arrive in the team in August and work on Multiscale Modeling and Simulation of Remodeling in Pulmonary Fibrosis."
+  },
+  {
+    "objectID": "posts/2018/2018-08-22 - new-paper-with-msu-and-ethz-on-mechanical-regularization-for-medical-image-registration/index.html",
+    "href": "posts/2018/2018-08-22 - new-paper-with-msu-and-ethz-on-mechanical-regularization-for-medical-image-registration/index.html",
+    "title": "New paper with MSU and ETHZ on Mechanical Regularization for Medical Image Registration",
+    "section": "",
+    "text": "Title: Equilibrated warping: Finite element image registration with finite strain equilibrium gap regularization\nAuthors: Martin Genet, Christian T. Stoeck, Constantin von Deuster, Lik Chuan Lee, Sebastian Kozerke\nAbstract: In this paper, we propose a novel continuum finite strain formulation of the equilibrium gap regularization for image registration. The equilibrium gap regularization essentially penalizes any deviation from the solution of a hyperelastic body in equilibrium with arbitrary loads prescribed at the boundary. It thus represents a regularization with strong mechanical basis, especially suited for cardiac image analysis. We describe the consistent linearization and discretization of the regularized image registration problem, in the framework of the finite elements method. The method is implemented using FEniCS & VTK, and distributed as a freely available python library. We show that the equilibrated warping method is effective and robust: regularization strength and image noise have minimal impact on motion tracking, especially when compared to strain-based regularization methods such as hyperelastic warping. We also show that equilibrated warping is able to extract main deformation features on both tagged and untagged cardiac magnetic resonance images."
+  },
+  {
+    "objectID": "posts/2025/2025-02-21 - DTE-AICOMAS/index.html",
+    "href": "posts/2025/2025-02-21 - DTE-AICOMAS/index.html",
+    "title": "DTE & AICOMAS 2025",
+    "section": "",
+    "text": "This week we attended the 3rd IACM Digital Twins in Engineering Conference (DTE 2025) & 1st ECCOMAS Artificial Intelligence and Computational Methods in Applied Science (AICOMAS 2025) in Paris:\n\nKateřina Škardová presented her work on “Finite element neural network interpolation: Interpretable and adaptive discretization for solving PDEs”;\nAlexandre Daby-Seesaram presented his work on “Finite element neural network interpolation: Hybridization with the proper generalized decomposition for surrogate modeling”;\n\n\n\n\n\n\n\nI co-chaired (together with Philippe Moireau (MΞDISIM, INRIA & CMAP, École Polytechnique/IPP/CNRS)) a mini-symposium on “Digital twins of living systems: theoretical, implementation & application challenges”, with many exciting talks, cf. Sessions I II and III—thanks again to all the speakers of the mini-symposium!"
+  },
+  {
+    "objectID": "posts/2025/2025-01-22 - new-paper-on-direct-estimation/index.html",
+    "href": "posts/2025/2025-01-22 - new-paper-on-direct-estimation/index.html",
+    "title": "New paper on direct model parameter identification",
+    "section": "",
+    "text": "Did you ever dream of identifying model parameters from images without running the model itself? This is possible!\nAlice Peyraut and I just published a paper in Comptes Rendus Mécanique, where we use the finite strain formulation of the equilibrium gap principle (introduced in [Genet, 2024, C. R. Mécanique], cf. dedicated post) to perform direct (i.e., without evaluating the model itself) estimation of model (material and/or loading) parameters from full field measurements. The method is a priori highly sensitive to noise, but we showed that using the equilibrium gap as regularizer for motion tracking allows to extract displacement fields from dynamic images that are robust enough to be used for direct parameter estimation. All the details are in the paper: [Peyraut & Genet, 2025, C. R. Mécanique].\nAll computations from the paper (which are based on the dolfin_warp FEniCS+VTK-based library and the dolfin_estim FEniCS-based library) are easily reproducible at https://apeyraut.gitlabpages.inria.fr/identification-methods-paper-demos, so do not hesitate to give it a try, and let us know how it goes!"
+  },
+  {
+    "objectID": "posts/2025/2025-05-06 - new-paper-on-micro-poro-mechanics/index.html",
+    "href": "posts/2025/2025-05-06 - new-paper-on-micro-poro-mechanics/index.html",
+    "title": "New paper on micro-poro-mechanics",
+    "section": "",
+    "text": "Mahdi Manoochehrtayebi, Aline Bel-Brunon and I just published a paper in the International Journal of Solids and Structures entitled “Finite strain micro-poro-mechanics: formulation and compared analysis with macro-poro-mechanics”, cf. https://doi.org/10.1016/j.ijsolstr.2025.113354 (editor shared link, HAL repository).\nAll computations from the paper (which are based on the dolfin_mech FEniCS-based library) are easily reproducible at https://mgenet.github.io/Micro-Macro-Poro-paper-demos, so do not hesitate to give it a try, and let us know how it goes!"
+  },
+  {
+    "objectID": "posts/2025/2025-03-12 - FHU Cournand/index.html",
+    "href": "posts/2025/2025-03-12 - FHU Cournand/index.html",
+    "title": "Kick Off Meeting FHU Cournand",
+    "section": "",
+    "text": "Today was the kick off meeting of the FHU (Fédération Hospitalo-Universitaire, i.e., University Hospital Federation) André Cournand (French-American physician and physiologist, Nobel Prize in Physiology and Medicine in 1956 for the development of cardiac catheterization) “Transforming Pulmonary Vascular Medicine”.\n\n\n\n\n\nThe FHU, lead by David Montani & Laurent Savale, is built upon the world-leading Paris-Saclay University/INSERM/APHP “Pulmonary hypertension: Pathophysiology and therapeutic innovation” research unit lead by Marc Humbert, and aims at establishing “a robust network of clinical teams, basic and translational multidisciplinary research laboratories, engineering teams and platforms to confront emerging challenges in the field of pulmonary vascular diseases”.\n\n\n\n\n\nAs a co-leader of the “Biomarkers and Modeling Pulmonary Vascular Diseases” work package of the FHU, I gave a short presentation on our current efforts on lung mechanical modeling, and our plan for modeling pulmonary circulation, notably in the context of Haotian Xiao’s PhD. The other presentations were all super impressive, and I am looking forward to see this federation in action!"
+  },
+  {
+    "objectID": "posts/2021/2021-09-01 - alice-peyraut-joins-the-team/index.html",
+    "href": "posts/2021/2021-09-01 - alice-peyraut-joins-the-team/index.html",
+    "title": "Alice Peyraut joins the team",
+    "section": "",
+    "text": "Alice Peyraut, who graduated from the Technological University of Belfort-Montbéliard, is just starting her PhD (funded by my ANR JCJC grant) under my supervision. Welcome and good luck, Alice!"
+  },
+  {
+    "objectID": "posts/2021/2021-10-22 - m3disim-sb2021/index.html",
+    "href": "posts/2021/2021-10-22 - m3disim-sb2021/index.html",
+    "title": "SB2021",
+    "section": "",
+    "text": "Next week I will be presenting some collaborative work with Nicole Tueni and Jean-Marc Allain on the origin of the anisotropy of the myocardium at the 46th congress of the francophone society of biomechanics (SB 2021)! I will also chair a session on “Cellular & Tissular Biomechanics”."
+  },
+  {
+    "objectID": "posts/2021/2021-01-04 - phd-fellowship-on-modeling-and-estimation-of-lung-poromechanics/index.html",
+    "href": "posts/2021/2021-01-04 - phd-fellowship-on-modeling-and-estimation-of-lung-poromechanics/index.html",
+    "title": "(Closed) PhD position on Modeling and Estimation of Lung Poromechanics",
+    "section": "",
+    "text": "Context & Objectives The lungs are the primary organs of the respiratory system in humans and many animals, responsible for molecular exchanges between external air and internal blood through mechanical ventilation. It has an extraordinary complex architecture, with the inherent fractal structure of the bronchial and blood vessel trees, as well as the hierarchical structure of the parenchyma. Lung biomechanics has been extensively studied by physiologists, experimentally as well as theoretically, from the air flow, blood flow and tissue stress points of view, laying the ground for our current fundamental understanding of the relationship between function and mechanical behavior. However, many questions remain, notably in the intricate coupling between the multiple constituents, between the many phenomena taking place at different spatial and temporal scales in health and disease. For example, even for healthy lungs, there is no quantitative model allowing to link tissue-level and organ-level experimental material responses.\nThese fundamental questions represent real clinical challenges, as pulmonary diseases are an important health burden. Interstitial lung diseases, for instance, affect several million people globally. Idiopathic Pulmonary Fibrosis (IPF), notably, a progressive form of interstitial lung diseases where some alveolar septa get thicker and stiffer while others get completely damaged, remains poorly understood, poorly diagnosed, and poorly treated, with a current median survival rate inferior to 5 years. It has, however, been hypothesized that a mechanical vicious cycle is in place within the parenchyma of IPF patients, where fibrosis and damage induce large stresses, which in turn favor fibrosis.\nThe general goal of this project is twofold: (i) scientifically, to better understand pulmonary (solid) mechanics, from the alveolar scale to the organ in health and (IPF) disease; (ii) clinically, to improve diagnosis and prognosis of (IPF) patients through personalized computational modeling. More precisely, the student will develop a many-scale model of the parenchymal biomechanics, at all relevant spatial scales from the alveolus to the organ, and at the temporal scales of the breathing cycle and fibrosis process. Different representations at successive spatial scales will be linked by a computational nonlinear homogenization strategy with a priori model reduction based on a neural network. The model will integrate the rather unique experimental data produced by Drs. Bel-Brunon and Trunfio-Sfarghiu from LaMCoS (INSA-Lyon), i.e., microtomography images at alveolar scale and inflation tests of lobules: microstructures will be extracted from the images and systematically analyzed, and model parameters will be estimated from the mechanical tests. The model will also integrate clinical-radiological data provided by Profs. Nunes and Brillet from Avicenne APHP Hospital, i.e., standard pulmonary function tests and thoracic computed tomography imaging on IPF patients as well as normal lung controls: a pipeline to estimate observable model parameters from clinical data will be set up, and generic values will be defined for the remaining parameters. The model and estimation procedure will represent augmented diagnosis and prognosis tools for the clinicians.\nKeywords Pulmonary Biomechanics; Image-based Modeling; Finite Element Method; Computational Homogenization; Neural Networks; Data assimilation\nCandidate profile The candidate will have to master continuum mechanics, with if possible knowledge of finite strains, biomechanics, and numerical methods. He/She will also have an interest in the application in pulmonology, especially for interacting with clinical collaborators.\nWork environment The thesis will take place within the MΞDISIM team (joint between École Polytechnique & Inria and within the Solid Mechanics Laboratory), on the École Polytechnique campus. It will be in tight collaboration with the LaMCoS at INSA-Lyon. It will be co-directed by Martin Genet & Philippe Moireau. It should start in 2021. It could be preceded by an M2 internship.\nBibliography\n[1]  B. Hinz and B. Suki, “Does Breathing Amplify Fibrosis?,” Am. J. Respir. Crit. Care Med., 2016.\n[2]  D. Chapelle and P. Moireau, “General coupling of porous flows and hyperelastic formulations—From thermodynamics principles to energy balance and compatible time schemes,” Eur. J. Mech. Part B Fluids, 2014.\n[3]  C. Patte, M. Genet, C. Fetita, P.-Y. Brillet and D. Chapelle, “Mécanique pulmonaire personnalisée: modélisation et estimation—Application à la fibrose pulmonaire”, 14ème colloque national en calcul des structures (CSMA), Giens, France, 2019.\nContacts martin.genet@polytechnique.edu, philippe.moireau@inria.fr"
+  },
+  {
+    "objectID": "posts/2017/2017-09-01 - cecile-patte-joins-the-team/index.html",
+    "href": "posts/2017/2017-09-01 - cecile-patte-joins-the-team/index.html",
+    "title": "Cécile Patte joins the team",
+    "section": "",
+    "text": "Alice Peyraut, who graduated from the Technological University of Belfort-Montbéliard, is just starting her PhD (funded by my ANR JCJC grant) under my supervision. Welcome and good luck, Alice!"
+  },
+  {
+    "objectID": "posts/2016/2016-03-02 - open-phd-position-on-multi-scale-modeling-of-cardiac-growth-remodeling/index.html",
+    "href": "posts/2016/2016-03-02 - open-phd-position-on-multi-scale-modeling-of-cardiac-growth-remodeling/index.html",
+    "title": "(Closed) PhD position on multi-scale modeling of cardiac growth & remodeling",
+    "section": "",
+    "text": "Context Living tissues are made of highly complex hierarchical materials, with a large number of biochemical/biophysical mechanisms interacting at various spatial and temporal scales. This complexity can be addressed through modern modeling and simulation methods (e.g., multi-physics coupling, homogenization, model reduction, etc.), in close interaction with experimental assays. This leads to a better understanding of living tissues, the ultimate goal being to develop objective and quantitative diagnostic and prognostic tools for the clinic—biomedical engineering. The team has already proposed detailed models of cardiac poromechanics [1], electromechanics [2,3] and hypertrophy [4,5], whose coupling raises important fundamental and technical questions.\nObjectives The PhD will aim at developing a modeling and simulation framework including multiple strongly coupled spatial and temporal scales. In terms of spatial scales, the mechanisms driving the tissue’s chronic evolution at small scales (cellular growth, extracellular remodeling, etc.) will be introduced in the electromechanical model developed in the team, and homogenized (relying in particular on the method of the multiplicative decomposition of the transformation gradient) to generate the macroscopic behavior. In terms of temporal scales, a method will be developed to accelerate the resolution of periodic solutions of the cardiac cycle, and indirectly simulate a very large number of cycles. The work will focus on specific remodeling conditions, including cardiac hypertrophy induced by myocardial infarction and cardiac amyloidosis, around which the team develops experimental protocols in collaboration with the clinical world.\nCandidate Profile The candidate must master continuum mechanics, with preferably (but not necessarily) a good knowledge of large transformations and biomechanics. He/She will also have a marked interest in the cardiac application, especially for the interaction with the clinical collaborators.\nWork environment The work will take place within the MΞDISIM team (a joint team of Inria & École Polytechnique), which is located on the École Polytechnique campus.\nContacts / Applications For more information, you may contact .genet@polytechnique.edu and dominique.chapelle@inria.fr. Applications should be submitted online on the Paris-Saclay / ADUM system, but we recommend that you also contact us via the above email addresses to prepare your application.\nBibliography\n[1] Chapelle and Moireau, 2014. A poroelastic model valid in large strains with applications to perfusion in cardiac modeling. European Journal of Mechanics - B/Fluids.\n[2] Chapelle, et al., 2009. Numerical Simulation of the Electromechanical Activity of the Heart, Functional Imaging and Modeling of the heart.\n[3] Chapelle, et al., 2012. Energy-preserving muscle tissue model: formulation and compatible discretizations, International Journal for Multiscale Computational Engineering.\n[4] Genet, et al., 2015. Heterogeneous growth-induced prestrain in the heart, Journal of Biomechanics.\n[5] Genet, et al., 2015. Modeling Pathologies of Diastolic and Systolic Heart Failure, Annals of Biomedical Eng."
+  },
+  {
+    "objectID": "posts/2016/2016-02-08 - m3disim-contributing-to-vtk-development/index.html",
+    "href": "posts/2016/2016-02-08 - m3disim-contributing-to-vtk-development/index.html",
+    "title": "Contributing to VTK development",
+    "section": "",
+    "text": "The Visualization Toolkit (VTK) is the open-source library underlying ParaView—it is a very efficient piece of software for everything related to geometry, images and meshes. After being a user for many years, I recently corrected some bugs related to the handling of second order tensors, and my patches are now part of the library’s master branch, for everyone to use. More info here."
   },
   {
     "objectID": "news.html",

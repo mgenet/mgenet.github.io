@@ -20,7 +20,7 @@
 
 
 
-<p>Mahdi Manoochehrtayebi, Aline Bel-Brunon and I just published a paper in the <a href="https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures"><em>International Journal of Solids and Structures</em></a> on a general micro-poro-mechanics formulation, cf.&nbsp;<a href="https://doi.org/10.1016/j.ijsolstr.2025.113354">https://doi.org/10.1016/j.ijsolstr.2025.113354</a> (<a href="https://authors.elsevier.com/a/1l2e84kE0ec2y">editor shared link</a>, <a href="https://hal.science/hal-05057928">HAL repository</a>).</p>
+<p>Mahdi Manoochehrtayebi, Aline Bel-Brunon and I just published a paper in the <a href="https://www.sciencedirect.com/journal/international-journal-of-solids-and-structures">International Journal of Solids and Structures</a> entitled “Finite strain micro-poro-mechanics: formulation and compared analysis with macro-poro-mechanics”, cf.&nbsp;<a href="https://doi.org/10.1016/j.ijsolstr.2025.113354">https://doi.org/10.1016/j.ijsolstr.2025.113354</a> (<a href="https://authors.elsevier.com/a/1l2e84kE0ec2y">editor shared link</a>, <a href="https://hal.science/hal-05057928">HAL repository</a>).</p>
 <p>All computations from the paper (which are based on the <a href="https://github.com/mgenet/dolfin_mech">dolfin_mech</a> FEniCS-based library) are easily reproducible at <a href="https://mgenet.github.io/Micro-Macro-Poro-paper-demos">https://mgenet.github.io/Micro-Macro-Poro-paper-demos</a>, so do not hesitate to give it a try, and let us know how it goes!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
