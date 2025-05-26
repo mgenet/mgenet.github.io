@@ -10,7 +10,31 @@
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Tue, 06 May 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 May 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Texas!</title>
+  <link>https://mgenet.github.io/posts/2025/2025-05-25 - Texas/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>For the next two weeks I will be a Visiting Professor at the University of Texas Southwestern (UTSW) Medical Center in Dallas, invited by <a href="https://profiles.utsouthwestern.edu/profile/195959/radomir-chabiniok.html">Radomir Chabiniok</a> and <a href="https://utswmed.org/doctors/mohammad-hussain">Tarique Hussain</a>. I will give seminars in the Cardiac, Pulmonology and Radiology Departments, and attend <a href="https://fimh2025.sciencesconf.org">the 13th Functional Imaging and Modeling of the Heart (FIMH) Conference</a>. It will also be an occasion to visit colleagues at the University of Texas at Austin (UTA) and Oden Institute for Computational Mechanics, notably <a href="https://www.bme.utexas.edu/people/faculty-directory/bush">Adam Bush</a>, <a href="https://www.ae.utexas.edu/people/faculty/faculty-directory/landis">Chad Landis</a> and <a href="https://oden.utexas.edu/people/directory/Michael-Sacks">Michael Sacks</a>. Very much looking forward to it!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2025/2025-05-25 - Texas/utsw.svg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2025/2025-05-25 - Texas/</guid>
+  <pubDate>Sun, 25 May 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-05-25 - Texas/utsw.svg" medium="image" type="image/svg+xml"/>
+</item>
 <item>
   <title>New paper on micro-poro-mechanics</title>
   <link>https://mgenet.github.io/posts/2025/2025-05-06 - new-paper-on-micro-poro-mechanics/</link>
@@ -512,36 +536,6 @@
   <guid>https://mgenet.github.io/posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/</guid>
   <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/images/20240627_085159.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>CSMA2024</title>
-  <link>https://mgenet.github.io/posts/2024/2024-05-17 - CSMA2024/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This week we are attending the 16th national workshop on computational mechanics (<a href="https://csma2024.sciencesconf.org">https://csma2024.sciencesconf.org</a>) in Giens (one of the most beautiful places in France!):</p>
-<ul>
-<li><p><a href="https://m3disim.saclay.inria.fr/people/alice-peyraut">Alice Peyraut</a> presented her PhD work (<a href="https://csma2024.sciencesconf.org/499171">Quantification d’incertitudes pour la modélisation pulmonaire personnalisée</a>)</p></li>
-<li><p><a href="https://alexandredabyseesaram.github.io">Alexandre Daby-Seesaram</a> presented his PhD work (<a href="https://csma2024.sciencesconf.org/531175">Réduction de modèles en dynamique non-linéaire pour la simulation de structures soumises à une famille de chargements</a>)</p></li>
-<li><p>I presented <a href="https://m3disim.saclay.inria.fr/people/mahdi-manoochehrtayebi">Mahdi Manoochehrtayebi</a>’s PhD work (<a href="https://csma2024.sciencesconf.org/507979">Un modèle micro-poro-mécanique du parenchyme pulmonaire</a>) and chaired a session (Biomécanique et ingénierie du vivant)</p></li>
-</ul>
-<p>Also, I was elected a board member of the <a href="https://csma.asso.univ-lorraine.fr">French Computational Mechanics Association</a>.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2024/2024-05-17 - CSMA2024/images/WhatsApp-Image-2024-05-17-at-11.09.54.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/2024-05-17 - CSMA2024/</guid>
-  <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2024/2024-05-17 - CSMA2024/images/WhatsApp-Image-2024-05-17-at-11.09.54.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
