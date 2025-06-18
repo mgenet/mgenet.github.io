@@ -9,8 +9,33 @@
 <link>https://mgenet.github.io/news.html</link>
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
-<generator>quarto-1.7.31</generator>
-<lastBuildDate>Sun, 25 May 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Wed, 18 Jun 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>New paper on Inverse Uncertainty Quantification</title>
+  <link>https://mgenet.github.io/posts/2025/2025-06-18 - new-paper-on-inverse-uncertainty-quantification/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Alice Peyraut and I just published a paper in the <a href="https://asmedigitalcollection.asme.org/biomechanical"><em>Journal of Biomechanical Engineering</em></a> (a journal of the American Society of Mechanical Engineers, ASME), entitled “Inverse Uncertainty Quantification for Personalized Biomechanical Modeling: Application to Pulmonary Poromechanical Digital Twins”, cf.&nbsp;<a href="https://doi.org/10.1115/1.4068578">https://doi.org/10.1115/1.4068578</a> (HAL repository: <a href="https://hal.science/hal-05118573">https://hal.science/hal-05118573</a>).</p>
+<p>All computations from the paper (which rely on the <a href="https://github.com/mgenet/dolfin_mech">dolfin_mech</a> FEniCS-based library and the <a href="https://github.com/alicepeyraut/dolfin_estim">dolfin_estim</a> FEniCS-based library) are easily reproducible at <a href="https://alicepeyraut.github.io/uncertainty-quantification-paper-demos-github">https://alicepeyraut.github.io/uncertainty-quantification-paper-demos-github</a>, so do not hesitate to give it a try, and let us know how it goes!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2025/2025-06-18 - new-paper-on-inverse-uncertainty-quantification/screenshot.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2025/2025-06-18 - new-paper-on-inverse-uncertainty-quantification/</guid>
+  <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-06-18 - new-paper-on-inverse-uncertainty-quantification/screenshot.png" medium="image" type="image/png" height="120" width="144"/>
+</item>
 <item>
   <title>Texas!</title>
   <link>https://mgenet.github.io/posts/2025/2025-05-25 - Texas/</link>
@@ -533,30 +558,6 @@
   <guid>https://mgenet.github.io/posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/</guid>
   <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/images/01102768814123-web-tete.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Keynote speaker @ RT Math-Bio-Santé</title>
-  <link>https://mgenet.github.io/posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Today I, as an envoy from the GdR Méca-Bio-Santé (<a href="https://gdr-mecabio-sante.cnrs.fr">https://gdr-mecabio-sante.cnrs.fr</a>), gave a keynote lecture on the team’s efforts on “multiscale modeling and estimation of lung poromechanics” during the RT Math-Bio-Santé (<a href="https://math-bio-sante.math.cnrs.fr">https://math-bio-sante.math.cnrs.fr</a>) 2024 workshop organized at the Henri Lebesgue Center for Mathematics in Nantes (<a href="https://www.lebesgue.fr/fr/JMBS24">https://www.lebesgue.fr/fr/JMBS24</a>)…super nice to see so much interest at the interface —the interphase!— between both communities! And it was an occasion to meet with <a href="https://annabellecollin.perso.math.cnrs.fr">Annabelle Collin</a>, former PhD student in MΞDISIM, who co-organized the meeting and is soon moving to Nantes University as a Professor of Mathematics.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/images/20240627_085159.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/</guid>
-  <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2024/2024-06-27 - martin-genet-keynote-speaker-rt-math-bio-sante/images/20240627_085159.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
