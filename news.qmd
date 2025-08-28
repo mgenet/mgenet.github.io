@@ -42,7 +42,9 @@ listing:
 
 <!-- - 2026/01/18-23: Speaker at the [MécaMat](https://mecamat.org) National Colloquium on "Images, Mechanics and Materials", Aussois, France. -->
 
-- Winter-Spring 2026: Invited Professor (hosted by Gerard Ateshian through the [Alliance Program](https://alliance.columbia.edu)) at [Columbia University](https://www.columbia.edu), New York, New York, USA.
+- Fall 2025: Invited Professor (hosted by [Franz Chouly](https://fchouly.perso.math.cnrs.fr)) at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay.
+
+- Winter-Spring 2026: Invited Professor (hosted by [Gerard Ateshian](https://www.me.columbia.edu/faculty/gerard-ateshian) through the [Alliance Program](https://alliance.columbia.edu)) at [Columbia University](https://www.columbia.edu), New York, New York, USA.
 
 - 2026/06/29 - 07/03: Lecturer at the [CISM](https://cism.it) courses on "Mechanics of the Deep Lung", Udine, Italy.
 

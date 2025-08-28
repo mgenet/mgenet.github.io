@@ -22,7 +22,8 @@ image: martin-2015.jpg
 
 Professor\
 [Mechanics Department](https://www.polytechnique.edu/education/departements-denseignement-et-de-recherche/departement-de-mecanique) & [Solid Mechanics Laboratory](https://lms.ip-paris.fr), [École Polytechnique](https://www.polytechnique.edu), Palaiseau, France\
-[MΞDISIM team](https://m3disim.saclay.inria.fr), [INRIA](https://www.inria.fr), Palaiseau, France
+[MΞDISIM team](https://m3disim.saclay.inria.fr), [INRIA](https://www.inria.fr), Palaiseau, France\
+[martin.genet@polytechnique.edu](mailto:martin.genet@polytechnique.edu)
 
 My original background is in Computational Mechanics and Computational Materials Science.
 The ultimate aspiration of my current research is to use the fundamental laws of physics and the power of modern computing and imaging facilities to improve cardiology and pulmonology.
