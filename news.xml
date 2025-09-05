@@ -12,6 +12,28 @@
 <generator>quarto-1.7.34</generator>
 <lastBuildDate>Fri, 05 Sep 2025 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>Finite Element Neural Network preprints are out!</title>
+  <link>https://mgenet.github.io/posts/2025/2025-09-05 - finite-element-neural-network-preprints-are-out/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a>, <a href="https://alexandredabyseesaram.github.io">Alexandre Daby-Seesaram</a> and I just published two companion papers in <a href="https://link.springer.com/journal/466"><em>Computational Mechanics</em></a> entitled “Finite Element Neural Network Interpolation: I - Interpretable and Adaptive Discretization for Solving PDEs” (DOI: <a href="https://doi.org/10.1007/s00466-025-02677-3">https://doi.org/10.1007/s00466-025-02677-3</a>; ArXiv DOI: <a href="https://doi.org/10.48550/arXiv.2412.05719">https://doi.org/10.48550/arXiv.2412.05719</a>) and “Finite Element Neural Network Interpolation: II - Hybridization with the Proper Generalized Decomposition for non-linear surrogate modelling” (DOI: <a href="https://doi.org/10.1007/s00466-025-02676-4">https://doi.org/10.1007/s00466-025-02676-4</a>; ArXiv DOI: <a href="https://doi.org/10.48550/arXiv.2412.05714">https://doi.org/10.48550/arXiv.2412.05714</a>).</p>
+<p>We implemented our framework in a library called <a href="https://github.com/AlexandreDabySeesaram/NeuROM">NeuROM</a>, which is freely available, and as usual now we also publish jupyter notebooks to allow reproduction of the figures of the papers: <a href="https://alexandredabyseesaram.github.io/FENNI-I-paper-demo">Part I</a> and <a href="https://alexandredabyseesaram.github.io/FENNI-II-PGD-paper-demo">Part II</a>.</p>
+<p>Definitely let us know if you are interested and want to collaborate on these topics!</p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="snappy.mov"></video></div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2025/2025-09-05 - finite-element-neural-network-preprints-are-out/</guid>
+  <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-09-05 - finite-element-neural-network-preprints-are-out/fenni.png" medium="image" type="image/png" height="233" width="144"/>
+</item>
+<item>
   <title>New paper on Inverse Uncertainty Quantification</title>
   <link>https://mgenet.github.io/posts/2025/2025-06-18 - new-paper-on-inverse-uncertainty-quantification/</link>
   <description><![CDATA[ 
@@ -33,30 +55,8 @@
  ]]></description>
   <category>News</category>
   <guid>https://mgenet.github.io/posts/2025/2025-06-18 - new-paper-on-inverse-uncertainty-quantification/</guid>
-  <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2025/2025-06-18 - new-paper-on-inverse-uncertainty-quantification/screenshot.png" medium="image" type="image/png" height="120" width="144"/>
-</item>
-<item>
-  <title>Finite Element Neural Network preprints are out!</title>
-  <link>https://mgenet.github.io/posts/2025/2025-09-05 - finite-element-neural-network-preprints-are-out/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a>, <a href="https://alexandredabyseesaram.github.io">Alexandre Daby-Seesaram</a> and I just published two companion papers in <a href="https://link.springer.com/journal/466"><em>Computational Mechanics</em></a> entitled “Finite Element Neural Network Interpolation: I - Interpretable and Adaptive Discretization for Solving PDEs” (DOI: <a href="https://doi.org/10.1007/s00466-025-02677-3">https://doi.org/10.1007/s00466-025-02677-3</a>; ArXiv DOI: <a href="https://doi.org/10.48550/arXiv.2412.05719">https://doi.org/10.48550/arXiv.2412.05719</a>) and “Finite Element Neural Network Interpolation: II - Hybridization with the Proper Generalized Decomposition for non-linear surrogate modelling” (DOI: <a href="https://doi.org/10.1007/s00466-025-02676-4">https://doi.org/10.1007/s00466-025-02676-4</a>; ArXiv DOI: <a href="https://doi.org/10.48550/arXiv.2412.05714">https://doi.org/10.48550/arXiv.2412.05714</a>).</p>
-<p>We implemented our framework in a library called <a href="https://github.com/AlexandreDabySeesaram/NeuROM">NeuROM</a>, which is freely available, and as usual now we also publish jupyter notebooks to allow reproduction of the figures of the papers: <a href="https://alexandredabyseesaram.github.io/FENNI-I-paper-demo">Part I</a> and <a href="https://alexandredabyseesaram.github.io/FENNI-II-PGD-paper-demo">Part II</a>.</p>
-<p>Definitely let us know if you are interested and want to collaborate on these topics!</p>
-<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="snappy.mov"></video></div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2025/2025-09-05 - finite-element-neural-network-preprints-are-out/</guid>
   <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2025/2025-09-05 - finite-element-neural-network-preprints-are-out/fenni.png" medium="image" type="image/png" height="233" width="144"/>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-06-18 - new-paper-on-inverse-uncertainty-quantification/screenshot.png" medium="image" type="image/png" height="120" width="144"/>
 </item>
 <item>
   <title>Texas!</title>
