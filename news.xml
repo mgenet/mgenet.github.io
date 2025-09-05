@@ -9,8 +9,30 @@
 <link>https://mgenet.github.io/news.html</link>
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
-<generator>quarto-1.7.33</generator>
+<generator>quarto-1.7.34</generator>
 <lastBuildDate>Wed, 18 Jun 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Finite Element Neural Network preprints are out!</title>
+  <link>https://mgenet.github.io/posts/2025/2025-09-05 - finite-element-neural-network-preprints-are-out/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a>, <a href="https://alexandredabyseesaram.github.io">Alexandre Daby-Seesaram</a> and I just published two companion papers in <a href="https://link.springer.com/journal/466"><em>Computational Mechanics</em></a> entitled “Finite Element Neural Network Interpolation: I - Interpretable and Adaptive Discretization for Solving PDEs” (DOI: <a href="https://doi.org/10.1007/s00466-025-02677-3">https://doi.org/10.1007/s00466-025-02677-3</a>; ArXiv DOI: <a href="https://doi.org/10.48550/arXiv.2412.05719">https://doi.org/10.48550/arXiv.2412.05719</a>) and “Finite Element Neural Network Interpolation: II - Hybridization with the Proper Generalized Decomposition for non-linear surrogate modelling” (DOI: <a href="https://doi.org/10.1007/s00466-025-02676-4">https://doi.org/10.1007/s00466-025-02676-4</a>; ArXiv DOI: <a href="https://doi.org/10.48550/arXiv.2412.05714">https://doi.org/10.48550/arXiv.2412.05714</a>).</p>
+<p>We implemented our framework in a library called <a href="https://github.com/AlexandreDabySeesaram/NeuROM">NeuROM</a>, which is freely available, and as usual now we also publish jupyter notebooks to allow reproduction of the figures of the papers: <a href="https://alexandredabyseesaram.github.io/FENNI-I-paper-demo">Part I</a> and <a href="https://alexandredabyseesaram.github.io/FENNI-II-PGD-paper-demo">Part II</a>.</p>
+<p>Definitely let us know if you are interested and want to collaborate on these topics!</p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="snappy.mov"></video></div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2025/2025-09-05 - finite-element-neural-network-preprints-are-out/</guid>
+  <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-09-05 - finite-element-neural-network-preprints-are-out/screenshot.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>New paper on Inverse Uncertainty Quantification</title>
   <link>https://mgenet.github.io/posts/2025/2025-06-18 - new-paper-on-inverse-uncertainty-quantification/</link>
@@ -534,30 +556,6 @@
   <category>News</category>
   <guid>https://mgenet.github.io/posts/2024/09/01/new-website/</guid>
   <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Nouvel article sur les jumeaux numériques dans Les Échos</title>
-  <link>https://mgenet.github.io/posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Je viens de publier un article sur les jumeaux numériques en santé dans Les Échos: <a href="https://www.lesechos.fr/idees-debats/editos-analyses/jumeaux-numeriques-la-modelisation-dorganes-espoir-de-la-medecine-2110146">https://www.lesechos.fr/idees-debats/editos-analyses/jumeaux-numeriques-la-modelisation-dorganes-espoir-de-la-medecine-2110146</a> (le texte complet est disponible ici: <a href="https://sdrive.cnrs.fr/s/H8aaHJoQgjiee6H">https://sdrive.cnrs.fr/s/H8aaHJoQgjiee6H</a>).</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/images/01102768814123-web-tete.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/</guid>
-  <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2024/2024-07-26 - nouvel-article-sur-les-jumeaux-numeriques-dans-les-echos/images/01102768814123-web-tete.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>
