@@ -10,7 +10,45 @@
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
 <generator>quarto-1.7.34</generator>
-<lastBuildDate>Fri, 05 Sep 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>ICCB 2025</title>
+  <link>https://mgenet.github.io/posts/2025/2025-11-10 - ICCB/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This week we attended the <a href="https://iccb2025.org">11th International Conference on Computational Bioengineering (ICCB 2025)</a> in Rome:</p>
+<ul>
+<li><p><a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a> gave the keynote of the “Multiscale biophysical systems. New trends on theoretical and computational modelling” minisymposium, entitled “Finite element neural network interpolation: Interpretable and adaptive discretization for solving PDEs”;</p></li>
+<li><p><a href="https://alexandredabyseesaram.github.io">Alexandre Daby-Seesaram</a> presented his work on “Digital twin of human lungs: towards real-time simulation and registration of soft organs”;</p></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2025/2025-11-10 - ICCB/alex.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<ul>
+<li>I co-chaired (together with <a href="http://www.ing.puc.cl/~dhurtado">Daniel Hurtado (Pontificia Universidad Católica de Chile &amp; MIT)</a>) a mini-symposium on “Modeling the respiratory system: current trends and clinical opportunities”, and gave a presentation on “Multiscale Modelling and Estimation of Lung Poromechanics”.</li>
+</ul>
+<p><a href="https://www.linkedin.com/in/felipealvarezbarrientos">Felipe Álvarez-Barrientos</a> &amp; <a href="https://www.linkedin.com/in/haotian-xiao-a00771195">Haotian Xiao</a> also attended the meeting, as well as our colleagues from LMS <a href="https://www.linkedin.com/in/julien-bonnaf%C3%A9-a06a68355">Julien Bonnafé</a> &amp; <a href="https://www.linkedin.com/in/jean-marc-allain-9b84788">Jean-Marc Allain</a>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2025/2025-11-10 - ICCB/group.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+</figure>
+</div>
+<p>Such a nice conference—thanks to Alessio Gizzi and his team for the perfect organization!</p>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2025/2025-11-10 - ICCB/</guid>
+  <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-11-10 - ICCB/group.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Finite Element Neural Network preprints are out!</title>
   <link>https://mgenet.github.io/posts/2025/2025-09-05 - finite-element-neural-network-preprints-are-out/</link>
@@ -538,24 +576,6 @@
   <guid>https://mgenet.github.io/posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team/</guid>
   <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team/felipe.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>New website!</title>
-  <link>https://mgenet.github.io/posts/2024/09/01/new-website/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>New website! It is based on the awesome <a href="https://quarto.org">Quarto</a> framework. Do not hesitate to subscribe via <a href="https://mgenet.github.io/news.xml">RSS</a> or on <a href="https://www.linkedin.com/in/martin-genet">LinkedIn</a> where I will be dispatching new posts.</p>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/09/01/new-website/</guid>
-  <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
