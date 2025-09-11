@@ -3,6 +3,11 @@ project:
   preview:
     port: 4444
 
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
 website:
   title: "Martin Genet, Professor @ École Polytechnique"
   description: "Martin Genet, Professor @ École Polytechnique"
@@ -13,6 +18,7 @@ website:
         href: index.qmd
       - news.qmd
       # - forthcoming.qmd
+      - publis.qmd
       - codes.qmd
       - text: "{{< iconify academicons:hal width=17 title=HAL >}}"
         href: https://cv.hal.science/martin-genet
@@ -32,10 +38,3 @@ website:
         href: https://gitlab.inria.fr/mgenet
       - text: "{{< iconify simple-icons:github width=17 title=GitHub >}}"
         href: https://github.com/mgenet
-format:
-  html:
-    theme: cosmo
-    css: styles.css
-
-
-
