@@ -25,11 +25,10 @@ display:none;
 	color:#E33729;
 }
 #res_script .Rubrique{
-	border-bottom:10px solid #CCC;
+	border-bottom:1px solid #CCC;
 	padding-bottom:0.2em;
     font-weight:bold;
-    color:#000000;
-    /* color:#363842; */
+    color:#363842;
     font-size:1.7em;
     margin:0 0 1.5em 0;
 }
@@ -37,10 +36,9 @@ display:none;
     font-weight:bold;
     font-size:1.2em;
     margin:1.5em 0;
-    /* background:url(../images/puce_triangle_noir_medium_bottom.png) no-repeat left 6px; */
+    background:url(../images/puce_triangle_noir_medium_bottom.png) no-repeat left 6px;
     padding-left:12px;
-    color: #000000;
-    /* color: #363842; */
+    color: #363842;
 }
 #res_script dl{
     clear:both;
