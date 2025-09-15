@@ -38,11 +38,15 @@ listing:
 
 <!-- - 2025/06/01-05: Presentation at the [FIMH 2025](https://fimh2025.sciencesconf.org) conference, Dallas, Texas, U.S.A. -->
 
-- 2025/09/08-10: Mini-symposium (co-organized w/ Daniel Hurtado & Mona Eskandari) on "Modeling the respiratory system: current trends and clinical opportunities" at the [XI International Conference on Computational Bioengineering](http://iccb2025.org), Roma, Italia.
+<!-- - 2025/09/08-10: Mini-symposium (co-organized w/ Daniel Hurtado & Mona Eskandari) on "Modeling the respiratory system: current trends and clinical opportunities" at the [XI International Conference on Computational Bioengineering](http://iccb2025.org), Roma, Italia. -->
 
 <!-- - 2026/01/18-23: Speaker at the [MécaMat](https://mecamat.org) National Colloquium on "Images, Mechanics and Materials", Aussois, France. -->
 
 - Fall 2025: Invited Professor (hosted by [Franz Chouly](https://fchouly.perso.math.cnrs.fr)) at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay.
+
+- 2025/11/05: Seminar at [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay.
+
+- 2025/12/09: Co-organization of [GdR MéPhy](https://mephysociety.wordpress.com) days on "Machine Learning in Mechanics and Physics", Paris, France.
 
 - 2025/12/09: Seminar at the [∂'Alembert Institute (Sorbonne Université/CNRS)](http://www.dalembert.upmc.fr), Paris, France.
 
