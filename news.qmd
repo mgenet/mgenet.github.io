@@ -42,18 +42,24 @@ listing:
 
 <!-- - 2026/01/18-23: Speaker at the [MécaMat](https://mecamat.org) National Colloquium on "Images, Mechanics and Materials", Aussois, France. -->
 
-- Fall 2025: Invited Professor (hosted by [Franz Chouly](https://fchouly.perso.math.cnrs.fr)) at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay.
+<!-- - Fall 2025: Invited Professor (hosted by [Franz Chouly](https://fchouly.perso.math.cnrs.fr)) at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay. -->
 
-- 2025/11/05: Seminar at [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay.
+- 2025/11/06: Seminar at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay.
+
+- 2025/11/20: General audience seminar at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay.
 
 - 2025/12/09: Co-organization of [GdR MéPhy](https://mephysociety.wordpress.com) days on "Machine Learning in Mechanics and Physics", Paris, France.
 
-- 2025/12/09: Seminar at the [∂'Alembert Institute (Sorbonne Université/CNRS)](http://www.dalembert.upmc.fr), Paris, France.
-
 - Winter-Spring 2026: Invited Professor (hosted by [Gerard Ateshian](https://www.me.columbia.edu/faculty/gerard-ateshian) through the [Alliance Program](https://alliance.columbia.edu)) at [Columbia University](https://www.columbia.edu), New York, New York, USA.
+
+- 2026/05/18 - 22: Keynote Lecturer at the [17th National Colloquium on Computational Mechanics (CSMA)](https://csma2026.sciencesconf.org), Giens, France.
 
 - 2026/06/29 - 07/03: Lecturer at the [CISM](https://cism.it) courses on "Mechanics of the Deep Lung", Udine, Italy.
 
+- 2026/09: Seminar at the [∂'Alembert Institute (Sorbonne Université/CNRS)](http://www.dalembert.upmc.fr), Paris, France.
+
 ### Past
+
+(Scientific life is full of doubts and failure, the following list is heavily biased toward certainties and successes…)
 
 (Do not hesitate to subscribe via [RSS](https://mgenet.github.io/news.xml) or [LinkedIn](https://www.linkedin.com/in/martin-genet).)
