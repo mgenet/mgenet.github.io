@@ -9,11 +9,32 @@
 <link>https://mgenet.github.io/news.html</link>
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
-<generator>quarto-1.8.24</generator>
-<lastBuildDate>Mon, 10 Nov 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Mon, 03 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Uruguay!</title>
+  <link>https://mgenet.github.io/posts/2025/2025-11-03 - Uruguay/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>For the next month I will be a Visiting Professor at the <a href="https://irl-ifumi.apps.math.cnrs.fr">French-Uruguayan Institute for Mathematics and Interactions (IFUMI)</a>, a mixed entity of the <a href="https://udelar.edu.uy">Universidad de la República Uruguay (UdelaR)</a> and <a href="https://www.cnrs.fr">CNRS</a>, hosted by <a href="https://fchouly.perso.math.cnrs.fr">Franz Chouly</a>. This week (06/11) I will give a seminar (Toward pulmonary digital twins: recent efforts in motion tracking using mechanical regularization, lung poromechanical modeling and estimation, model reduction using finite element neural networks) at the <a href="https://www.fcien.edu.uy">Facultad de Ciencias</a> &amp; <a href="https://www.fing.edu.uy">Facultad de Ingeniería</a>, and late this month (20/11) I will give a general audience seminar (Mechanics of the heart and lungs—a tale of modeling, computing and learning) at the University. Very much looking forward to it!</p>
+<p><img src="https://mgenet.github.io/posts/2025/2025-11-03 - Uruguay/ciencias.jpg" class="img-fluid quarto-figure quarto-figure-center" style="width:50.0%"> Facultad de Ciencias</p>
+<p><img src="https://mgenet.github.io/posts/2025/2025-11-03 - Uruguay/ingeniería.jpg" class="img-fluid quarto-figure quarto-figure-center" style="width:50.0%"> Facultad de Ingeniería (a architectural <a href="https://www.fing.edu.uy/es/plandeobras/el-edificio/historia">“landmark”</a>)</p>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2025/2025-11-03 - Uruguay/</guid>
+  <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-11-03 - Uruguay/ciencias.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>ICCB 2025</title>
-  <link>https://mgenet.github.io/posts/2025/2025-11-10 - ICCB/</link>
+  <link>https://mgenet.github.io/posts/2025/2025-09-10 - ICCB/</link>
   <description><![CDATA[ 
 
 
@@ -27,7 +48,7 @@
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2025/2025-11-10 - ICCB/alex.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://mgenet.github.io/posts/2025/2025-09-10 - ICCB/alex.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 <ul>
@@ -35,19 +56,19 @@
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2025/2025-11-10 - ICCB/martin.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://mgenet.github.io/posts/2025/2025-09-10 - ICCB/martin.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 <p><a href="https://www.linkedin.com/in/felipealvarezbarrientos">Felipe Álvarez-Barrientos</a> &amp; <a href="https://www.linkedin.com/in/haotian-xiao-a00771195">Haotian Xiao</a> also attended the meeting, as well as our colleagues from LMS <a href="https://www.linkedin.com/in/julien-bonnaf%C3%A9-a06a68355">Julien Bonnafé</a> &amp; <a href="https://www.linkedin.com/in/jean-marc-allain-9b84788">Jean-Marc Allain</a> who work on the cornea, and our colleague from BioMaps <a href="https://www.linkedin.com/in/quentin-herszkowicz-01145b1b4">Quentin Herszkowicz</a> with who we collaborate on the lung (<a href="https://v-lf-spiro3d.eu">V|LF-Spiro3D EIC project</a>).</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2025/2025-11-10 - ICCB/lms.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://mgenet.github.io/posts/2025/2025-09-10 - ICCB/lms.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 <p>Such a nice conference—thanks to <a href="https://www.linkedin.com/in/alessiogizzi">Alessio Gizzi</a> and his team for the perfect organization, and to all speakers of the “respiratory” minisymposium!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2025/2025-11-10 - ICCB/group.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
+<p><img src="https://mgenet.github.io/posts/2025/2025-09-10 - ICCB/group.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
 </figure>
 </div>
 
@@ -55,9 +76,9 @@
 
  ]]></description>
   <category>News</category>
-  <guid>https://mgenet.github.io/posts/2025/2025-11-10 - ICCB/</guid>
-  <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2025/2025-11-10 - ICCB/lms.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://mgenet.github.io/posts/2025/2025-09-10 - ICCB/</guid>
+  <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-09-10 - ICCB/lms.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Finite Element Neural Network preprints are out!</title>
@@ -562,30 +583,6 @@
   <guid>https://mgenet.github.io/posts/2024/2024-09-06 - VPH2024/</guid>
   <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2024/2024-09-06 - VPH2024/group1.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Felipe Álvarez-Barrientos joins the team</title>
-  <link>https://mgenet.github.io/posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Felipe Álvarez-Barrientos, who holds a Master of Science in Engineering from the <em>Pontificia Universidad Católica de Chile</em> in Santiago, just started his PhD in the team. He already visited MΞDISIM twice, for his Master thesis and Engineering internship, and together we published <a href="https://doi.org/10.1016/j.ijengsci.2021.103586">a paper on micro-poro-mechanics</a>. His PhD is funded by the <a href="https://v-lf-spiro3d.eu">European Innovation Council PathFinder V|LF-Spiro3D grant</a>, and he will work on porting our lung personalized modeling/digital twin pipeline to (dynamic) lung magnetic resonance imaging. Welcome back and good luck, Felipe!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team/felipe.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team/</guid>
-  <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2024/2024-09-02 - felipe-alvarez-barrientos-joins-the-team/felipe.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
