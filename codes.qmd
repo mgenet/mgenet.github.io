@@ -68,8 +68,22 @@ In order to allow for long term reproducibility of research results, we now try 
 - Demos: [https://alicepeyraut.github.io/identification-methods-paper-demos-github](https://alicepeyraut.github.io/identification-methods-paper-demos-github)
 
 
+### [Peyraut & Genet, 2025, J. Biomech. Eng.]
+
+- Title: Inverse Uncertainty Quantification for Personalized Biomechanical Modeling: Application to Pulmonary Poromechanical Digital Twins
+- DOI: [https://doi.org/10.1115/1.4068578](https://doi.org/10.1115/1.4068578)
+- Demos: [https://alicepeyraut.github.io/uncertainty-quantification-paper-demos-github](https://alicepeyraut.github.io/uncertainty-quantification-paper-demos-github)
+
+
 ### [Manoochehrtayebi, Bel-Brunon & Genet, 2025, Int. J. Sol. Struct.]
 
 - Title: Finite strain micro-poro-mechanics: formulation and compared analysis with macro-poro-mechanics
 - DOI: [https://doi.org/10.1016/j.ijsolstr.2025.113354](https://doi.org/10.1016/j.ijsolstr.2025.113354)
 - Demos: [https://mgenet.github.io/Micro-Macro-Poro-paper-demos](https://mgenet.github.io/Micro-Macro-Poro-paper-demos)
+
+
+### [Manoochehrtayebi, Genet & Bel-Brunon, 2025, J. Biomech. Eng.]
+
+- Title: Micro-Poro-Mechanical Modeling of the Lung Parenchyma: Theoretical Modeling and Parameters Identification
+- DOI: [https://doi.org/10.1115/1.4070036](https://doi.org/10.1115/1.4070036)
+- Demos: [https://manoochtayebi.github.io/Lung-micro-poro-paper-demos](https://manoochtayebi.github.io/Lung-micro-poro-paper-demos)
