@@ -1,7 +1,7 @@
 ---
 title: "ICCB 2025"
-date: "2025-11-10"
-categories: 
+date: "2025-09-10"
+categories:
   - "News"
 image: "lms.jpg"
 ---
