@@ -45,13 +45,17 @@ More precisely, my research focuses on the development of
 
 ### Research Experience
 
-* Since September 2015: Assistant Professor (until 08/2023), Professor (since 09/2023), [Mechanics Department](https://www.polytechnique.edu/education/departements-denseignement-et-de-recherche/departement-de-mecanique) (DMEC) & [Solid Mechanics Laboratory](https://lms.ip-paris.fr) (LMS), [École Polytechnique](https://www.polytechnique.edu), Palaiseau, France.
-* Since September 2015: Researcher, [MΞDISIM team](https://m3disim.saclay.inria.fr), [INRIA](https://www.inria.fr), Palaiseau, France.
+* Since September 2015: Assistant Professor (until 2023), Professor (since 2023), [Mechanics Department](https://www.polytechnique.edu/education/departements-denseignement-et-de-recherche/departement-de-mecanique) (DMEC) & [Solid Mechanics Laboratory](https://lms.ip-paris.fr) (LMS), [École Polytechnique](https://www.polytechnique.edu), Palaiseau, France.
+  <!-- * Since 2025: Associated Researcher, [ANANKΞ team](https://team.inria.fr/ananke), [INRIA](https://www.inria.fr), Palaiseau, France. -->
+  * Winter-Spring 2026: Invited Professor, [Columbia University](https://www.columbia.edu), New York, New York, USA.
+  * Fall 2025: Invited Professor, [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay.
+  * Spring 2025: Invited Professor, [University of Texas Southwestern Medical Center](https://www.utsouthwestern.edu), Dallas, Texas, USA.
+  * 2015-2025: Researcher, [MΞDISIM team](https://m3disim.saclay.inria.fr), [INRIA](https://www.inria.fr), Palaiseau, France.
 * 2012-2015: Marie-Curie International Outgoing Fellow (PIs [Pr. Julius Guccione](https://profiles.ucsf.edu/julius.guccione), [Pr. Ellen Kuhl](https://livingmatter.stanford.edu) & [Pr. Sebastian Kozerke](https://biomed.ee.ethz.ch/institute/People/person-detail.html?persid=61641)), [Surgery Department](https://surgery.ucsf.edu), [University of California at San Francisco](https://www.ucsf.edu) (UCSF), USA, and [Institute for Biomedical Engineering](https://biomed.ee.ethz.ch), [Swiss Federal Institute of Technology](https://ethz.ch/en.html) (ETHZ), Zurich, Switzerland.
 * 2010–2012: Postdoctoral research fellow (PIs [Dr. Tony Tomsia](https://scholar.google.com/citations?user=3d4AD4MAAAAJ) & [Pr. Rob Ritchie](https://www2.lbl.gov/ritchie)), [Materials Sciences Division](https://materialssciences.lbl.gov), [Lawrence Berkeley National Laboratory](https://www.lbl.gov), USA.
 * 2006–2010: Master II and Doctoral research fellow (PI [Pr. Pierre Ladevèze](https://lmps.ens-paris-saclay.fr/fr/annuaire-des-personnes/pierre-ladeveze-0)), [Laboratoire de Mécanique et de Technologie](https://lmps.ens-paris-saclay.fr) (LMT-Cachan), [École Normale Supérieure de Cachan](https://ens-paris-saclay.fr) (ENS-Cachan), France.
-* Summer 2008: Research visitor (PIs [Pr. Tony Evans](https://scholar.google.com/citations?user=mecUsgMAAAAJ) & [Pr. Frank Zok](https://materials.ucsb.edu/people/faculty/frank-w-zok)), [Materials Department](https://materials.ucsb.edu), [University of California at Santa Barbara](https://ucsb.edu) (UCSB), USA.
-* Fall 2007: Research visitor (PI [Pr. Jacques Lamon](https://lmps.ens-paris-saclay.fr/fr/annuaire-des-personnes/jacques-lamon)), [Laboratoire des Composites Thermostructuraux](https://lcts.cnrs.fr) (LCTS), [Université Bordeaux I](https://www.u-bordeaux.fr), France.
+  * Summer 2008: Research visitor (PIs [Pr. Tony Evans](https://scholar.google.com/citations?user=mecUsgMAAAAJ) & [Pr. Frank Zok](https://materials.ucsb.edu/people/faculty/frank-w-zok)), [Materials Department](https://materials.ucsb.edu), [University of California at Santa Barbara](https://ucsb.edu) (UCSB), USA.
+  * Fall 2007: Research visitor (PI [Pr. Jacques Lamon](https://lmps.ens-paris-saclay.fr/fr/annuaire-des-personnes/jacques-lamon)), [Laboratoire des Composites Thermostructuraux](https://lcts.cnrs.fr) (LCTS), [Université Bordeaux I](https://www.u-bordeaux.fr), France.
 * Summer 2005: Master I research fellow (PI [Pr. Wenyi Yan](https://users.monash.edu.au/~wyan)), Computational Engineering and Research Center (CERC), [University of Southern Queensland](https://www.unisq.edu.au) (USQ), Toowoomba, Australia.
 
 ### Awards, Scholarships & Grants
