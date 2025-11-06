@@ -3,7 +3,7 @@ title: "Uruguay!"
 date: "2025-11-03"
 categories: 
   - "News"
-image: "ciencias.jpg"
+image: "ingeniería.jpg"
 ---
 
 For the next month I will be a Visiting Professor at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), a mixed entity of the [Universidad de la República Uruguay (UdelaR)](https://udelar.edu.uy) and [CNRS](https://www.cnrs.fr), hosted by [Franz Chouly](https://fchouly.perso.math.cnrs.fr).
