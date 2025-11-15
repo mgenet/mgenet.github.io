@@ -82,6 +82,20 @@ In order to allow for long term reproducibility of research results, we now try 
 - Demos: [https://mgenet.github.io/Micro-Macro-Poro-paper-demos](https://mgenet.github.io/Micro-Macro-Poro-paper-demos)
 
 
+### [Škardová, Daby-Seesaram & Genet, 2025, Computational Mechanics.]
+
+- Title: Finite Element Neural Network Interpolation: Part I - Interpretable and Adaptative Discretization for Solving PDEs.
+- DOI: [https://doi.org/10.1007/s00466-025-02677-3](https://doi.org/10.1007/s00466-025-02677-3)
+- Demos: [https://alexandredabyseesaram.github.io/FENNI-I-paper-demo](https://alexandredabyseesaram.github.io/FENNI-I-paper-demo)
+
+
+### [Daby-Seesaram, Škardová & Genet, 2025, Computational Mechanics.]
+
+- Title: Finite element neural network interpolation: Part II—hybridisation with the proper generalised decomposition for non-linear surrogate modelling.
+- DOI: [https://doi.org/10.1007/s00466-025-02676-4](https://doi.org/10.1007/s00466-025-02676-4)
+- Demos: [https://alexandredabyseesaram.github.io/FENNI-II-PGD-paper-demo](https://alexandredabyseesaram.github.io/FENNI-II-PGD-paper-demo)
+
+
 ### [Manoochehrtayebi, Genet & Bel-Brunon, 2025, J. Biomech. Eng.]
 
 - Title: Micro-Poro-Mechanical Modeling of the Lung Parenchyma: Theoretical Modeling and Parameters Identification
