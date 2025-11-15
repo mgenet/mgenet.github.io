@@ -9,8 +9,34 @@
 <link>https://mgenet.github.io/news.html</link>
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
-<generator>quarto-1.8.25</generator>
-<lastBuildDate>Mon, 03 Nov 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Fri, 14 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>New paper on pulmonary micro-poro-mechanics</title>
+  <link>https://mgenet.github.io/posts/2025/2025-11-14 - new-paper-on-lung-micro-poro-mechanics/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Mahdi Manoochehrtayebi, Aline Bel-Brunon and I just published a paper in the <a href="https://asmedigitalcollection.asme.org/biomechanical">Journal of Biomechanical Engineering</a> entitled “Micro-Poro-Mechanical Modeling of the Lung Parenchyma: Theoretical Modeling and Parameters Identification”, cf.&nbsp;<a href="https://doi.org/10.1115/1.4070036">https://doi.org/10.1115/1.4070036</a> (<a href="https://smarttrack.kwglobal.com/smarttrack-cl/Download.aspx?sFile=/0BbhmdMnflT5jbtUWW+hyGfKxvdnZ6YuX1eb9/rkjVKChyS2gs0hAds8zUGOxnbJh6bHRDdQu1TY66hSTDoRtiLxBWmpwoI7JZM50tCzvOL4ZAMqTRTnhKqgbpHVs8E6xNuphIP13xLXBoKo1yoz1wKBRkH41WxLaymQjyzQPfvd0FzvLmjYXYK/MaSAVTszF73XThDWzyovJUq2803vA==">editor shared link</a>, <a href="https://hal.science/hal-04712866v1">HAL repository</a>, <a href="https://sdrive.cnrs.fr/s/KH8x3FwjkMg5gyA">preprint</a>).</p>
+<p>It is an extension of our recent paper [<a href="https://doi.org/10.1016/j.ijsolstr.2025.113354">Manoochehrtayebi, Bel-Brunon &amp; Genet (2025). Finite strain micro-poro-mechanics: Formulation and compared analysis with macro-poro-mechanics. International Journal of Solids and Structures, 317, 113354.</a>], where we specify the micro-model for the lung parenchyma, including (strain- and history-dependant) surface tension, and identifying material parameters based on experimental data from the literature.</p>
+<p>All computations from the paper (which are based on the <a href="https://github.com/mgenet/dolfin_mech">dolfin_mech</a> FEniCS-based library) are easily reproducible at <a href="https://manoochtayebi.github.io/Lung-micro-poro-paper-demos">https://manoochtayebi.github.io/Lung-micro-poro-paper-demos</a>, so do not hesitate to give it a try, and let us know how it goes!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2025/2025-11-14 - new-paper-on-lung-micro-poro-mechanics/surface_dependent_surface_tension.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></p>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2025/2025-11-14 - new-paper-on-lung-micro-poro-mechanics/</guid>
+  <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2025/2025-11-14 - new-paper-on-lung-micro-poro-mechanics/microscopic_scheme.png" medium="image" type="image/png" height="111" width="144"/>
+</item>
 <item>
   <title>Uruguay!</title>
   <link>https://mgenet.github.io/posts/2025/2025-11-03 - Uruguay/</link>
@@ -543,56 +569,6 @@
   <guid>https://mgenet.github.io/posts/2024/2024-10-01 - haotian-xiao-joins-the-team/</guid>
   <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2024/2024-10-01 - haotian-xiao-joins-the-team/haotian.png" medium="image" type="image/png" height="194" width="144"/>
-</item>
-<item>
-  <title>VPH2024</title>
-  <link>https://mgenet.github.io/posts/2024/2024-09-06 - VPH2024/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This week we are attending the 2024 Virtual Physiological Human Conference (<a href="https://vph-conference.org">VPH2024</a>):</p>
-<ul>
-<li><a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a> presented her work on “Bridging micro to macro in pulmonary mechanics: Interpretable neural networks for surrogate modelling”;</li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2024/2024-09-06 - VPH2024/katka.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-<ul>
-<li><a href="https://alexandredabyseesaram.github.io">Alexandre Daby-Seesaram</a> presented his work on “Hybridising standard reduced-order modelling methods with interpretable sparse neural networks for real-time patient specific lung simulations” (including Neural Network PGD);</li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2024/2024-09-06 - VPH2024/alexandre.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-<ul>
-<li>I had the chance to inaugurate the Lung Modeling I session with my talk on “Lung multiscale modeling and estimation”, and to chair the Lung Modeling II Session.</li>
-</ul>
-<p>We also got the chance to meet with old <a href="https://m3disim.saclay.inria.fr">MΞDISIM</a> members:</p>
-<ul>
-<li><a href="https://scholar.google.it/citations?user=w8yfecAAAAAJ">Federica Caforio</a>, who is now a University Assistant at the Department of Mathematics and Scientific Computing of the University of Graz, Austria;</li>
-<li><a href="https://www.linkedin.com/in/maria-s-gusseva">Maria Gusseva</a>, who is now a Postdoctoral Researcher at the UT Southwestern Medical Center in Dallas, USA;</li>
-<li><a href="https://profiles.utsouthwestern.edu/profile/195959/radomir-chabiniok.html">Radomir Chabiniok</a>, who is now an Associate Professor the UT Southwestern Medical Center in Dallas, USA.</li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2024/2024-09-06 - VPH2024/group2.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-<p>Looking forward to VPH2026 in Milano!</p>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/2024-09-06 - VPH2024/</guid>
-  <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2024/2024-09-06 - VPH2024/group1.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
