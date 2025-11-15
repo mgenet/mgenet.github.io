@@ -44,7 +44,7 @@ listing:
 
 <!-- - Fall 2025: Invited Professor (hosted by [Franz Chouly](https://fchouly.perso.math.cnrs.fr)) at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay. -->
 
-- 2025/11/06: Seminar at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay.
+<!-- - 2025/11/06: Seminar at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay. -->
 
 - 2025/11/20: General audience seminar at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay.
 
@@ -60,6 +60,5 @@ listing:
 
 ### Past
 
-(Scientific life is full of doubts and failure, the following list is heavily biased toward certainties and successes…)
-
-(Do not hesitate to subscribe via [RSS](https://mgenet.github.io/news.xml) or [LinkedIn](https://www.linkedin.com/in/martin-genet).)
+(Scientific life is full of doubts and failure, the following list is heavily biased toward certainties and successes…
+Anyway, do not hesitate to subscribe via [RSS](https://mgenet.github.io/news.xml) or [LinkedIn](https://www.linkedin.com/in/martin-genet).)
