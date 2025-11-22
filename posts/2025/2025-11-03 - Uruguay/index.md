@@ -12,4 +12,12 @@ Very much looking forward to it!
 
 ![Facultad de Ciencias](ciencias.jpg){width="50%" fig-align="center"}
 
-![Facultad de Ingeniería (an architectural ["landmark"](https://www.fing.edu.uy/es/plandeobras/el-edificio/historia))](ingeniería.jpg){width="50%" fig-align="center"}
+![Facultad de Ingeniería (an architectural ["landmark"](https://www.fing.edu.uy/es/plandeobras/el-edificio/historia))](ingeniería.jpg){width="66%" fig-align="center"}
+
+![Right behind the Facultad de Ingeniería](palm trees.jpg){width="66%" fig-align="center"}
+
+![General public seminar announcement](poster.png){width="50%" fig-align="center"}
+
+![General public seminar](seminar.jpg){width="66%" fig-align="center"}
+
+![Sunset on Montevideo](sunset.jpg){width="66%" fig-align="center"}
