@@ -9,8 +9,47 @@
 <link>https://mgenet.github.io/news.html</link>
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
-<generator>quarto-1.8.26</generator>
-<lastBuildDate>Fri, 14 Nov 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Mon, 05 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>New York!</title>
+  <link>https://mgenet.github.io/posts/2026/2026-01-05 - New York/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>For the next six month I will be a Visiting Professor at <a href="https://www.columbia.edu">Columbia</a>, hosted by <a href="https://www.me.columbia.edu/faculty/gerard-ateshian">Gerard Ateshian</a> as well as <a href="https://www.me.columbia.edu/faculty/kristin-myers">Kristin Myers</a> and <a href="https://www.me.columbia.edu/adrian-buganza-tepole">Adrian Buganza Tepole</a> through the <a href="https://alliance.columbia.edu">Alliance Program</a>. I will be giving introductory seminars in various group meetings through January, and a full seminar at the Mechanical Engineering Department in February. I will also take part in various teaching activities (notably Gerard Ateshian’s “Mixture theories for biological tissues” class), as well as organize dissemination events with local schools. This is such a perfect opportunity to share our recent results, learn new topics, and make new connections—very much looking forward to it!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2026/2026-01-05 - New York/Low Memorial Library + Alma Mater.jpg" class="img-fluid figure-img" style="width:50.0%"></p>
+<figcaption>The Low Memorial Library and Alma Mater Statue</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2026/2026-01-05 - New York/Butler Library.jpg" class="img-fluid figure-img" style="width:50.0%"></p>
+<figcaption>The Butler Library</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2026/2026-01-05 - New York/manhattan skyline from central park.jpg" class="img-fluid figure-img" style="width:50.0%"></p>
+<figcaption>Manhattan skyline from Central Park</figcaption>
+</figure>
+</div>
+<!-- ![Manhattan from Roosevelt Island](manhattan from roosevelt island.jpg){width="50%" fig-align="center"} -->
+<!-- ![United Nations Headquarters from Roosevelt Island](united nations headquarters from roosevelt island.jpg){width="50%" fig-align="center"} -->
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2026/2026-01-05 - New York/</guid>
+  <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2026/2026-01-05 - New York/.jpg" medium="image"/>
+</item>
 <item>
   <title>New paper on pulmonary micro-poro-mechanics</title>
   <link>https://mgenet.github.io/posts/2025/2025-11-14 - new-paper-on-lung-micro-poro-mechanics/</link>
@@ -569,30 +608,6 @@
   <guid>https://mgenet.github.io/posts/2024/2024-10-07 - new-paper-on-lung-modeling/</guid>
   <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2024/2024-10-07 - new-paper-on-lung-modeling/images/logo.png" medium="image" type="image/png" height="118" width="144"/>
-</item>
-<item>
-  <title>Haotian Xiao joins the team</title>
-  <link>https://mgenet.github.io/posts/2024/2024-10-01 - haotian-xiao-joins-the-team/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Haotian Xiao, who graduated from <em>École Centrale de Pékin</em> (China) and holds a Master from the <em>École Nationale des Ponts et Chaussées</em> (ENPC, France), just started his PhD in the team. Funded by the <em>Institut Polytechnique de Paris</em> (IPP) doctoral school, he will work on adding the pulmonary circulation to our lung model, in collaboration with Laurent Savale, David Montani &amp; Marc Humbert from the <em>Université Paris-Saclay</em>/INSERM <em>Hypertension Artérielle Pulmonaire: Physiopathologie et Innovation Thérapeutique</em> team and APHP. Welcome and good luck, Haotian!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2024/2024-10-01 - haotian-xiao-joins-the-team/haotian.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/2024-10-01 - haotian-xiao-joins-the-team/</guid>
-  <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2024/2024-10-01 - haotian-xiao-joins-the-team/haotian.png" medium="image" type="image/png" height="194" width="144"/>
 </item>
 </channel>
 </rss>
