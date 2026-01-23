@@ -9,7 +9,7 @@ listing:
   max-items: 50
   image-align: right
   image-height: 125pt
-  max-description-length: 125
+  max-description-length: 350
   categories: false
   sort-ui: false
   filter-ui: false
@@ -46,11 +46,15 @@ listing:
 
 <!-- - 2025/11/06: Seminar at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay. -->
 
-- 2025/11/20: General audience seminar at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay.
+<!-- - 2025/11/20: General audience seminar at the [French-Uruguayan Institute for Mathematics and Interactions (IFUMI)](https://irl-ifumi.apps.math.cnrs.fr), Montevideo, Uruguay. -->
 
-- 2025/12/09: Co-organization of [GdR MéPhy](https://mephysociety.wordpress.com) days on "Machine Learning in Mechanics and Physics", Paris, France.
+<!-- - 2025/12/09: Co-organization of [GdR MéPhy](https://mephysociety.wordpress.com) days on "Machine Learning in Mechanics and Physics", Paris, France. -->
 
-- Winter-Spring 2026: Invited Professor (hosted by [Gerard Ateshian](https://www.me.columbia.edu/faculty/gerard-ateshian) through the [Alliance Program](https://alliance.columbia.edu)) at [Columbia University](https://www.columbia.edu), New York, New York, USA.
+<!-- - Winter-Spring 2026: Invited Professor (hosted by [Gerard Ateshian](https://www.me.columbia.edu/faculty/gerard-ateshian) through the [Alliance Program](https://alliance.columbia.edu)) at [Columbia University](https://www.columbia.edu), New York, New York, USA. -->
+
+- 2026/02/27: Seminar at the [Mechanical Engineering Department](https://me.columbia.edu) of [Columbia University](https://www.columbia.edu), New York, New York, USA.
+
+- 2026/03/17: Seminar at the [Mechanical Engineering Department](https://engineering.msu.edu/about/departments/me) of [Michigan State University](https://www.msu.edu), East Lansing, Michigan, USA.
 
 - 2026/05/18 - 22: Keynote Lecturer at the [17th National Colloquium on Computational Mechanics (CSMA)](https://csma2026.sciencesconf.org), Giens, France.
 
