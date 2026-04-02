@@ -9,8 +9,33 @@
 <link>https://mgenet.github.io/news.html</link>
 <atom:link href="https://mgenet.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Martin Genet, Professor @ École Polytechnique</description>
-<generator>quarto-1.8.27</generator>
-<lastBuildDate>Mon, 05 Jan 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.36</generator>
+<lastBuildDate>Tue, 31 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>France Culture!</title>
+  <link>https://mgenet.github.io/posts/2026/2026-03-31 - France Culture/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Today <a href="https://alexandredabyseesaram.github.io">Alexandre Daby-Seesaram</a> (former postdoc in the team, who just started as an Assistant Professor at <a href="https://www.ensta.fr">ENSTA</a>) talked about our efforts toward pulmonary digital twins on French National Radio during an interview on Guillaume Erner’s show “Les chantiers de la recherche” (one of my favorite radio shows, which I highly recommend!). Here is the link to the replay: https://www.radiofrance.fr/franceculture/podcasts/les-chantiers-de-la-recherche/a-quoi-servent-les-jumeaux-numeriques-dans-la-sante-4006852 Thanks to Alexandre for his flawless pedagogy, and to Guillaume Erner &amp; Juliette Devaux for bringing real science to France Culture’s morning show every day!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://mgenet.github.io/posts/2026/2026-03-31 - France Culture/chantiers.jpg" class="img-fluid figure-img" style="width:50.0%"></p>
+<figcaption>Les chantiers de la recherche</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <guid>https://mgenet.github.io/posts/2026/2026-03-31 - France Culture/</guid>
+  <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://mgenet.github.io/posts/2026/2026-03-31 - France Culture/chantiers.webp" medium="image" type="image/webp"/>
+</item>
 <item>
   <title>New York!</title>
   <link>https://mgenet.github.io/posts/2026/2026-01-05 - New York/</link>
@@ -197,7 +222,7 @@
 <p><a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a>, <a href="https://alexandredabyseesaram.github.io">Alexandre Daby-Seesaram</a> and I just published two companion papers in <a href="https://link.springer.com/journal/466"><em>Computational Mechanics</em></a> entitled “Finite Element Neural Network Interpolation: I - Interpretable and Adaptive Discretization for Solving PDEs” (DOI: <a href="https://doi.org/10.1007/s00466-025-02677-3">https://doi.org/10.1007/s00466-025-02677-3</a>; ArXiv DOI: <a href="https://doi.org/10.48550/arXiv.2412.05719">https://doi.org/10.48550/arXiv.2412.05719</a>) and “Finite Element Neural Network Interpolation: II - Hybridization with the Proper Generalized Decomposition for non-linear surrogate modelling” (DOI: <a href="https://doi.org/10.1007/s00466-025-02676-4">https://doi.org/10.1007/s00466-025-02676-4</a>; ArXiv DOI: <a href="https://doi.org/10.48550/arXiv.2412.05714">https://doi.org/10.48550/arXiv.2412.05714</a>).</p>
 <p>We implemented our framework in a library called <a href="https://github.com/AlexandreDabySeesaram/NeuROM">NeuROM</a>, which is freely available, and as usual now we also publish jupyter notebooks to allow reproduction of the figures of the papers: <a href="https://alexandredabyseesaram.github.io/FENNI-I-paper-demo">Part I</a> and <a href="https://alexandredabyseesaram.github.io/FENNI-II-PGD-paper-demo">Part II</a>.</p>
 <p>Definitely let us know if you are interested and want to collaborate on these topics!</p>
-<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="snappy.mov"></video></div>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-big-play-centered vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="snappy.mov"></video></div>
 
 
 
@@ -541,7 +566,7 @@
 <p>Together with <a href="https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142">Kateřina Škardová</a> and <a href="https://alexandredabyseesaram.github.io">Alexandre Daby-Seesaram</a> we just submitted for publication two papers on “Finite Element Neural Network Interpolation”: Part I is on “Interpretable and Adaptive Discretization for Solving PDEs” and Part II on “Hybridisation with the Proper Generalised Decomposition for non-linear surrogate modelling”. Both preprints are on ArXiv: <a href="https://doi.org/10.48550/arXiv.2412.05719">Part I</a> and <a href="https://doi.org/10.48550/arXiv.2412.05714">Part II</a>.</p>
 <p>We implemented our framework in a library called <a href="https://github.com/AlexandreDabySeesaram/NeuROM">NeuROM</a>, which is freely available, and as usual now we also publish jupyter notebooks to allow reproduction of the figures of the papers: <a href="https://alexandredabyseesaram.github.io/FENNI-I-paper-demo">Part I</a> and <a href="https://alexandredabyseesaram.github.io/FENNI-II-PGD-paper-demo">Part II</a>.</p>
 <p>Definitely let us know if you are interested and want to collaborate on these topics!</p>
-<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="snappy.mov"></video></div>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-big-play-centered vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="snappy.mov"></video></div>
 
 
 
@@ -590,30 +615,6 @@
   <guid>https://mgenet.github.io/posts/2024/2024-11-01 - pm-idics-conference/</guid>
   <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
   <media:content url="https://mgenet.github.io/posts/2024/2024-11-01 - pm-idics-conference/pm-idics.png" medium="image" type="image/png" height="41" width="144"/>
-</item>
-<item>
-  <title>New paper on lung modeling</title>
-  <link>https://mgenet.github.io/posts/2024/2024-10-07 - new-paper-on-lung-modeling/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Alice Peyraut and I just published a paper in Biomechanics and Modeling in Mechanobiology (BMMB), introducing new boundary conditions for our lung model, including gravity and more physiological pleural pressure distributions, cf.&nbsp;<a href="https://doi.org/10.1007/s10237-024-01876-w">https://doi.org/10.1007/s10237-024-01876-w</a> (<a href="https://link.springer.com/epdf/10.1007/s10237-024-01876-w?sharing_token=TuYvGkFwmuPZSLGXMtvdcve4RwlQNchNByi7wbcMAY7Mq3ZVL9usuZLCnim_ByvgmMGt1_bIzml7NUcIAu6T6_JRpn3k-PPYoDLxIoEvRfV4aAoQsV3Uw58Qotc3K6Zk4dEWZo4IYU34MX08NO0Aqh6XH_EMxkXX-07hBqNMKxM%3D">editor shared link</a>, <a href="https://hal.science/hal-04663299">HAL repository</a>). As usual now all computations from the paper (which are based on the <a href="https://github.com/mgenet/dolfin_mech">dolfin_mech</a> FEniCS library) are easily reproducible at <a href="https://apeyraut.gitlabpages.inria.fr/gravity-modeling-paper-demos">https://apeyraut.gitlabpages.inria.fr/gravity-modeling-paper-demos</a>, so do not hesitate to give it a try—let us know how it goes!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="https://mgenet.github.io/posts/2024/2024-10-07 - new-paper-on-lung-modeling/images/logo.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:50.0%"></p>
-</figure>
-</div>
-
-
-
- ]]></description>
-  <category>News</category>
-  <guid>https://mgenet.github.io/posts/2024/2024-10-07 - new-paper-on-lung-modeling/</guid>
-  <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://mgenet.github.io/posts/2024/2024-10-07 - new-paper-on-lung-modeling/images/logo.png" medium="image" type="image/png" height="118" width="144"/>
 </item>
 </channel>
 </rss>
