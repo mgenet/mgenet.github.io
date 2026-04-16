@@ -52,11 +52,17 @@ listing:
 
 <!-- - Winter-Spring 2026: Invited Professor (hosted by [Gerard Ateshian](https://www.me.columbia.edu/faculty/gerard-ateshian) through the [Alliance Program](https://alliance.columbia.edu)) at [Columbia University](https://www.columbia.edu), New York, New York, USA. -->
 
-<!-- - 2026/02/27: Seminar at the [Mechanical Engineering Department](https://me.columbia.edu) of [Columbia University](https://www.columbia.edu), New York, New York, USA. -->
+- 2026/02/27: Seminar at the [Mechanical Engineering Department](https://me.columbia.edu) of [Columbia University](https://www.columbia.edu), New York, New York, USA.
 
-<!-- - 2026/03/17: Seminar at the [Mechanical Engineering Department](https://engineering.msu.edu/about/departments/me) of [Michigan State University](https://www.msu.edu), East Lansing, Michigan, USA. -->
+- 2026/03/13: Seminar at [Boston University](https://www.bu.edu) ([Bela Suki](https://www.bu.edu/eng/profile/bela-suki-ph-d)'s group), Massachusetts, USA.
 
-- 2026/05/18 - 22: Keynote Lecturer at the [17th National Colloquium on Computational Mechanics (CSMA)](https://csma2026.sciencesconf.org), Giens, France.
+- 2026/03/17: Seminar at the [Mechanical Engineering Department](https://engineering.msu.edu/about/departments/me) of [Michigan State University](https://www.msu.edu) (invited by [Lik Chuan Lee](https://engineering.msu.edu/directory/faculty/lclee)), East Lansing, Michigan, USA.
+
+- 2026/03/27: Seminar at the [Mechanical Engineering & Mechanics Department](https://engineering.lehigh.edu/meche) of [Lehigh University](https://www.lehigh.edu) (invited by [Natasha Vermaak](https://engineering.lehigh.edu/faculty/natasha-vermaak)), Bethlehem, Pennsylvania, USA.
+
+- 2026/05/20: Keynote Lecturer at the [17th National Colloquium on Computational Mechanics (CSMA)](https://csma2026.sciencesconf.org), Giens, France.
+
+- 2026/05/29: Seminar at the [Applied Mathematics Department](https://appliedmath.brown.edu) ([Scientific Computing and Numerical Analysis Group](https://sites.brown.edu/scientific-computing), invited by [George Karniadakis](https://engineering.brown.edu/people/george-e-karniadakis)) of [Brown University](https://www.brown.edu), Providence, Rhode Island, USA.
 
 - 2026/06/29 - 07/03: Lecturer at the [CISM](https://cism.it) courses on "Mechanics of the Deep Lung", Udine, Italy.
 
