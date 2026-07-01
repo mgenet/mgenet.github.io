@@ -58,21 +58,21 @@ In order to allow for long term reproducibility of research results, we now try 
 
 - Title: A model of mechanical loading of the lungs including gravity and a balancing heterogeneous pleural pressure
 - DOI: [https://doi.org/10.1007/s10237-024-01876-w](https://doi.org/10.1007/s10237-024-01876-w)
-- Demos: [https://alicepeyraut.github.io/gravity_modeling_paper_demos_github](https://alicepeyraut.github.io/gravity_modeling_paper_demos_github)
+- Demos: [https://alicepeyraut.github.io/gravity_modeling_paper_demos](https://alicepeyraut.github.io/gravity_modeling_paper_demos)
 
 
 ### [Peyraut & Genet, 2025, C. R. Méca.]
 
 - Title: Finite strain formulation of the discrete equilibrium gap principle: application to direct parameter estimation from large full-fields measurements
 - DOI: [https://doi.org/10.5802/crmeca.279](https://doi.org/10.5802/crmeca.279)
-- Demos: [https://alicepeyraut.github.io/identification-methods-paper-demos-github](https://alicepeyraut.github.io/identification-methods-paper-demos-github)
+- Demos: [https://alicepeyraut.github.io/identification-methods-paper-demos](https://alicepeyraut.github.io/identification-methods-paper-demos)
 
 
 ### [Peyraut & Genet, 2025, J. Biomech. Eng.]
 
 - Title: Inverse Uncertainty Quantification for Personalized Biomechanical Modeling: Application to Pulmonary Poromechanical Digital Twins
 - DOI: [https://doi.org/10.1115/1.4068578](https://doi.org/10.1115/1.4068578)
-- Demos: [https://alicepeyraut.github.io/uncertainty-quantification-paper-demos-github](https://alicepeyraut.github.io/uncertainty-quantification-paper-demos-github)
+- Demos: [https://alicepeyraut.github.io/uncertainty-quantification-paper-demos](https://alicepeyraut.github.io/uncertainty-quantification-paper-demos)
 
 
 ### [Manoochehrtayebi, Bel-Brunon & Genet, 2025, Int. J. Sol. Struct.]
