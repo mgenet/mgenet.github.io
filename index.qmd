@@ -15,7 +15,7 @@ about:
 #     - icon: github
 #       text: Github
 #       href: https://github.com
-image: martin-2015.jpg
+image: martin-2026.jpeg
 ---
 
 ### Martin Genet
