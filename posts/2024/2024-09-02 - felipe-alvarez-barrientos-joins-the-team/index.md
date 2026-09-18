@@ -4,6 +4,7 @@ date: "2024-09-02"
 categories:
   - "News"
 image: "felipe.jpg"
+image-position: "50% 33%"
 ---
 
 Felipe Álvarez-Barrientos, who holds a Master of Science in Engineering from the _Pontificia Universidad Católica de Chile_ in Santiago, just started his PhD in the team.

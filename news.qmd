@@ -7,8 +7,8 @@ listing:
   sort: "date desc"
   type: default
   max-items: 50
+  page-size: 50
   image-align: right
-  image-height: 125pt
   max-description-length: 350
   categories: false
   sort-ui: false

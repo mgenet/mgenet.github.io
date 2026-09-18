@@ -1,1 +1,32 @@
 /* css styles */
+
+/* News listing thumbnails: force a consistent crop instead of letting
+   Quarto stretch images of varying aspect ratios to a fixed height. */
+div.quarto-post {
+  /* Guarantee breathing room around the separator line, regardless of
+     whether the thumbnail or the text ends up being the taller column. */
+  padding-top: 0.6em;
+  padding-bottom: 0.6em;
+}
+
+div.quarto-post .thumbnail {
+  display: flex;
+  align-items: center;
+}
+
+/* Without this, the <a> wrapping the image is a flex item with
+   flex-grow: 0, so it shrinks to the image's natural width instead of
+   filling the column when the source image is narrower than the column. */
+div.quarto-post .thumbnail > a {
+  width: 100%;
+}
+
+div.quarto-post .thumbnail img.thumbnail-image {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}

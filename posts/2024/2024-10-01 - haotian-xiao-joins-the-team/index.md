@@ -4,6 +4,7 @@ date: "2024-10-01"
 categories:
   - "News"
 image: "haotian.png"
+image-position: "50% 25%"
 ---
 
 Haotian Xiao, who graduated from _École Centrale de Pékin_ (China) and holds a Master from the _École Nationale des Ponts et Chaussées_ (ENPC, France), just started his PhD in the team.
