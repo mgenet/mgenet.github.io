@@ -4,6 +4,7 @@ date: "2026-08-17"
 categories: 
   - "News"
 image: "adrian.jpg"
+image-position: "top"
 ---
 
 [Adrian Buganza Tepole](https://www.me.columbia.edu/adrian-buganza-tepole), Associate Professor in the [Department of Mechanical Engineering](https://me.columbia.edu) at [Columbia University](https://www.columbia.edu), is joining us as a Visiting Professor at [École Polytechnique](https://www.polytechnique.edu) in the [Solid Mechanics Laboratory](https://lms.ip-paris.fr) (LMS).

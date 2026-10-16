@@ -4,6 +4,7 @@ date: "2023-10-01"
 categories:
   - "News"
 image: "IMG_0554b-1.jpg"
+image-position: "top"
 ---
 
 [Kateřina Škardová](https://www.linkedin.com/in/kate%C5%99ina-%C5%A1kardov%C3%A1-a1a7b4142), who recently defended her PhD at the Department of Mathematics of Czech Technical University in Prague, is starting as a postdoc in the team.

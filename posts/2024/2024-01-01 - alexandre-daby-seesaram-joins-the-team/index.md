@@ -4,6 +4,7 @@ date: "2024-01-01"
 categories:
   - "News"
 image: "alexandre.jpg"
+image-position: "top"
 ---
 
 [Alexandre Daby-Seesaram](https://alexandredabyseesaram.github.io), who recently defended his PhD at the Paris-Saclay Mechanics Laboratory of École Normale Supérieure de Paris-Saclay, is starting as a postdoc in the team.
