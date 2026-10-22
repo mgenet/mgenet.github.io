@@ -82,14 +82,14 @@ In order to allow for long term reproducibility of research results, we now try 
 - Demos: [https://mgenet.github.io/Micro-Macro-Poro-paper-demos](https://mgenet.github.io/Micro-Macro-Poro-paper-demos)
 
 
-### [Škardová, Daby-Seesaram & Genet, 2025, Computational Mechanics.]
+### [Škardová, Daby-Seesaram & Genet, 2025, Computational Mechanics]
 
 - Title: Finite Element Neural Network Interpolation: Part I - Interpretable and Adaptative Discretization for Solving PDEs.
 - DOI: [https://doi.org/10.1007/s00466-025-02677-3](https://doi.org/10.1007/s00466-025-02677-3)
 - Demos: [https://alexandredabyseesaram.github.io/FENNI-I-paper-demo](https://alexandredabyseesaram.github.io/FENNI-I-paper-demo)
 
 
-### [Daby-Seesaram, Škardová & Genet, 2025, Computational Mechanics.]
+### [Daby-Seesaram, Škardová & Genet, 2025, Computational Mechanics]
 
 - Title: Finite element neural network interpolation: Part II—hybridisation with the proper generalised decomposition for non-linear surrogate modelling.
 - DOI: [https://doi.org/10.1007/s00466-025-02676-4](https://doi.org/10.1007/s00466-025-02676-4)
@@ -101,3 +101,17 @@ In order to allow for long term reproducibility of research results, we now try 
 - Title: Micro-Poro-Mechanical Modeling of the Lung Parenchyma: Theoretical Modeling and Parameters Identification
 - DOI: [https://doi.org/10.1115/1.4070036](https://doi.org/10.1115/1.4070036)
 - Demos: [https://manoochtayebi.github.io/Lung-micro-poro-paper-demos](https://manoochtayebi.github.io/Lung-micro-poro-paper-demos)
+
+
+### [Chibli, Genet & Imperiale, 2026, C. R. Méca.]
+
+- Title: A class of optimal virtual fields for inverse problems in elasticity
+- DOI: [https://doi.org/10.5802/crmeca.361](https://doi.org/10.5802/crmeca.361)
+- Demos: [https://nchibli.github.io/Optimal-Virtual-Fields-Paper-Demos](https://nchibli.github.io/Optimal-Virtual-Fields-Paper-Demos)
+
+
+### [Chibli, Genet & Imperiale, 2026, Inverse Problems]
+
+- Title: Stability analysis of a new curl-based full field reconstruction method in 2D isotropic nearly-incompressible elasticity
+- DOI: [https://doi.org/10.1088/1361-6420/ae6d2e](https://doi.org/10.1088/1361-6420/ae6d2e)
+- Demos: [https://nchibli.github.io/Curl-Based-Reconstruction-Paper-Demos](https://nchibli.github.io/Curl-Based-Reconstruction-Paper-Demos)
